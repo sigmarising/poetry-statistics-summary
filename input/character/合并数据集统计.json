@@ -1,0 +1,56 @@
+{
+    "summary": {
+        "PoetsSum": 11328,
+        "PoemsSum": 279810
+    },
+    "dynasty": {
+        "元": {
+            "PoetsSum": 433,
+            "PoemsSum": 10361
+        },
+        "先秦": {
+            "PoetsSum": 8,
+            "PoemsSum": 452
+        },
+        "南北朝": {
+            "PoetsSum": 49,
+            "PoemsSum": 1726
+        },
+        "唐": {
+            "PoetsSum": 2407,
+            "PoemsSum": 45358
+        },
+        "宋": {
+            "PoetsSum": 7930,
+            "PoemsSum": 204722
+        },
+        "明": {
+            "PoetsSum": 162,
+            "PoemsSum": 11114
+        },
+        "汉": {
+            "PoetsSum": 25,
+            "PoemsSum": 1013
+        },
+        "清": {
+            "PoetsSum": 235,
+            "PoemsSum": 3048
+        },
+        "辽": {
+            "PoetsSum": 9,
+            "PoemsSum": 21
+        },
+        "金": {
+            "PoetsSum": 23,
+            "PoemsSum": 821
+        },
+        "隋": {
+            "PoetsSum": 14,
+            "PoemsSum": 174
+        },
+        "魏晋": {
+            "PoetsSum": 33,
+            "PoemsSum": 1000
+        }
+    }
+}
