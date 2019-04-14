@@ -47,7 +47,8 @@ def main():
         "魏晋": Counter()
     }
     top_dir = settings.INPUT_DIR1
-    r_marks = re.compile(r"，|。|“|”|？|！|《|》|、")
+    r_marks = re.compile("|".join(settings.MARKS))
+    r_classical = re.compile("|".join(settings.CLASSICAL))
     print(ColorLogDecorator.green("Step1. DONE"))
 
     # 获取所有诗词正文 并去掉标点符号
@@ -63,7 +64,7 @@ def main():
                     for item in data["poems"]:
                         raw_str = item["content"]
                         if raw_str:
-                            dynasty_str[dynasty] += "".join(r_marks.split(raw_str))
+                            dynasty_str[dynasty] += "".join(r_classical.split("".join(r_marks.split(raw_str))))
     print(ColorLogDecorator.green("Step2. DONE"))
 
     # 统计信息
