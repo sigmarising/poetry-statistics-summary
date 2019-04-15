@@ -83,9 +83,9 @@ def main():
         output = {}
         print(ColorLogDecorator.yellow("  Handling: " + k))
         for item in v.most_common(settings.TOP_N):
-            output[item[0]] = []
+            output[item[0]] = {}
             for k1, v1 in dynasty_counter.items():  # 对每个朝代的 top N 常用字 统计其在各个朝代的常用频率
-                output[item[0]].append({k1: v1[item[0]] / len(dynasty_str[k1])})
+                output[item[0]][k1] = v1[item[0]] / len(dynasty_str[k1])
         file_path = os.path.join(output_path, k + ".json")
         with open(file_path, "w+", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=4)
@@ -95,10 +95,10 @@ def main():
         sum_len += len(v)
     print(ColorLogDecorator.yellow("  Handling: Summary"))
     for item in sum_counter.most_common(settings.TOP_N):
-        output[item[0]] = [{"总": item[1] / sum_len}]
+        output[item[0]] = {"汇总": item[1] / sum_len}
         for k, v in dynasty_counter.items():
-            output[item[0]].append({k: v[item[0]] / len(dynasty_str[k])})
-    with open(os.path.join(output_path, "summary.json"), "w+", encoding="utf-8") as f:
+            output[item[0]][k] = v[item[0]] / len(dynasty_str[k])
+    with open(os.path.join(output_path, "汇总.json"), "w+", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=4)
     print(ColorLogDecorator.green("Step4. DONE"))
 

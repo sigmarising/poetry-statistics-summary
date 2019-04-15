@@ -2,8 +2,9 @@
 .idea
 .vscode
 
-# output dir
+# output files
 output/
+output.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
