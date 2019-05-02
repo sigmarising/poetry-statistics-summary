@@ -1,0 +1,419 @@
+句 O
+
+欲 O
+雪 O
+尽 O
+时 O
+携 O
+酒 O
+去 O
+
+无 O
+人 O
+知 O
+处 O
+得 O
+花 O
+开 O
+
+泊 O
+钓 O
+台 O
+
+汉 O
+业 O
+中 O
+兴 O
+彼 O
+一 O
+时 O
+
+先 O
+生 O
+名 O
+与 O
+日 O
+星 O
+垂 O
+
+南 O
+阳 O
+遗 O
+庙 O
+今 O
+荒 O
+草 O
+
+何 O
+似 O
+桐 O
+江 O
+百 O
+世 O
+祠 O
+
+泊 O
+钓 O
+台 O
+
+洲 O
+渚 O
+寒 O
+云 O
+薄 O
+暮 O
+天 O
+
+萧 O
+萧 O
+灯 O
+火 O
+落 O
+帆 O
+边 O
+
+严 O
+陵 O
+滩 O
+下 O
+孤 O
+舟 O
+远 O
+
+一 O
+夜 O
+归 O
+心 O
+听 O
+雨 O
+眠 O
+
+瑞 O
+香 O
+花 O
+
+众 O
+妙 O
+与 O
+春 O
+竞 O
+
+纷 O
+纷 O
+持 O
+所 O
+长 O
+
+此 O
+花 O
+最 O
+幽 O
+远 O
+
+如 O
+以 O
+礼 O
+自 O
+将 O
+
+猗 O
+兰 O
+敢 O
+回 O
+步 O
+
+檐 O
+卜 O
+亦 O
+退 O
+藏 O
+
+泊 O
+钓 O
+台 O
+
+衮 O
+衣 O
+但 O
+决 O
+妖 O
+邪 O
+谶 O
+
+茅 O
+士 O
+先 O
+封 O
+不 O
+义 O
+臣 O
+
+须 O
+信 O
+俯 O
+随 O
+鸡 O
+鹜 O
+食 O
+
+岂 O
+如 O
+湖 O
+海 O
+一 O
+闲 O
+身 O
+
+题 O
+闯 O
+山 O
+亭 O
+
+卷 O
+帘 O
+新 O
+雨 O
+霁 O
+
+伏 O
+槛 O
+孤 O
+云 O
+没 O
+
+心 O
+赏 O
+信 O
+无 O
+同 O
+
+佳 O
+人 O
+眇 O
+天 O
+末 O
+
+泊 O
+钓 O
+台 O
+
+白 O
+鹤 O
+千 O
+秋 O
+去 O
+不 O
+归 O
+
+山 O
+川 O
+萧 O
+瑟 O
+閟 O
+光 O
+辉 O
+
+孙 O
+郎 O
+祖 O
+墓 O
+今 O
+无 O
+主 O
+
+不 O
+及 O
+先 O
+生 O
+一 O
+钓 O
+矶 O
+
+月 O
+坡 O
+亭 O
+李 O
+耆 O
+明 O
+见 O
+菊 O
+
+初 O
+阳 O
+散 O
+微 O
+和 O
+
+晞 O
+露 O
+耿 O
+余 O
+明 O
+
+引 O
+花 O
+吸 O
+其 O
+精 O
+
+助 O
+我 O
+养 O
+修 O
+龄 O
+
+人 O
+生 O
+凭 O
+化 O
+迁 O
+
+日 O
+夜 O
+枯 O
+与 O
+荣 O
+
+聊 O
+为 O
+寂 O
+寞 O
+游 O
+
+放 O
+此 O
+真 O
+率 O
+情 O
+
+月 O
+坡 O
+亭 O
+李 O
+耆 O
+明 O
+见 O
+菊 O
+
+我 O
+怀 O
+渊 O
+明 O
+真 O
+
+千 O
+载 O
+犹 O
+神 O
+交 O
+
+重 O
+吟 O
+九 O
+日 O
+诗 O
+
+风 O
+节 O
+殊 O
+未 O
+凋 O
+
+良 O
+辰 O
+不 O
+再 O
+举 O
+
+秋 O
+气 O
+日 O
+以 O
+高 O
+
+凄 O
+飚 O
+送 O
+落 O
+景 O
+
+余 O
+霞 O
+敛 O
+尘 O
+霄 O
+
+万 O
+象 O
+为 O
+我 O
+役 O
+
+天 O
+机 O
+亦 O
+良 O
+劳 O
+
+摩 O
+挲 O
+膝 O
+间 O
+桐 O
+
+感 O
+此 O
+爨 O
+下 O
+焦 O
+
+时 O
+时 O
+出 O
+奇 O
+音 O
+
+散 O
+我 O
+心 O
+郁 O
+陶 O
+
+吊 O
+子 O
+陵 O
+钓 O
+台 O
+
+先 O
+生 O
+高 O
+隐 O
+事 O
+如 O
+何 O
+
+岂 O
+谓 O
+功 O
+名 O
+不 O
+足 O
+多 O
+
+知 O
+道 O
+故 O
+人 O
+能 O
+辨 O
+事 O
+
+一 O
+竿 O
+赢 O
+得 O
+钓 O
+清 O
+波 O
+

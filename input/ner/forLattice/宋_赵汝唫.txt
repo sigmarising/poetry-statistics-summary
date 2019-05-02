@@ -1,0 +1,460 @@
+游 O
+洞 O
+霄 O
+
+细 O
+雨 O
+吹 O
+凉 O
+客 O
+袂 O
+分 O
+
+青 O
+灯 O
+梦 O
+短 O
+苦 O
+思 O
+君 O
+
+洞 O
+仙 O
+应 O
+快 O
+登 O
+临 O
+眼 O
+
+尽 O
+向 O
+山 O
+边 O
+扫 O
+白 O
+云 O
+
+栖 O
+真 O
+洞 O
+
+幅 O
+巾 O
+洒 O
+松 O
+露 O
+
+双 O
+袖 O
+抖 O
+衣 O
+尘 O
+
+可 O
+耐 O
+人 O
+间 O
+暑 O
+
+来 O
+寻 O
+洞 O
+里 O
+春 O
+
+座 O
+分 O
+云 O
+骨 O
+冷 O
+
+屐 O
+隐 O
+甃 O
+纹 O
+新 O
+
+鹤 O
+近 O
+清 O
+尊 O
+舞 O
+
+如 O
+留 O
+欲 O
+去 O
+宾 O
+
+山 O
+
+茅 O
+屋 O
+初 O
+寒 O
+夜 O
+
+衾 O
+裯 O
+整 O
+未 O
+成 O
+
+烹 O
+泉 O
+沙 O
+鼎 O
+忆 O
+
+读 O
+易 O
+纸 O
+窗 O
+明 O
+
+菊 O
+上 O
+霜 O
+偏 O
+力 O
+
+梅 O
+边 O
+日 O
+最 O
+清 O
+
+孤 O
+吟 O
+谁 O
+与 O
+和 O
+
+落 O
+叶 O
+上 O
+阶 O
+鸣 O
+
+朝 O
+山 O
+
+犬 O
+入 O
+五 O
+云 O
+音 O
+信 O
+绝 O
+
+凤 O
+楼 O
+凝 O
+碧 O
+悄 O
+无 O
+声 O
+
+焚 O
+香 O
+古 O
+洞 O
+步 O
+虚 O
+夜 O
+
+露 O
+湿 O
+松 O
+花 O
+空 O
+月 O
+明 O
+
+别 O
+朱 O
+子 O
+大 O
+苏 O
+名 O
+叟 O
+
+薄 O
+宦 O
+尘 O
+埃 O
+易 O
+满 O
+襟 O
+
+问 O
+盟 O
+犹 O
+喜 O
+盍 O
+朋 O
+簪 O
+
+只 O
+今 O
+风 O
+月 O
+一 O
+杯 O
+酒 O
+
+他 O
+日 O
+云 O
+山 O
+{ O
+千 O
+右 O
+下 O
+加 O
+一 O
+点 O
+} O
+里 O
+心 O
+
+杨 O
+柳 O
+阴 O
+疎 O
+秋 O
+馆 O
+静 O
+
+芙 O
+蓉 O
+香 O
+冷 O
+暮 O
+江 O
+深 O
+
+潮 O
+回 O
+一 O
+信 O
+西 O
+兴 O
+渡 O
+
+为 O
+寄 O
+相 O
+思 O
+别 O
+后 O
+吟 O
+
+游 O
+洞 O
+霄 O
+
+九 O
+锁 O
+扃 O
+仙 O
+窟 O
+
+栖 O
+真 O
+隔 O
+茂 O
+林 O
+
+地 O
+灵 O
+泉 O
+石 O
+秘 O
+
+岩 O
+古 O
+薜 O
+萝 O
+侵 O
+
+屐 O
+践 O
+东 O
+册 O
+胜 O
+
+樽 O
+倾 O
+北 O
+海 O
+深 O
+
+主 O
+人 O
+娱 O
+客 O
+兴 O
+
+唤 O
+起 O
+玉 O
+龙 O
+吟 O
+
+居 O
+苦 O
+
+去 O
+郭 O
+近 O
+一 O
+里 O
+
+结 O
+茅 O
+才 O
+数 O
+间 O
+
+红 O
+尘 O
+飞 O
+不 O
+到 O
+
+幽 O
+事 O
+颇 O
+相 O
+关 O
+
+凿 O
+石 O
+分 O
+流 O
+水 O
+
+移 O
+松 O
+补 O
+断 O
+山 O
+
+栖 O
+禽 O
+忙 O
+似 O
+我 O
+
+日 O
+落 O
+未 O
+知 O
+还 O
+
+游 O
+洞 O
+霄 O
+
+昨 O
+日 O
+始 O
+骑 O
+驴 O
+
+今 O
+朝 O
+共 O
+跨 O
+鱼 O
+
+一 O
+官 O
+尘 O
+坎 O
+璮 O
+
+三 O
+迳 O
+木 O
+扶 O
+疎 O
+
+童 O
+返 O
+还 O
+知 O
+白 O
+
+身 O
+轻 O
+继 O
+寝 O
+虚 O
+
+道 O
+传 O
+传 O
+便 O
+得 O
+
+元 O
+乏 O
+枕 O
+中 O
+书 O
+
+送 O
+梅 O
+窗 O
+兄 O
+
+离 O
+歌 O
+休 O
+再 O
+叠 O
+
+我 O
+亦 O
+不 O
+堪 O
+闻 O
+
+山 O
+接 O
+诗 O
+愁 O
+去 O
+
+云 O
+随 O
+别 O
+袂 O
+分 O
+
+官 O
+閒 O
+宁 O
+问 O
+禄 O
+
+命 O
+薄 O
+谩 O
+能 O
+文 O
+
+怅 O
+望 O
+梅 O
+边 O
+屋 O
+
+花 O
+开 O
+更 O
+忆 O
+君 O
+

@@ -1,0 +1,500 @@
+招 O
+西 O
+洞 O
+道 O
+者 O
+
+危 O
+峰 O
+抹 O
+黛 O
+夹 O
+晴 O
+川 O
+
+树 O
+簇 O
+红 O
+英 O
+草 O
+碧 O
+烟 O
+
+樵 O
+客 O
+云 O
+僧 O
+两 O
+无 O
+事 O
+
+此 O
+中 O
+堪 O
+去 O
+觅 O
+灵 O
+仙 O
+
+山 O
+中 O
+寄 O
+崔 O
+谏 O
+议 O
+
+半 O
+生 O
+猿 O
+鸟 O
+共 O
+山 O
+居 O
+
+吟 O
+月 O
+吟 O
+风 O
+两 O
+鬓 O
+疏 O
+
+新 O
+句 O
+未 O
+尝 O
+忘 O
+教 O
+化 O
+
+上 O
+才 O
+争 O
+忍 O
+不 O
+吹 O
+嘘 O
+
+全 O
+家 O
+欲 O
+去 O
+干 O
+戈 O
+后 O
+
+大 O
+国 O
+中 O
+兴 O
+礼 O
+乐 O
+初 O
+
+从 O
+此 O
+升 O
+腾 O
+休 O
+说 O
+命 O
+
+只 O
+希 O
+公 O
+道 O
+数 O
+封 O
+书 O
+
+学 O
+仙 O
+词 O
+寄 O
+顾 O
+云 O
+
+记 O
+得 O
+初 O
+传 O
+九 O
+转 O
+方 O
+
+碧 O
+云 O
+峰 O
+下 O
+祝 O
+虚 O
+皇 O
+
+丹 O
+砂 O
+未 O
+熟 O
+心 O
+徒 O
+切 O
+
+白 O
+日 O
+难 O
+留 O
+鬓 O
+欲 O
+苍 O
+
+无 O
+路 O
+洞 O
+天 O
+寻 O
+穆 O
+满 O
+
+有 O
+时 O
+人 O
+世 O
+美 O
+刘 O
+郎 O
+
+仙 O
+人 O
+恩 O
+重 O
+何 O
+由 O
+报 O
+
+焚 O
+尽 O
+星 O
+坛 O
+午 O
+夜 O
+香 O
+
+句 O
+
+投 O
+文 O
+得 O
+仕 O
+而 O
+今 O
+少 O
+
+佩 O
+印 O
+还 O
+家 O
+古 O
+所 O
+荣 O
+
+喜 O
+杜 O
+荀 O
+鹤 O
+及 O
+第 O
+
+深 O
+岩 O
+贫 O
+复 O
+病 O
+
+榜 O
+到 O
+见 O
+君 O
+名 O
+
+贫 O
+病 O
+浑 O
+如 O
+失 O
+
+山 O
+川 O
+顿 O
+觉 O
+清 O
+
+一 O
+春 O
+新 O
+酒 O
+兴 O
+
+四 O
+海 O
+旧 O
+诗 O
+声 O
+
+日 O
+使 O
+能 O
+吟 O
+者 O
+
+西 O
+来 O
+步 O
+步 O
+轻 O
+
+赴 O
+举 O
+出 O
+山 O
+留 O
+寄 O
+山 O
+居 O
+郑 O
+参 O
+军 O
+
+还 O
+如 O
+费 O
+冠 O
+卿 O
+
+向 O
+此 O
+振 O
+高 O
+名 O
+
+肯 O
+羡 O
+鱼 O
+须 O
+美 O
+
+长 O
+夸 O
+鹤 O
+氅 O
+轻 O
+
+理 O
+琴 O
+寒 O
+指 O
+倦 O
+
+试 O
+药 O
+黑 O
+髭 O
+生 O
+
+时 O
+泰 O
+难 O
+云 O
+卧 O
+
+随 O
+看 O
+急 O
+诏 O
+行 O
+
+寄 O
+献 O
+山 O
+中 O
+顾 O
+公 O
+员 O
+外 O
+
+抽 O
+却 O
+朝 O
+簪 O
+著 O
+钓 O
+蓑 O
+
+近 O
+来 O
+声 O
+迹 O
+转 O
+巍 O
+峨 O
+
+祥 O
+麟 O
+避 O
+网 O
+虽 O
+山 O
+野 O
+
+丹 O
+凤 O
+衔 O
+书 O
+即 O
+薜 O
+萝 O
+
+乍 O
+隐 O
+文 O
+章 O
+情 O
+更 O
+逸 O
+
+久 O
+闲 O
+经 O
+济 O
+术 O
+翻 O
+多 O
+
+深 O
+惭 O
+未 O
+副 O
+吹 O
+嘘 O
+力 O
+
+竟 O
+困 O
+风 O
+埃 O
+争 O
+奈 O
+何 O
+
+题 O
+顾 O
+正 O
+字 O
+谿 O
+居 O
+
+高 O
+敞 O
+吟 O
+轩 O
+近 O
+钓 O
+湾 O
+
+尘 O
+中 O
+来 O
+似 O
+出 O
+人 O
+间 O
+
+若 O
+教 O
+明 O
+月 O
+休 O
+生 O
+桂 O
+
+应 O
+得 O
+危 O
+时 O
+共 O
+掩 O
+关 O
+
+春 O
+酒 O
+夜 O
+棋 O
+难 O
+放 O
+客 O
+
+短 O
+篱 O
+疏 O
+竹 O
+不 O
+遮 O
+山 O
+
+莫 O
+夸 O
+恬 O
+淡 O
+胜 O
+荣 O
+禄 O
+
+雁 O
+引 O
+行 O
+高 O
+未 O
+许 O
+闲 O
+
+寄 O
+尉 O
+迟 O
+侍 O
+御 O
+（ O
+一 O
+作 O
+郎 O
+） O
+
+我 O
+眠 O
+青 O
+嶂 O
+弄 O
+澄 O
+潭 O
+
+君 O
+戴 O
+貂 O
+蝉 O
+白 O
+玉 O
+篸 O
+
+应 O
+向 O
+谢 O
+公 O
+楼 O
+上 O
+望 O
+
+九 O
+华 O
+山 O
+色 O
+在 O
+西 O
+南 O
+

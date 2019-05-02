@@ -1,0 +1,899 @@
+句 O
+
+欲 O
+谒 O
+元 O
+戎 O
+无 O
+介 O
+绍 O
+
+薛 O
+能 O
+诗 O
+版 O
+在 O
+雕 O
+堂 O
+
+上 O
+元 O
+雨 O
+
+淡 O
+月 O
+微 O
+云 O
+外 O
+
+街 O
+泥 O
+小 O
+雨 O
+馀 O
+
+人 O
+如 O
+墟 O
+市 O
+散 O
+
+灯 O
+似 O
+晓 O
+星 O
+疏 O
+
+杏 O
+
+殷 O
+红 O
+鄙 O
+桃 O
+艳 O
+
+淡 O
+白 O
+笑 O
+梨 O
+花 O
+
+落 O
+处 O
+飘 O
+微 O
+霰 O
+
+繁 O
+时 O
+叠 O
+碎 O
+霞 O
+
+苑 O
+宜 O
+开 O
+帝 O
+里 O
+
+坛 O
+称 O
+在 O
+儒 O
+家 O
+
+丽 O
+日 O
+明 O
+珠 O
+箔 O
+
+清 O
+香 O
+袭 O
+绛 O
+纱 O
+
+正 O
+旦 O
+病 O
+中 O
+
+千 O
+官 O
+簪 O
+笏 O
+俨 O
+成 O
+行 O
+
+春 O
+逐 O
+銮 O
+舆 O
+出 O
+建 O
+章 O
+
+丹 O
+凤 O
+案 O
+明 O
+分 O
+曙 O
+色 O
+
+绛 O
+纱 O
+袍 O
+暖 O
+起 O
+天 O
+香 O
+
+旌 O
+旗 O
+影 O
+里 O
+陈 O
+方 O
+物 O
+
+金 O
+石 O
+声 O
+中 O
+举 O
+寿 O
+觞 O
+
+可 O
+惜 O
+龙 O
+墀 O
+立 O
+班 O
+处 O
+
+刘 O
+生 O
+独 O
+自 O
+卧 O
+清 O
+漳 O
+
+诗 O
+一 O
+首 O
+
+张 O
+乐 O
+鱼 O
+龙 O
+侵 O
+岸 O
+听 O
+
+赋 O
+诗 O
+贾 O
+客 O
+倚 O
+船 O
+看 O
+
+他 O
+年 O
+得 O
+第 O
+彤 O
+庭 O
+直 O
+
+拜 O
+疏 O
+终 O
+求 O
+鄂 O
+渚 O
+官 O
+
+句 O
+
+早 O
+晚 O
+无 O
+尘 O
+事 O
+
+诗 O
+三 O
+首 O
+
+贝 O
+阙 O
+琳 O
+宫 O
+紫 O
+雾 O
+深 O
+
+凤 O
+凰 O
+仙 O
+乐 O
+尚 O
+愔 O
+愔 O
+
+鼎 O
+湖 O
+往 O
+事 O
+三 O
+千 O
+载 O
+
+石 O
+笋 O
+青 O
+春 O
+一 O
+万 O
+寻 O
+
+挺 O
+立 O
+不 O
+教 O
+凡 O
+草 O
+长 O
+
+削 O
+成 O
+应 O
+免 O
+俗 O
+尘 O
+侵 O
+
+霓 O
+旌 O
+绛 O
+节 O
+知 O
+何 O
+处 O
+
+空 O
+有 O
+莲 O
+花 O
+送 O
+好 O
+音 O
+
+侍 O
+宴 O
+御 O
+楼 O
+
+突 O
+兀 O
+毬 O
+场 O
+锦 O
+绣 O
+峰 O
+
+游 O
+人 O
+士 O
+女 O
+拥 O
+千 O
+重 O
+
+月 O
+离 O
+云 O
+海 O
+飞 O
+金 O
+镜 O
+
+灯 O
+射 O
+冰 O
+帘 O
+掣 O
+火 O
+龙 O
+
+句 O
+
+飞 O
+泉 O
+落 O
+翠 O
+巘 O
+
+爽 O
+籁 O
+生 O
+寒 O
+空 O
+
+诗 O
+三 O
+首 O
+
+薜 O
+荔 O
+无 O
+因 O
+挂 O
+一 O
+毫 O
+
+化 O
+工 O
+镌 O
+削 O
+亦 O
+应 O
+劳 O
+
+圭 O
+形 O
+直 O
+指 O
+明 O
+河 O
+落 O
+
+桂 O
+影 O
+遥 O
+分 O
+涨 O
+海 O
+涛 O
+
+发 O
+地 O
+五 O
+千 O
+何 O
+足 O
+贵 O
+
+去 O
+天 O
+三 O
+百 O
+未 O
+足 O
+高 O
+
+轩 O
+辕 O
+辙 O
+迹 O
+今 O
+犹 O
+在 O
+
+斗 O
+上 O
+丹 O
+枕 O
+著 O
+羽 O
+袍 O
+
+诗 O
+三 O
+首 O
+
+黄 O
+帝 O
+升 O
+天 O
+去 O
+不 O
+还 O
+
+空 O
+留 O
+片 O
+石 O
+在 O
+人 O
+间 O
+
+千 O
+寻 O
+杳 O
+杳 O
+撑 O
+红 O
+日 O
+
+倚 O
+云 O
+乔 O
+木 O
+羽 O
+林 O
+閒 O
+
+时 O
+人 O
+不 O
+信 O
+飞 O
+升 O
+路 O
+
+辙 O
+迹 O
+龙 O
+髯 O
+竟 O
+可 O
+攀 O
+
+吴 O
+江 O
+
+晚 O
+滩 O
+如 O
+雪 O
+起 O
+沙 O
+鸥 O
+
+咫 O
+尺 O
+姑 O
+苏 O
+亦 O
+胜 O
+游 O
+
+逸 O
+势 O
+泻 O
+归 O
+沧 O
+海 O
+远 O
+
+冷 O
+声 O
+分 O
+作 O
+太 O
+湖 O
+秋 O
+
+葑 O
+田 O
+几 O
+处 O
+连 O
+僧 O
+寺 O
+
+橘 O
+岸 O
+谁 O
+家 O
+对 O
+驿 O
+楼 O
+
+鲁 O
+望 O
+不 O
+存 O
+无 O
+可 O
+语 O
+
+片 O
+帆 O
+中 O
+夜 O
+渡 O
+清 O
+流 O
+
+送 O
+弟 O
+侑 O
+
+武 O
+昌 O
+古 O
+名 O
+地 O
+
+英 O
+秀 O
+森 O
+琳 O
+琅 O
+
+既 O
+号 O
+诗 O
+书 O
+窟 O
+
+复 O
+称 O
+云 O
+水 O
+乡 O
+
+咏 O
+华 O
+林 O
+书 O
+院 O
+
+六 O
+阙 O
+旌 O
+门 O
+事 O
+若 O
+何 O
+
+诸 O
+生 O
+常 O
+不 O
+绝 O
+弦 O
+歌 O
+
+鲤 O
+庭 O
+共 O
+禀 O
+诗 O
+书 O
+训 O
+
+隐 O
+巷 O
+齐 O
+登 O
+俊 O
+造 O
+科 O
+
+宗 O
+族 O
+有 O
+光 O
+传 O
+孝 O
+弟 O
+
+乡 O
+闾 O
+元 O
+讼 O
+化 O
+淳 O
+和 O
+
+芝 O
+兰 O
+子 O
+弟 O
+相 O
+薰 O
+习 O
+
+金 O
+石 O
+交 O
+朋 O
+互 O
+切 O
+磋 O
+
+遥 O
+望 O
+楚 O
+江 O
+波 O
+迥 O
+急 O
+
+却 O
+分 O
+庐 O
+阜 O
+影 O
+偏 O
+多 O
+
+题 O
+名 O
+石 O
+鼓 O
+围 O
+松 O
+桂 O
+
+讲 O
+易 O
+高 O
+堂 O
+绕 O
+芰 O
+荷 O
+
+采 O
+药 O
+路 O
+从 O
+洪 O
+井 O
+出 O
+
+买 O
+书 O
+船 O
+自 O
+孺 O
+亭 O
+过 O
+
+我 O
+惭 O
+已 O
+在 O
+瀛 O
+洲 O
+直 O
+
+不 O
+得 O
+西 O
+山 O
+隐 O
+薜 O
+萝 O
+
+句 O
+
+谁 O
+如 O
+张 O
+璪 O
+工 O
+松 O
+石 O
+
+擬 O
+裂 O
+鲛 O
+绡 O
+画 O
+作 O
+图 O
+
+桐 O
+柏 O
+观 O
+
+玉 O
+坛 O
+三 O
+级 O
+接 O
+秋 O
+空 O
+
+此 O
+是 O
+仙 O
+家 O
+第 O
+几 O
+重 O
+
+羽 O
+客 O
+有 O
+时 O
+来 O
+驾 O
+鹤 O
+
+王 O
+人 O
+无 O
+岁 O
+不 O
+投 O
+龙 O
+
+微 O
+吟 O
+海 O
+月 O
+生 O
+岩 O
+桂 O
+
+长 O
+啸 O
+天 O
+风 O
+起 O
+润 O
+松 O
+
+司 O
+马 O
+先 O
+生 O
+何 O
+处 O
+去 O
+
+篆 O
+碑 O
+犹 O
+有 O
+白 O
+云 O
+封 O
+
+题 O
+石 O
+桥 O
+
+六 O
+月 O
+岩 O
+崖 O
+似 O
+九 O
+秋 O
+
+兴 O
+公 O
+辞 O
+赋 O
+好 O
+淹 O
+留 O
+
+杉 O
+松 O
+迤 O
+逦 O
+连 O
+华 O
+顶 O
+
+钟 O
+磬 O
+依 O
+稀 O
+近 O
+沃 O
+洲 O
+
+枕 O
+水 O
+古 O
+碑 O
+卿 O
+相 O
+撰 O
+
+拂 O
+云 O
+新 O
+刹 O
+帝 O
+王 O
+修 O
+
+高 O
+僧 O
+尽 O
+解 O
+飞 O
+金 O
+锡 O
+
+谁 O
+是 O
+当 O
+年 O
+白 O
+道 O
+猷 O
+
+句 O
+
+美 O
+人 O
+与 O
+月 O
+正 O
+同 O
+色 O
+
+客 O
+子 O
+折 O
+梅 O
+空 O
+断 O
+肠 O
+
+僧 O
+
+去 O
+路 O
+馀 O
+千 O
+里 O
+
+行 O
+行 O
+雪 O
+洒 O
+衣 O
+
+诸 O
+峰 O
+何 O
+日 O
+别 O
+
+一 O
+锡 O
+犯 O
+寒 O
+归 O
+
+夜 O
+宿 O
+谁 O
+闻 O
+磬 O
+
+晨 O
+斋 O
+自 O
+采 O
+薇 O
+
+遥 O
+知 O
+到 O
+禅 O
+宇 O
+
+猿 O
+鸟 O
+共 O
+开 O
+扉 O
+

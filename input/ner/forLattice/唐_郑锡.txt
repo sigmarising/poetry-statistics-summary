@@ -1,0 +1,543 @@
+送 O
+客 O
+之 O
+江 O
+西 O
+
+乘 O
+轺 O
+奉 O
+紫 O
+泥 O
+
+泽 O
+国 O
+渺 O
+天 O
+涯 O
+
+九 O
+派 O
+春 O
+潮 O
+满 O
+
+孤 O
+帆 O
+暮 O
+雨 O
+低 O
+
+草 O
+深 O
+莺 O
+断 O
+续 O
+
+花 O
+落 O
+水 O
+东 O
+西 O
+
+更 O
+有 O
+高 O
+唐 O
+处 O
+
+知 O
+君 O
+路 O
+不 O
+迷 O
+
+玉 O
+阶 O
+怨 O
+
+长 O
+门 O
+寒 O
+水 O
+流 O
+
+高 O
+殿 O
+晓 O
+风 O
+秋 O
+
+昨 O
+夜 O
+鸳 O
+鸯 O
+梦 O
+
+还 O
+陪 O
+豹 O
+尾 O
+游 O
+
+前 O
+鱼 O
+不 O
+解 O
+泣 O
+
+共 O
+辇 O
+岂 O
+关 O
+羞 O
+
+那 O
+及 O
+轻 O
+身 O
+燕 O
+
+双 O
+飞 O
+上 O
+玉 O
+楼 O
+
+千 O
+里 O
+思 O
+
+渭 O
+水 O
+通 O
+胡 O
+苑 O
+
+轮 O
+台 O
+望 O
+汉 O
+关 O
+
+帛 O
+书 O
+秋 O
+海 O
+断 O
+
+锦 O
+字 O
+夜 O
+机 O
+闲 O
+
+旅 O
+梦 O
+虫 O
+催 O
+晓 O
+
+边 O
+心 O
+雁 O
+带 O
+还 O
+
+惟 O
+馀 O
+两 O
+乡 O
+思 O
+
+一 O
+夕 O
+度 O
+关 O
+山 O
+
+望 O
+月 O
+
+高 O
+堂 O
+新 O
+月 O
+明 O
+
+虚 O
+殿 O
+夕 O
+风 O
+清 O
+
+素 O
+影 O
+纱 O
+窗 O
+霁 O
+
+浮 O
+凉 O
+羽 O
+扇 O
+轻 O
+
+稍 O
+随 O
+微 O
+露 O
+滴 O
+
+渐 O
+逐 O
+晓 O
+参 O
+横 O
+
+遥 O
+忆 O
+云 O
+中 O
+咏 O
+
+萧 O
+条 O
+空 O
+复 O
+情 O
+
+杂 O
+曲 O
+歌 O
+辞 O
+· O
+邯 O
+郸 O
+少 O
+年 O
+行 O
+
+霞 O
+鞍 O
+金 O
+口 O
+骝 O
+
+豹 O
+袖 O
+紫 O
+貂 O
+裘 O
+
+家 O
+住 O
+丛 O
+台 O
+近 O
+
+门 O
+前 O
+漳 O
+水 O
+流 O
+
+唤 O
+人 O
+呈 O
+楚 O
+舞 O
+
+借 O
+客 O
+试 O
+吴 O
+钩 O
+
+见 O
+说 O
+秦 O
+兵 O
+至 O
+
+甘 O
+心 O
+赴 O
+国 O
+仇 O
+
+度 O
+关 O
+山 O
+
+象 O
+弭 O
+插 O
+文 O
+犀 O
+
+鱼 O
+肠 O
+莹 O
+鸊 O
+鹈 O
+
+水 O
+声 O
+分 O
+陇 O
+咽 O
+
+马 O
+色 O
+度 O
+关 O
+迷 O
+
+晓 O
+幕 O
+胡 O
+沙 O
+惨 O
+
+危 O
+烽 O
+汉 O
+月 O
+低 O
+
+仍 O
+闻 O
+数 O
+骑 O
+将 O
+
+更 O
+欲 O
+出 O
+辽 O
+西 O
+
+出 O
+塞 O
+
+关 O
+山 O
+落 O
+叶 O
+秋 O
+
+掩 O
+泪 O
+望 O
+营 O
+州 O
+
+辽 O
+海 O
+云 O
+沙 O
+暮 O
+
+幽 O
+燕 O
+旌 O
+旆 O
+愁 O
+
+战 O
+馀 O
+能 O
+送 O
+阵 O
+
+身 O
+老 O
+未 O
+封 O
+侯 O
+
+去 O
+国 O
+三 O
+千 O
+里 O
+
+归 O
+心 O
+红 O
+粉 O
+楼 O
+
+陇 O
+头 O
+别 O
+
+秋 O
+尽 O
+初 O
+移 O
+幕 O
+
+沾 O
+裳 O
+一 O
+送 O
+君 O
+
+据 O
+鞍 O
+窥 O
+古 O
+堠 O
+
+开 O
+灶 O
+爇 O
+寒 O
+云 O
+
+登 O
+陇 O
+人 O
+回 O
+首 O
+
+临 O
+关 O
+马 O
+顾 O
+群 O
+
+从 O
+来 O
+断 O
+肠 O
+处 O
+
+皆 O
+向 O
+此 O
+中 O
+分 O
+
+出 O
+塞 O
+曲 O
+
+校 O
+尉 O
+征 O
+兵 O
+出 O
+塞 O
+西 O
+
+别 O
+营 O
+分 O
+骑 O
+过 O
+龙 O
+溪 O
+
+沙 O
+平 O
+虏 O
+迹 O
+风 O
+吹 O
+尽 O
+
+雾 O
+失 O
+烽 O
+烟 O
+道 O
+易 O
+迷 O
+
+玉 O
+靶 O
+半 O
+开 O
+鸿 O
+已 O
+落 O
+
+金 O
+河 O
+欲 O
+渡 O
+马 O
+连 O
+嘶 O
+
+会 O
+当 O
+系 O
+取 O
+天 O
+骄 O
+入 O
+
+不 O
+使 O
+军 O
+书 O
+夜 O
+刺 O
+闺 O
+
+襄 O
+阳 O
+乐 O
+
+春 O
+生 O
+岘 O
+首 O
+东 O
+
+先 O
+暖 O
+习 O
+池 O
+风 O
+
+拂 O
+水 O
+初 O
+含 O
+绿 O
+
+惊 O
+林 O
+未 O
+吐 O
+红 O
+
+渚 O
+边 O
+游 O
+汉 O
+女 O
+
+桑 O
+下 O
+问 O
+庞 O
+公 O
+
+磨 O
+灭 O
+怀 O
+中 O
+刺 O
+
+曾 O
+将 O
+示 O
+孔 O
+融 O
+

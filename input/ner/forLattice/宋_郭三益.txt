@@ -1,0 +1,560 @@
+题 O
+南 O
+岳 O
+寺 O
+
+古 O
+木 O
+阴 O
+森 O
+梵 O
+帝 O
+家 O
+
+帘 O
+泉 O
+一 O
+酌 O
+试 O
+新 O
+芽 O
+
+官 O
+符 O
+星 O
+火 O
+催 O
+春 O
+焙 O
+
+却 O
+使 O
+山 O
+僧 O
+怨 O
+白 O
+蛇 O
+
+流 O
+花 O
+亭 O
+
+面 O
+幽 O
+连 O
+野 O
+色 O
+
+审 O
+曲 O
+带 O
+城 O
+闉 O
+
+但 O
+见 O
+流 O
+花 O
+水 O
+
+难 O
+寻 O
+避 O
+世 O
+人 O
+
+蟠 O
+桃 O
+知 O
+几 O
+熟 O
+
+藓 O
+洞 O
+谩 O
+长 O
+春 O
+
+税 O
+驾 O
+追 O
+前 O
+事 O
+
+踌 O
+躇 O
+要 O
+路 O
+津 O
+
+题 O
+多 O
+福 O
+院 O
+分 O
+翠 O
+轩 O
+
+平 O
+生 O
+但 O
+爱 O
+山 O
+中 O
+寺 O
+
+此 O
+日 O
+来 O
+看 O
+竹 O
+外 O
+山 O
+
+心 O
+境 O
+顿 O
+开 O
+清 O
+净 O
+想 O
+
+客 O
+尘 O
+无 O
+复 O
+更 O
+相 O
+关 O
+
+题 O
+仙 O
+居 O
+南 O
+峰 O
+寺 O
+蓝 O
+光 O
+轩 O
+
+山 O
+光 O
+竹 O
+影 O
+交 O
+寒 O
+辉 O
+
+下 O
+有 O
+碧 O
+浸 O
+吹 O
+涟 O
+漪 O
+
+沙 O
+痕 O
+隐 O
+隐 O
+白 O
+鸟 O
+去 O
+
+石 O
+声 O
+凿 O
+凿 O
+扁 O
+舟 O
+归 O
+
+芝 O
+兰 O
+发 O
+香 O
+禅 O
+味 O
+远 O
+
+云 O
+雾 O
+吐 O
+秀 O
+人 O
+家 O
+稀 O
+
+须 O
+知 O
+春 O
+事 O
+不 O
+可 O
+挽 O
+
+杜 O
+鹃 O
+已 O
+绕 O
+林 O
+中 O
+飞 O
+
+句 O
+
+晓 O
+鸟 O
+啼 O
+哑 O
+哑 O
+
+游 O
+子 O
+初 O
+去 O
+家 O
+
+去 O
+家 O
+向 O
+何 O
+许 O
+
+雪 O
+暗 O
+天 O
+一 O
+涯 O
+
+韦 O
+羌 O
+山 O
+式 O
+公 O
+绿 O
+筠 O
+庵 O
+诗 O
+
+道 O
+人 O
+栖 O
+碧 O
+山 O
+
+云 O
+居 O
+在 O
+空 O
+曲 O
+
+十 O
+年 O
+海 O
+潮 O
+音 O
+
+利 O
+物 O
+缘 O
+已 O
+熟 O
+
+更 O
+寻 O
+妙 O
+高 O
+顶 O
+
+超 O
+然 O
+具 O
+幽 O
+筑 O
+
+古 O
+林 O
+插 O
+空 O
+青 O
+
+寒 O
+筠 O
+抱 O
+岩 O
+绿 O
+
+时 O
+携 O
+贝 O
+叶 O
+书 O
+
+步 O
+入 O
+深 O
+林 O
+读 O
+
+云 O
+衣 O
+冷 O
+萧 O
+条 O
+
+静 O
+对 O
+含 O
+烟 O
+玉 O
+
+客 O
+来 O
+境 O
+非 O
+喧 O
+
+客 O
+去 O
+境 O
+自 O
+足 O
+
+宵 O
+眠 O
+获 O
+禅 O
+虎 O
+
+昼 O
+引 O
+衔 O
+花 O
+鹿 O
+
+庵 O
+中 O
+三 O
+昧 O
+语 O
+
+药 O
+我 O
+贪 O
+瞋 O
+毒 O
+
+何 O
+当 O
+脱 O
+双 O
+凫 O
+
+藜 O
+杖 O
+追 O
+高 O
+躅 O
+
+句 O
+
+举 O
+头 O
+语 O
+天 O
+公 O
+
+殷 O
+勤 O
+推 O
+日 O
+车 O
+
+游 O
+日 O
+山 O
+
+洗 O
+光 O
+朝 O
+日 O
+上 O
+旋 O
+旋 O
+
+瑞 O
+色 O
+分 O
+临 O
+此 O
+地 O
+先 O
+
+门 O
+迥 O
+帆 O
+收 O
+江 O
+市 O
+密 O
+
+山 O
+深 O
+龙 O
+卧 O
+海 O
+潭 O
+圆 O
+
+静 O
+然 O
+柏 O
+子 O
+听 O
+幽 O
+偈 O
+
+閒 O
+立 O
+苔 O
+痕 O
+问 O
+小 O
+禅 O
+
+莫 O
+讶 O
+潮 O
+平 O
+归 O
+渡 O
+晚 O
+
+斯 O
+游 O
+有 O
+意 O
+已 O
+三 O
+年 O
+
+题 O
+广 O
+度 O
+院 O
+
+羲 O
+和 O
+均 O
+四 O
+时 O
+
+曜 O
+灵 O
+有 O
+急 O
+节 O
+
+沈 O
+迷 O
+簿 O
+领 O
+书 O
+
+坐 O
+叹 O
+春 O
+事 O
+歇 O
+
+及 O
+兹 O
+新 O
+雨 O
+收 O
+
+西 O
+郊 O
+轫 O
+初 O
+发 O
+
+苍 O
+顽 O
+山 O
+气 O
+嘉 O
+
+奔 O
+悍 O
+溪 O
+流 O
+活 O
+
+风 O
+惊 O
+麦 O
+翻 O
+浪 O
+
+水 O
+净 O
+秧 O
+抽 O
+发 O
+
+渐 O
+穷 O
+萧 O
+寺 O
+幽 O
+
+顿 O
+使 O
+烦 O
+襟 O
+豁 O
+
+蜂 O
+喧 O
+酿 O
+蜜 O
+翅 O
+
+鸟 O
+落 O
+啼 O
+林 O
+血 O
+
+高 O
+僧 O
+日 O
+无 O
+事 O
+
+种 O
+术 O
+畦 O
+亩 O
+阔 O
+
+绿 O
+苗 O
+已 O
+纾 O
+纾 O
+
+紫 O
+花 O
+行 O
+复 O
+结 O
+
+吾 O
+欲 O
+访 O
+长 O
+生 O
+

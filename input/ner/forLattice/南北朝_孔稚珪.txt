@@ -1,0 +1,498 @@
+酬 O
+张 O
+长 O
+史 O
+诗 O
+
+同 O
+贫 O
+清 O
+风 O
+馆 O
+
+共 O
+素 O
+白 O
+云 O
+室 O
+
+游 O
+太 O
+平 O
+山 O
+诗 O
+
+石 O
+险 O
+天 O
+貌 O
+分 O
+
+林 O
+交 O
+日 O
+容 O
+缺 O
+
+阴 O
+涧 O
+落 O
+春 O
+荣 O
+
+寒 O
+岩 O
+留 O
+夏 O
+雪 O
+
+旦 O
+发 O
+青 O
+林 O
+诗 O
+
+孤 O
+征 O
+越 O
+清 O
+江 O
+
+游 O
+子 O
+悲 O
+路 O
+长 O
+
+二 O
+旬 O
+倐 O
+已 O
+湛 O
+
+三 O
+千 O
+眇 O
+未 O
+央 O
+
+草 O
+杂 O
+今 O
+古 O
+色 O
+
+岩 O
+留 O
+冬 O
+夏 O
+霜 O
+
+寄 O
+怀 O
+中 O
+山 O
+旧 O
+
+举 O
+酒 O
+莫 O
+相 O
+忘 O
+
+白 O
+纻 O
+歌 O
+
+山 O
+虚 O
+钟 O
+磬 O
+彻 O
+
+白 O
+马 O
+篇 O
+
+白 O
+马 O
+金 O
+具 O
+装 O
+
+横 O
+行 O
+辽 O
+水 O
+傍 O
+
+问 O
+是 O
+谁 O
+家 O
+子 O
+
+宿 O
+卫 O
+羽 O
+林 O
+郎 O
+
+文 O
+犀 O
+六 O
+属 O
+铠 O
+
+宝 O
+剑 O
+七 O
+星 O
+光 O
+
+山 O
+虚 O
+弓 O
+响 O
+彻 O
+
+地 O
+迥 O
+角 O
+声 O
+长 O
+
+宛 O
+河 O
+推 O
+勇 O
+气 O
+
+陇 O
+蜀 O
+擅 O
+威 O
+强 O
+
+轮 O
+台 O
+受 O
+降 O
+虏 O
+
+高 O
+阙 O
+翦 O
+名 O
+王 O
+
+射 O
+熊 O
+入 O
+飞 O
+观 O
+
+校 O
+猎 O
+下 O
+长 O
+杨 O
+
+英 O
+名 O
+欺 O
+卫 O
+
+霍 O
+
+智 O
+策 O
+蔑 O
+平 O
+
+良 O
+
+岛 O
+夷 O
+时 O
+失 O
+礼 O
+
+卉 O
+服 O
+犯 O
+边 O
+疆 O
+
+〖 O
+征 O
+〗 O
+兵 O
+〖 O
+集 O
+〗 O
+蓟 O
+北 O
+
+轻 O
+骑 O
+出 O
+渔 O
+阳 O
+
+集 O
+军 O
+随 O
+日 O
+晕 O
+
+挑 O
+战 O
+逐 O
+星 O
+芒 O
+
+阵 O
+移 O
+龙 O
+势 O
+动 O
+
+营 O
+开 O
+虎 O
+翼 O
+张 O
+
+冲 O
+冠 O
+入 O
+死 O
+地 O
+
+攘 O
+臂 O
+越 O
+金 O
+汤 O
+
+尘 O
+飞 O
+战 O
+鼓 O
+急 O
+
+风 O
+交 O
+征 O
+旆 O
+扬 O
+
+转 O
+斗 O
+平 O
+华 O
+地 O
+
+追 O
+奔 O
+扫 O
+带 O
+方 O
+
+本 O
+持 O
+身 O
+许 O
+国 O
+
+况 O
+复 O
+武 O
+力 O
+彰 O
+
+会 O
+令 O
+千 O
+载 O
+后 O
+
+流 O
+誉 O
+满 O
+旗 O
+常 O
+
+白 O
+马 O
+篇 O
+
+骥 O
+子 O
+局 O
+且 O
+鸣 O
+
+铁 O
+阵 O
+与 O
+云 O
+平 O
+
+汉 O
+家 O
+嫖 O
+姚 O
+将 O
+
+驰 O
+突 O
+匈 O
+奴 O
+庭 O
+
+少 O
+年 O
+鬬 O
+猛 O
+气 O
+
+怒 O
+发 O
+为 O
+君 O
+征 O
+
+雄 O
+戟 O
+摩 O
+白 O
+日 O
+
+长 O
+刚 O
+断 O
+流 O
+星 O
+
+早 O
+出 O
+飞 O
+狐 O
+塞 O
+
+晚 O
+泊 O
+楼 O
+烦 O
+城 O
+
+虏 O
+骑 O
+四 O
+山 O
+合 O
+
+胡 O
+尘 O
+千 O
+里 O
+惊 O
+
+嘶 O
+笳 O
+振 O
+地 O
+响 O
+
+吹 O
+角 O
+沸 O
+天 O
+声 O
+
+左 O
+碎 O
+呼 O
+韩 O
+阵 O
+
+右 O
+破 O
+休 O
+屠 O
+兵 O
+
+横 O
+行 O
+绝 O
+漠 O
+表 O
+
+饮 O
+马 O
+瀚 O
+海 O
+清 O
+
+陇 O
+树 O
+枯 O
+无 O
+色 O
+
+沙 O
+草 O
+不 O
+常 O
+青 O
+
+勒 O
+石 O
+燕 O
+然 O
+道 O
+
+凯 O
+归 O
+长 O
+安 O
+亭 O
+
+县 O
+官 O
+知 O
+我 O
+健 O
+
+四 O
+海 O
+谁 O
+不 O
+倾 O
+
+但 O
+使 O
+强 O
+胡 O
+灭 O
+
+何 O
+须 O
+甲 O
+第 O
+成 O
+
+当 O
+今 O
+丈 O
+夫 O
+志 O
+
+独 O
+为 O
+上 O
+古 O
+英 O
+

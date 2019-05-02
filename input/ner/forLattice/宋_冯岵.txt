@@ -1,0 +1,245 @@
+全 O
+州 O
+南 O
+城 O
+
+全 O
+州 O
+城 O
+南 O
+何 O
+壮 O
+观 O
+
+石 O
+崖 O
+为 O
+趾 O
+江 O
+为 O
+濠 O
+
+凌 O
+落 O
+渡 O
+江 O
+骑 O
+马 O
+去 O
+
+空 O
+蒙 O
+瘴 O
+雾 O
+漫 O
+绨 O
+袍 O
+
+逦 O
+迤 O
+过 O
+滩 O
+水 O
+
+小 O
+艇 O
+浮 O
+桐 O
+槽 O
+
+半 O
+渡 O
+急 O
+雨 O
+雪 O
+
+舟 O
+师 O
+失 O
+飞 O
+篙 O
+
+雨 O
+飞 O
+山 O
+路 O
+水 O
+如 O
+注 O
+
+石 O
+齿 O
+荦 O
+确 O
+森 O
+戈 O
+刀 O
+
+马 O
+蹄 O
+转 O
+偶 O
+不 O
+得 O
+过 O
+
+有 O
+力 O
+如 O
+虎 O
+空 O
+皮 O
+毛 O
+
+地 O
+穷 O
+路 O
+尽 O
+处 O
+
+横 O
+绝 O
+青 O
+山 O
+高 O
+
+褰 O
+衣 O
+扶 O
+杖 O
+蹑 O
+天 O
+险 O
+
+十 O
+步 O
+九 O
+顾 O
+愁 O
+猿 O
+猱 O
+
+长 O
+沙 O
+顿 O
+伏 O
+几 O
+百 O
+折 O
+
+背 O
+膂 O
+菌 O
+蠢 O
+盘 O
+鲸 O
+鳌 O
+
+马 O
+瘦 O
+人 O
+力 O
+倦 O
+
+野 O
+阔 O
+风 O
+怒 O
+号 O
+
+薄 O
+暮 O
+投 O
+宿 O
+驱 O
+湿 O
+厉 O
+
+析 O
+薪 O
+爨 O
+鼎 O
+烧 O
+村 O
+醪 O
+
+一 O
+杯 O
+酸 O
+涩 O
+不 O
+可 O
+嚥 O
+
+平 O
+原 O
+督 O
+邮 O
+羞 O
+儿 O
+曹 O
+
+我 O
+行 O
+湖 O
+湘 O
+历 O
+八 O
+郡 O
+
+政 O
+欲 O
+阅 O
+实 O
+宁 O
+辞 O
+劳 O
+
+才 O
+疏 O
+病 O
+懒 O
+事 O
+多 O
+废 O
+
+南 O
+山 O
+何 O
+日 O
+接 O
+蓬 O
+蒿 O
+
+清 O
+风 O
+明 O
+月 O
+共 O
+三 O
+友 O
+
+山 O
+猿 O
+野 O
+鹤 O
+来 O
+二 O
+豪 O
+
+一 O
+江 O
+春 O
+水 O
+澄 O
+葡 O
+萄 O
+
+芦 O
+花 O
+万 O
+顷 O
+眠 O
+渔 O
+舠 O
+

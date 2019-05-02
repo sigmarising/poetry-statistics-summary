@@ -1,0 +1,450 @@
+浣 O
+花 O
+溪 O
+
+浣 O
+花 O
+溪 O
+边 O
+濯 O
+锦 O
+衣 O
+
+百 O
+花 O
+满 O
+潭 O
+溪 O
+水 O
+香 O
+
+宝 O
+奁 O
+散 O
+尽 O
+有 O
+霜 O
+戟 O
+
+草 O
+秣 O
+匹 O
+马 O
+不 O
+可 O
+当 O
+
+当 O
+时 O
+濯 O
+衣 O
+只 O
+偶 O
+尔 O
+
+岂 O
+似 O
+取 O
+履 O
+张 O
+子 O
+房 O
+
+烈 O
+烈 O
+遽 O
+见 O
+蔽 O
+此 O
+蜀 O
+
+丧 O
+乱 O
+怀 O
+尔 O
+徒 O
+悲 O
+伤 O
+
+年 O
+年 O
+春 O
+风 O
+媚 O
+杨 O
+柳 O
+
+彩 O
+缆 O
+{ O
+左 O
+女 O
+右 O
+奄 O
+} O
+姌 O
+云 O
+霞 O
+张 O
+
+溪 O
+边 O
+游 O
+冶 O
+红 O
+粉 O
+娘 O
+
+了 O
+不 O
+识 O
+字 O
+空 O
+悠 O
+扬 O
+
+采 O
+花 O
+荡 O
+桨 O
+不 O
+归 O
+去 O
+
+暮 O
+隔 O
+烟 O
+水 O
+眠 O
+幽 O
+芳 O
+
+水 O
+月 O
+亭 O
+
+阳 O
+来 O
+中 O
+坤 O
+坎 O
+波 O
+翻 O
+
+月 O
+本 O
+于 O
+地 O
+仍 O
+东 O
+还 O
+
+谁 O
+为 O
+聚 O
+之 O
+古 O
+祗 O
+柏 O
+
+涵 O
+碧 O
+湛 O
+湛 O
+琉 O
+璃 O
+盘 O
+
+珊 O
+瑚 O
+晶 O
+瑛 O
+澈 O
+凝 O
+湍 O
+
+西 O
+风 O
+晚 O
+来 O
+觉 O
+亦 O
+宽 O
+
+海 O
+荡 O
+冰 O
+碎 O
+天 O
+飞 O
+旋 O
+
+瞿 O
+昙 O
+指 O
+心 O
+以 O
+探 O
+禅 O
+
+魄 O
+死 O
+泽 O
+困 O
+与 O
+尔 O
+言 O
+
+夜 O
+游 O
+倚 O
+声 O
+妮 O
+裳 O
+护 O
+
+捉 O
+影 O
+或 O
+坠 O
+不 O
+可 O
+援 O
+
+幻 O
+痴 O
+益 O
+多 O
+吾 O
+凛 O
+然 O
+
+明 O
+河 O
+绕 O
+衣 O
+吹 O
+佩 O
+环 O
+
+毛 O
+发 O
+飘 O
+萧 O
+乱 O
+空 O
+寒 O
+
+颇 O
+欲 O
+乘 O
+槎 O
+此 O
+穹 O
+源 O
+
+脱 O
+屣 O
+浊 O
+世 O
+抟 O
+林 O
+骞 O
+
+采 O
+华 O
+食 O
+叶 O
+为 O
+玉 O
+仙 O
+
+过 O
+子 O
+美 O
+草 O
+堂 O
+
+栖 O
+迟 O
+九 O
+月 O
+锦 O
+水 O
+行 O
+
+独 O
+过 O
+草 O
+堂 O
+西 O
+出 O
+城 O
+
+村 O
+树 O
+苒 O
+苒 O
+秋 O
+照 O
+白 O
+
+水 O
+花 O
+漪 O
+漪 O
+江 O
+水 O
+明 O
+
+溪 O
+边 O
+三 O
+重 O
+结 O
+茅 O
+屋 O
+
+松 O
+萝 O
+翳 O
+羽 O
+晚 O
+雨 O
+清 O
+
+往 O
+来 O
+沽 O
+酒 O
+且 O
+有 O
+客 O
+
+胡 O
+为 O
+奔 O
+走 O
+不 O
+地 O
+停 O
+
+四 O
+海 O
+纷 O
+然 O
+霾 O
+噎 O
+多 O
+
+我 O
+忧 O
+岂 O
+但 O
+白 O
+马 O
+盟 O
+
+藜 O
+藿 O
+未 O
+足 O
+饱 O
+我 O
+腹 O
+
+况 O
+又 O
+一 O
+顷 O
+供 O
+耕 O
+耘 O
+
+只 O
+今 O
+骑 O
+驴 O
+望 O
+八 O
+极 O
+
+终 O
+日 O
+飘 O
+飘 O
+浪 O
+如 O
+许 O
+
+可 O
+堪 O
+颜 O
+色 O
+太 O
+癯 O
+生 O
+
+忧 O
+愁 O
+尽 O
+如 O
+篇 O
+章 O
+苦 O
+
+信 O
+眉 O
+一 O
+笑 O
+古 O
+腹 O
+作 O
+
+却 O
+似 O
+韩 O
+宣 O
+适 O
+东 O
+鲁 O
+
+此 O
+生 O
+荡 O
+漾 O
+胡 O
+能 O
+留 O
+
+雨 O
+脚 O
+风 O
+尘 O
+奚 O
+所 O
+休 O
+
+此 O
+道 O
+沧 O
+浪 O
+付 O
+沤 O
+
+唤 O
+之 O
+千 O
+古 O
+与 O
+尔 O
+谋 O
+
+吾 O
+亦 O
+往 O
+矣 O
+作 O
+春 O
+秋 O
+

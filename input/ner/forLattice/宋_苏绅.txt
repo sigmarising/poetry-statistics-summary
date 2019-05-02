@@ -1,0 +1,369 @@
+句 O
+
+城 O
+郭 O
+依 O
+然 O
+郧 O
+子 O
+国 O
+
+山 O
+川 O
+分 O
+得 O
+楚 O
+王 O
+台 O
+
+膠 O
+山 O
+寺 O
+
+驱 O
+马 O
+款 O
+禅 O
+扉 O
+
+松 O
+风 O
+冷 O
+拂 O
+衣 O
+
+红 O
+尘 O
+不 O
+到 O
+处 O
+
+青 O
+嶂 O
+此 O
+忘 O
+归 O
+
+鸟 O
+望 O
+生 O
+台 O
+下 O
+
+云 O
+侵 O
+讲 O
+座 O
+飞 O
+
+楞 O
+伽 O
+味 O
+真 O
+趣 O
+
+转 O
+觉 O
+俗 O
+缘 O
+稀 O
+
+金 O
+山 O
+寺 O
+
+九 O
+派 O
+分 O
+流 O
+涌 O
+化 O
+城 O
+
+登 O
+临 O
+潜 O
+觉 O
+骨 O
+毛 O
+清 O
+
+僧 O
+依 O
+玉 O
+鉴 O
+光 O
+中 O
+住 O
+
+人 O
+踏 O
+金 O
+鳌 O
+背 O
+上 O
+行 O
+
+钟 O
+阜 O
+云 O
+开 O
+春 O
+雨 O
+霁 O
+
+海 O
+门 O
+雷 O
+吼 O
+夜 O
+潮 O
+生 O
+
+因 O
+思 O
+绝 O
+顶 O
+高 O
+秋 O
+夜 O
+
+四 O
+面 O
+云 O
+涛 O
+浸 O
+月 O
+明 O
+
+句 O
+
+一 O
+篇 O
+此 O
+日 O
+摛 O
+鸿 O
+藻 O
+
+五 O
+色 O
+它 O
+年 O
+浴 O
+凤 O
+文 O
+
+长 O
+生 O
+桧 O
+
+几 O
+年 O
+飞 O
+锡 O
+倦 O
+寻 O
+芳 O
+
+云 O
+衲 O
+斓 O
+斑 O
+掩 O
+竹 O
+房 O
+
+一 O
+榻 O
+夜 O
+禅 O
+蒲 O
+座 O
+稳 O
+
+满 O
+盂 O
+春 O
+供 O
+药 O
+苗 O
+香 O
+
+汲 O
+泉 O
+岩 O
+畔 O
+惊 O
+猿 O
+饮 O
+
+裁 O
+苇 O
+池 O
+边 O
+引 O
+鹭 O
+翔 O
+
+像 O
+室 O
+雾 O
+昏 O
+灯 O
+焰 O
+小 O
+
+石 O
+楼 O
+风 O
+度 O
+磐 O
+声 O
+长 O
+
+攀 O
+萝 O
+别 O
+岭 O
+冲 O
+寒 O
+雾 O
+
+扫 O
+叶 O
+前 O
+林 O
+趁 O
+晓 O
+霜 O
+
+大 O
+抵 O
+僧 O
+居 O
+遗 O
+俗 O
+虑 O
+
+此 O
+中 O
+身 O
+世 O
+更 O
+清 O
+凉 O
+
+句 O
+
+它 O
+年 O
+躍 O
+马 O
+相 O
+逢 O
+处 O
+
+记 O
+得 O
+先 O
+生 O
+旧 O
+姓 O
+名 O
+
+惠 O
+山 O
+寺 O
+并 O
+简 O
+窦 O
+公 O
+
+绮 O
+塍 O
+行 O
+尽 O
+入 O
+松 O
+门 O
+
+暂 O
+拂 O
+尘 O
+缨 O
+袖 O
+惹 O
+云 O
+
+海 O
+月 O
+未 O
+升 O
+楼 O
+上 O
+见 O
+
+湖 O
+波 O
+初 O
+起 O
+坐 O
+中 O
+闻 O
+
+宝 O
+扉 O
+膜 O
+拜 O
+青 O
+莲 O
+相 O
+
+石 O
+案 O
+傍 O
+行 O
+白 O
+{ O
+在 O
+疊 O
+右 O
+毛 O
+} O
+纹 O
+
+促 O
+榻 O
+偶 O
+随 O
+居 O
+士 O
+语 O
+
+煮 O
+茶 O
+烧 O
+栗 O
+到 O
+宵 O
+分 O
+
+句 O
+
+游 O
+人 O
+汉 O
+女 O
+投 O
+珠 O
+路 O
+
+野 O
+火 O
+荆 O
+山 O
+出 O
+猎 O
+朝 O
+

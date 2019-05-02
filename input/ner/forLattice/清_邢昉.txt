@@ -1,0 +1,464 @@
+送 O
+九 O
+水 O
+还 O
+庐 O
+山 O
+
+江 O
+舟 O
+弥 O
+不 O
+易 O
+
+此 O
+日 O
+见 O
+朝 O
+霜 O
+
+书 O
+寄 O
+他 O
+僧 O
+去 O
+
+路 O
+因 O
+寒 O
+月 O
+长 O
+
+彭 O
+蠡 O
+一 O
+衲 O
+远 O
+
+云 O
+雾 O
+六 O
+朝 O
+荒 O
+
+数 O
+雁 O
+烟 O
+边 O
+没 O
+
+离 O
+心 O
+愈 O
+渺 O
+茫 O
+
+早 O
+稼 O
+
+秋 O
+阴 O
+满 O
+一 O
+川 O
+
+刈 O
+获 O
+在 O
+渔 O
+船 O
+
+及 O
+此 O
+为 O
+农 O
+日 O
+
+空 O
+知 O
+惜 O
+老 O
+年 O
+
+水 O
+村 O
+连 O
+白 O
+鸟 O
+
+溪 O
+屋 O
+覆 O
+青 O
+烟 O
+
+日 O
+暮 O
+闻 O
+舂 O
+急 O
+
+生 O
+涯 O
+亦 O
+可 O
+怜 O
+
+广 O
+陵 O
+行 O
+
+客 O
+言 O
+渡 O
+江 O
+来 O
+
+昨 O
+出 O
+广 O
+陵 O
+城 O
+
+广 O
+陵 O
+城 O
+西 O
+行 O
+十 O
+里 O
+
+犹 O
+听 O
+城 O
+中 O
+人 O
+哭 O
+声 O
+
+去 O
+年 O
+北 O
+兵 O
+始 O
+南 O
+下 O
+
+黄 O
+河 O
+以 O
+南 O
+无 O
+斗 O
+者 O
+
+泗 O
+上 O
+诸 O
+侯 O
+卷 O
+旆 O
+旌 O
+
+满 O
+洲 O
+将 O
+军 O
+跨 O
+大 O
+马 O
+
+马 O
+头 O
+滚 O
+滚 O
+向 O
+扬 O
+州 O
+
+史 O
+相 O
+堂 O
+堂 O
+坐 O
+敌 O
+楼 O
+
+外 O
+援 O
+四 O
+绝 O
+誓 O
+死 O
+守 O
+
+十 O
+日 O
+城 O
+破 O
+非 O
+人 O
+谋 O
+
+扬 O
+州 O
+白 O
+日 O
+闻 O
+鬼 O
+啸 O
+
+前 O
+年 O
+半 O
+死 O
+翻 O
+山 O
+鹞 O
+
+此 O
+番 O
+流 O
+血 O
+又 O
+成 O
+川 O
+
+杀 O
+戮 O
+不 O
+分 O
+老 O
+与 O
+少 O
+
+城 O
+中 O
+流 O
+血 O
+迸 O
+城 O
+外 O
+
+十 O
+家 O
+不 O
+得 O
+一 O
+家 O
+在 O
+
+到 O
+此 O
+萧 O
+条 O
+人 O
+转 O
+稀 O
+
+家 O
+家 O
+骨 O
+肉 O
+都 O
+狼 O
+狈 O
+
+乱 O
+骨 O
+纷 O
+纷 O
+弃 O
+草 O
+根 O
+
+黄 O
+云 O
+白 O
+日 O
+昼 O
+俱 O
+昏 O
+
+仿 O
+佛 O
+精 O
+灵 O
+来 O
+此 O
+日 O
+
+椒 O
+浆 O
+恸 O
+哭 O
+更 O
+招 O
+魂 O
+
+魂 O
+魄 O
+茫 O
+茫 O
+复 O
+何 O
+有 O
+
+尚 O
+有 O
+生 O
+人 O
+来 O
+酹 O
+酒 O
+
+九 O
+州 O
+不 O
+复 O
+罢 O
+干 O
+戈 O
+
+生 O
+人 O
+生 O
+人 O
+将 O
+奈 O
+何 O
+? O
+逢 O
+韩 O
+茂 O
+贻 O
+因 O
+赠 O
+并 O
+追 O
+伤 O
+戴 O
+敬 O
+夫 O
+
+莫 O
+道 O
+相 O
+逢 O
+久 O
+叹 O
+嗟 O
+
+尚 O
+怜 O
+流 O
+落 O
+在 O
+天 O
+涯 O
+
+故 O
+人 O
+长 O
+隔 O
+黄 O
+垆 O
+面 O
+
+苕 O
+水 O
+空 O
+余 O
+白 O
+雪 O
+花 O
+
+行 O
+路 O
+更 O
+无 O
+磨 O
+镜 O
+具 O
+
+扣 O
+门 O
+唯 O
+识 O
+卖 O
+浆 O
+家 O
+
+羌 O
+村 O
+暮 O
+雨 O
+归 O
+何 O
+处 O
+
+青 O
+草 O
+茫 O
+茫 O
+去 O
+转 O
+赊 O
+
+闻 O
+戴 O
+敬 O
+夫 O
+由 O
+越 O
+入 O
+闽 O
+
+湖 O
+县 O
+忽 O
+离 O
+群 O
+
+兵 O
+车 O
+谅 O
+未 O
+闻 O
+
+揭 O
+竿 O
+真 O
+草 O
+草 O
+
+暴 O
+骨 O
+竟 O
+纷 O
+纷 O
+
+秋 O
+隔 O
+苕 O
+花 O
+岸 O
+
+心 O
+悲 O
+建 O
+业 O
+云 O
+
+遥 O
+思 O
+于 O
+役 O
+意 O
+
+不 O
+为 O
+武 O
+夷 O
+君 O
+

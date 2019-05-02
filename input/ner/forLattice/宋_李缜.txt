@@ -1,0 +1,507 @@
+句 O
+
+疑 O
+是 O
+西 O
+湖 O
+处 O
+士 O
+魂 O
+
+句 O
+
+又 O
+遣 O
+相 O
+思 O
+梦 O
+到 O
+家 O
+
+句 O
+
+天 O
+与 O
+风 O
+流 O
+春 O
+与 O
+娇 O
+
+句 O
+
+直 O
+似 O
+山 O
+阴 O
+雪 O
+下 O
+时 O
+
+句 O
+
+蜂 O
+撩 O
+蝶 O
+嬲 O
+不 O
+相 O
+饶 O
+
+句 O
+
+芒 O
+鞵 O
+远 O
+觅 O
+香 O
+业 O
+处 O
+
+句 O
+
+几 O
+回 O
+醉 O
+嚼 O
+春 O
+风 O
+骨 O
+
+句 O
+
+何 O
+人 O
+月 O
+下 O
+此 O
+幽 O
+寻 O
+
+奉 O
+和 O
+郎 O
+中 O
+游 O
+仙 O
+岩 O
+四 O
+瀑 O
+布 O
+寄 O
+包 O
+秘 O
+监 O
+李 O
+吏 O
+部 O
+赵 O
+婺 O
+州 O
+
+符 O
+守 O
+分 O
+珪 O
+组 O
+
+放 O
+情 O
+在 O
+丘 O
+峦 O
+
+悠 O
+然 O
+造 O
+云 O
+族 O
+
+忽 O
+尔 O
+登 O
+天 O
+坛 O
+
+求 O
+古 O
+理 O
+方 O
+赜 O
+
+玩 O
+奇 O
+物 O
+不 O
+殚 O
+
+晴 O
+光 O
+散 O
+崖 O
+壁 O
+
+瑞 O
+气 O
+生 O
+芝 O
+兰 O
+
+中 O
+有 O
+四 O
+瀑 O
+水 O
+
+奔 O
+流 O
+状 O
+千 O
+般 O
+
+风 O
+云 O
+隐 O
+岩 O
+底 O
+
+雨 O
+雪 O
+霏 O
+林 O
+端 O
+
+晶 O
+晶 O
+含 O
+古 O
+色 O
+
+飕 O
+飕 O
+引 O
+晨 O
+寒 O
+
+澄 O
+潭 O
+见 O
+猿 O
+饮 O
+
+潜 O
+穴 O
+知 O
+龙 O
+盘 O
+
+坐 O
+憩 O
+苔 O
+石 O
+遍 O
+
+仰 O
+窥 O
+杉 O
+桂 O
+攒 O
+
+幽 O
+蹊 O
+创 O
+高 O
+躅 O
+
+灵 O
+药 O
+余 O
+仙 O
+餐 O
+
+携 O
+赏 O
+喜 O
+康 O
+乐 O
+
+示 O
+文 O
+惊 O
+建 O
+安 O
+
+缣 O
+缃 O
+炳 O
+珠 O
+宝 O
+
+中 O
+外 O
+贻 O
+同 O
+官 O
+
+末 O
+调 O
+亦 O
+何 O
+为 O
+
+辄 O
+陪 O
+高 O
+唱 O
+难 O
+
+惭 O
+非 O
+御 O
+徒 O
+者 O
+
+还 O
+得 O
+依 O
+门 O
+栏 O
+
+句 O
+
+仙 O
+衣 O
+襞 O
+积 O
+素 O
+中 O
+单 O
+
+句 O
+
+江 O
+头 O
+千 O
+树 O
+玉 O
+模 O
+糊 O
+
+句 O
+
+兰 O
+替 O
+天 O
+香 O
+蜜 O
+替 O
+黄 O
+
+句 O
+
+可 O
+怜 O
+风 O
+味 O
+故 O
+依 O
+然 O
+
+句 O
+
+似 O
+嫌 O
+时 O
+世 O
+妆 O
+梳 O
+浅 O
+
+句 O
+
+客 O
+愁 O
+春 O
+恨 O
+两 O
+茫 O
+茫 O
+
+句 O
+
+疑 O
+与 O
+月 O
+相 O
+吞 O
+
+句 O
+
+浅 O
+笑 O
+微 O
+颦 O
+尽 O
+断 O
+肠 O
+
+句 O
+
+眼 O
+明 O
+初 O
+识 O
+道 O
+家 O
+装 O
+
+句 O
+
+酥 O
+滴 O
+寒 O
+英 O
+露 O
+滴 O
+香 O
+
+句 O
+
+女 O
+鬟 O
+夸 O
+巧 O
+幻 O
+寒 O
+芳 O
+
+句 O
+
+童 O
+初 O
+宫 O
+里 O
+雨 O
+斑 O
+斑 O
+
+句 O
+
+可 O
+怜 O
+几 O
+许 O
+怀 O
+春 O
+意 O
+
+句 O
+
+几 O
+回 O
+梦 O
+作 O
+药 O
+间 O
+蝶 O
+
+句 O
+
+从 O
+教 O
+革 O
+带 O
+减 O
+诗 O
+鐶 O
+
+句 O
+
+借 O
+发 O
+明 O
+年 O
+最 O
+早 O
+花 O
+
+句 O
+
+莫 O
+嫌 O
+春 O
+浅 O
+花 O
+房 O
+小 O
+
+句 O
+
+鶗 O
+鴃 O
+一 O
+声 O
+春 O
+事 O
+空 O
+
+句 O
+
+南 O
+园 O
+北 O
+园 O
+花 O
+满 O
+风 O
+
+句 O
+
+岂 O
+待 O
+世 O
+间 O
+桃 O
+李 O
+风 O
+
+句 O
+
+行 O
+人 O
+将 O
+底 O
+酬 O
+春 O
+色 O
+
+句 O
+
+驼 O
+裘 O
+几 O
+折 O
+犯 O
+寒 O
+花 O
+
+句 O
+
+惆 O
+怅 O
+晚 O
+来 O
+风 O
+定 O
+后 O
+
+句 O
+
+暗 O
+香 O
+都 O
+自 O
+著 O
+人 O
+来 O
+

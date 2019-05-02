@@ -1,0 +1,369 @@
+小 O
+孤 O
+山 O
+
+擎 O
+天 O
+有 O
+八 O
+柱 O
+
+一 O
+柱 O
+此 O
+焉 O
+存 O
+
+石 O
+耸 O
+千 O
+寻 O
+势 O
+
+波 O
+留 O
+四 O
+面 O
+痕 O
+
+江 O
+湖 O
+中 O
+作 O
+镇 O
+
+风 O
+浪 O
+里 O
+盘 O
+根 O
+
+平 O
+地 O
+安 O
+然 O
+者 O
+
+饶 O
+他 O
+五 O
+岳 O
+尊 O
+
+句 O
+
+三 O
+月 O
+内 O
+方 O
+有 O
+
+百 O
+花 O
+中 O
+更 O
+无 O
+
+述 O
+怀 O
+
+虎 O
+生 O
+三 O
+日 O
+便 O
+窥 O
+牛 O
+
+猎 O
+犬 O
+宁 O
+能 O
+掉 O
+尾 O
+求 O
+
+若 O
+不 O
+去 O
+登 O
+黄 O
+阁 O
+贵 O
+
+便 O
+须 O
+来 O
+伴 O
+赤 O
+松 O
+游 O
+
+奴 O
+颜 O
+婢 O
+舌 O
+诚 O
+堪 O
+耻 O
+
+羊 O
+狠 O
+狼 O
+贪 O
+自 O
+合 O
+羞 O
+
+三 O
+尺 O
+太 O
+阿 O
+星 O
+斗 O
+焕 O
+
+何 O
+时 O
+去 O
+取 O
+魏 O
+齐 O
+头 O
+
+甘 O
+州 O
+/ O
+八 O
+声 O
+甘 O
+州 O
+
+爱 O
+累 O
+累 O
+
+万 O
+颗 O
+贯 O
+骊 O
+珠 O
+
+特 O
+地 O
+写 O
+幽 O
+芳 O
+
+想 O
+黄 O
+昏 O
+云 O
+淡 O
+
+夜 O
+深 O
+人 O
+静 O
+
+清 O
+影 O
+横 O
+窗 O
+
+冷 O
+澹 O
+一 O
+枝 O
+两 O
+叶 O
+
+笔 O
+下 O
+老 O
+秋 O
+光 O
+
+参 O
+透 O
+圆 O
+明 O
+相 O
+
+日 O
+观 O
+开 O
+荒 O
+
+最 O
+是 O
+柔 O
+髭 O
+修 O
+梗 O
+
+映 O
+风 O
+姿 O
+雾 O
+质 O
+
+雅 O
+趣 O
+悠 O
+长 O
+
+更 O
+淋 O
+漓 O
+草 O
+圣 O
+
+把 O
+玩 O
+墨 O
+犹 O
+香 O
+
+珍 O
+重 O
+好 O
+
+卷 O
+藏 O
+归 O
+去 O
+
+枕 O
+屏 O
+间 O
+
+偏 O
+称 O
+道 O
+人 O
+床 O
+
+江 O
+南 O
+路 O
+
+後 O
+回 O
+重 O
+见 O
+
+同 O
+话 O
+凄 O
+凉 O
+
+聪 O
+明 O
+泉 O
+
+义 O
+山 O
+山 O
+下 O
+有 O
+灵 O
+泉 O
+
+泉 O
+号 O
+聪 O
+明 O
+自 O
+古 O
+传 O
+
+四 O
+百 O
+年 O
+中 O
+三 O
+出 O
+相 O
+
+不 O
+才 O
+何 O
+幸 O
+继 O
+前 O
+贤 O
+
+送 O
+乡 O
+人 O
+尹 O
+鉴 O
+登 O
+第 O
+归 O
+
+少 O
+年 O
+相 O
+款 O
+老 O
+相 O
+逢 O
+
+乡 O
+举 O
+虽 O
+同 O
+遇 O
+不 O
+同 O
+
+我 O
+已 O
+位 O
+尘 O
+三 O
+事 O
+后 O
+
+君 O
+方 O
+名 O
+列 O
+五 O
+科 O
+中 O
+
+荣 O
+登 O
+莫 O
+计 O
+名 O
+高 O
+下 O
+
+宦 O
+达 O
+须 O
+由 O
+善 O
+始 O
+终 O
+
+若 O
+到 O
+乡 O
+关 O
+人 O
+见 O
+问 O
+
+为 O
+言 O
+归 O
+思 O
+满 O
+秋 O
+风 O
+

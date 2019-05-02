@@ -1,0 +1,561 @@
+为 O
+人 O
+赋 O
+横 O
+舟 O
+二 O
+首 O
+
+古 O
+悲 O
+歌 O
+
+泪 O
+如 O
+血 O
+
+渡 O
+河 O
+无 O
+船 O
+气 O
+欲 O
+绝 O
+
+古 O
+非 O
+歌 O
+
+泪 O
+如 O
+泉 O
+
+河 O
+激 O
+汤 O
+汤 O
+声 O
+彻 O
+天 O
+
+峨 O
+舸 O
+大 O
+艑 O
+载 O
+琛 O
+贝 O
+
+锦 O
+缆 O
+迷 O
+楼 O
+催 O
+管 O
+弦 O
+
+人 O
+生 O
+苦 O
+乐 O
+不 O
+相 O
+等 O
+
+风 O
+波 O
+血 O
+刃 O
+蛟 O
+流 O
+涎 O
+
+神 O
+虺 O
+九 O
+首 O
+能 O
+三 O
+足 O
+
+巨 O
+鳌 O
+独 O
+怒 O
+群 O
+帝 O
+迁 O
+
+纵 O
+有 O
+扁 O
+舟 O
+竟 O
+何 O
+往 O
+
+乘 O
+桴 O
+意 O
+在 O
+沧 O
+洲 O
+上 O
+
+只 O
+缘 O
+辙 O
+朽 O
+无 O
+人 O
+知 O
+
+入 O
+海 O
+居 O
+夷 O
+每 O
+惆 O
+怅 O
+
+三 O
+间 O
+破 O
+屋 O
+名 O
+横 O
+舟 O
+
+三 O
+呼 O
+不 O
+答 O
+江 O
+水 O
+流 O
+
+一 O
+帆 O
+径 O
+渡 O
+溯 O
+天 O
+去 O
+
+不 O
+系 O
+斜 O
+阳 O
+古 O
+渡 O
+头 O
+
+题 O
+浯 O
+溪 O
+中 O
+兴 O
+颂 O
+二 O
+首 O
+
+银 O
+旗 O
+金 O
+甲 O
+渡 O
+巴 O
+西 O
+
+灵 O
+武 O
+城 O
+楼 O
+已 O
+万 O
+几 O
+
+一 O
+札 O
+祗 O
+闻 O
+元 O
+帅 O
+命 O
+
+五 O
+笺 O
+合 O
+待 O
+使 O
+臣 O
+归 O
+
+未 O
+闻 O
+请 O
+表 O
+更 O
+追 O
+表 O
+
+且 O
+看 O
+黄 O
+衣 O
+换 O
+紫 O
+衣 O
+
+天 O
+性 O
+非 O
+由 O
+人 O
+伪 O
+灭 O
+
+何 O
+缘 O
+尚 O
+父 O
+结 O
+张 O
+妃 O
+
+题 O
+浯 O
+溪 O
+中 O
+兴 O
+颂 O
+二 O
+首 O
+
+六 O
+等 O
+胜 O
+如 O
+诛 O
+独 O
+柳 O
+
+二 O
+张 O
+纵 O
+活 O
+亦 O
+何 O
+颜 O
+
+太 O
+师 O
+死 O
+后 O
+犹 O
+书 O
+法 O
+
+水 O
+部 O
+刑 O
+章 O
+托 O
+颂 O
+间 O
+
+最 O
+忆 O
+海 O
+青 O
+投 O
+乐 O
+器 O
+
+绝 O
+怜 O
+甄 O
+济 O
+隐 O
+青 O
+山 O
+
+中 O
+兴 O
+碑 O
+下 O
+奸 O
+臣 O
+惧 O
+
+天 O
+道 O
+何 O
+尝 O
+不 O
+好 O
+还 O
+
+为 O
+人 O
+赋 O
+横 O
+舟 O
+二 O
+首 O
+
+黄 O
+头 O
+子 O
+
+捩 O
+柁 O
+听 O
+吾 O
+语 O
+
+三 O
+老 O
+驾 O
+三 O
+翼 O
+
+叠 O
+鼓 O
+峭 O
+帆 O
+看 O
+风 O
+色 O
+
+一 O
+千 O
+水 O
+
+归 O
+黄 O
+河 O
+
+世 O
+无 O
+客 O
+星 O
+泛 O
+灵 O
+槎 O
+
+恒 O
+河 O
+水 O
+
+波 O
+斯 O
+匿 O
+王 O
+母 O
+将 O
+去 O
+
+六 O
+十 O
+年 O
+间 O
+成 O
+坏 O
+故 O
+
+性 O
+无 O
+生 O
+灭 O
+河 O
+水 O
+似 O
+
+黄 O
+面 O
+瞿 O
+昙 O
+以 O
+筏 O
+谕 O
+
+长 O
+淮 O
+水 O
+
+一 O
+箭 O
+许 O
+
+边 O
+城 O
+白 O
+骨 O
+多 O
+於 O
+土 O
+
+年 O
+年 O
+调 O
+舟 O
+已 O
+成 O
+泥 O
+
+寿 O
+蔡 O
+孤 O
+城 O
+付 O
+朝 O
+暮 O
+
+岷 O
+江 O
+汉 O
+源 O
+天 O
+上 O
+来 O
+
+一 O
+夕 O
+不 O
+保 O
+如 O
+风 O
+埃 O
+
+重 O
+庆 O
+今 O
+为 O
+天 O
+下 O
+首 O
+
+汉 O
+中 O
+不 O
+复 O
+言 O
+规 O
+恢 O
+
+朽 O
+木 O
+为 O
+舟 O
+土 O
+为 O
+楫 O
+
+白 O
+波 O
+如 O
+山 O
+水 O
+皆 O
+立 O
+
+当 O
+时 O
+商 O
+家 O
+畚 O
+筑 O
+子 O
+
+梦 O
+里 O
+撑 O
+船 O
+济 O
+川 O
+去 O
+
+只 O
+今 O
+无 O
+梦 O
+岂 O
+无 O
+舟 O
+
+水 O
+浅 O
+都 O
+非 O
+泊 O
+舟 O
+处 O
+
+题 O
+灵 O
+丰 O
+庙 O
+壁 O
+
+紫 O
+马 O
+仙 O
+人 O
+跨 O
+白 O
+犀 O
+
+繙 O
+经 O
+台 O
+映 O
+钓 O
+鱼 O
+矶 O
+
+千 O
+年 O
+老 O
+树 O
+风 O
+雷 O
+坼 O
+
+独 O
+有 O
+红 O
+泉 O
+洗 O
+断 O
+碑 O
+
+题 O
+云 O
+龙 O
+图 O
+
+骑 O
+元 O
+气 O
+
+游 O
+太 O
+空 O
+
+普 O
+厥 O
+施 O
+
+收 O
+成 O
+功 O
+
+抉 O
+河 O
+汉 O
+
+触 O
+华 O
+嵩 O
+

@@ -1,0 +1,427 @@
+重 O
+建 O
+羊 O
+侯 O
+祠 O
+和 O
+王 O
+原 O
+叔 O
+句 O
+
+大 O
+江 O
+西 O
+来 O
+绕 O
+重 O
+城 O
+
+忧 O
+如 O
+来 O
+花 O
+匹 O
+练 O
+萦 O
+
+左 O
+山 O
+右 O
+阜 O
+若 O
+开 O
+避 O
+
+曾 O
+是 O
+岘 O
+首 O
+当 O
+头 O
+横 O
+
+江 O
+湍 O
+冲 O
+山 O
+山 O
+不 O
+动 O
+
+滔 O
+滔 O
+雪 O
+浪 O
+东 O
+南 O
+倾 O
+
+溃 O
+然 O
+巨 O
+势 O
+压 O
+汉 O
+境 O
+
+万 O
+楚 O
+不 O
+得 O
+专 O
+雄 O
+名 O
+
+四 O
+时 O
+美 O
+景 O
+千 O
+百 O
+状 O
+
+登 O
+临 O
+可 O
+以 O
+攄 O
+襟 O
+灵 O
+
+近 O
+麓 O
+扔 O
+蓝 O
+秋 O
+水 O
+绿 O
+
+幽 O
+岩 O
+圃 O
+缬 O
+春 O
+葩 O
+明 O
+
+寒 O
+林 O
+萧 O
+疏 O
+四 O
+面 O
+合 O
+
+夏 O
+木 O
+延 O
+袤 O
+长 O
+川 O
+青 O
+
+危 O
+巅 O
+碑 O
+垫 O
+龟 O
+螭 O
+蛰 O
+
+险 O
+崖 O
+桧 O
+老 O
+蛟 O
+龙 O
+形 O
+
+俯 O
+瞰 O
+洲 O
+岛 O
+相 O
+向 O
+背 O
+
+风 O
+恬 O
+江 O
+面 O
+罗 O
+纹 O
+生 O
+
+渔 O
+舠 O
+数 O
+百 O
+集 O
+其 O
+下 O
+
+瞥 O
+然 O
+来 O
+往 O
+一 O
+叶 O
+轻 O
+
+波 O
+底 O
+峥 O
+嵘 O
+沈 O
+翠 O
+影 O
+
+样 O
+头 O
+凫 O
+雁 O
+敛 O
+霜 O
+翎 O
+
+天 O
+然 O
+佳 O
+致 O
+信 O
+可 O
+尚 O
+
+直 O
+是 O
+丹 O
+青 O
+写 O
+不 O
+成 O
+
+叔 O
+子 O
+当 O
+年 O
+乐 O
+山 O
+水 O
+
+每 O
+来 O
+置 O
+酒 O
+空 O
+垆 O
+罌 O
+
+贤 O
+达 O
+胜 O
+士 O
+共 O
+爱 O
+此 O
+
+谓 O
+此 O
+风 O
+景 O
+魁 O
+南 O
+荆 O
+
+荆 O
+人 O
+被 O
+化 O
+思 O
+不 O
+已 O
+
+立 O
+祠 O
+山 O
+椒 O
+共 O
+祭 O
+牲 O
+
+尔 O
+来 O
+绵 O
+互 O
+几 O
+千 O
+载 O
+
+瓦 O
+飞 O
+栋 O
+撓 O
+谁 O
+经 O
+营 O
+
+守 O
+臣 O
+罕 O
+肯 O
+著 O
+脚 O
+到 O
+
+遂 O
+至 O
+完 O
+固 O
+属 O
+兼 O
+并 O
+
+非 O
+惮 O
+鸠 O
+工 O
+缮 O
+完 O
+葺 O
+
+诚 O
+知 O
+仁 O
+政 O
+难 O
+继 O
+声 O
+
+帝 O
+眷 O
+襄 O
+阳 O
+曰 O
+重 O
+镇 O
+
+宜 O
+从 O
+馆 O
+阁 O
+择 O
+名 O
+卿 O
+
+明 O
+公 O
+之 O
+来 O
+百 O
+城 O
+悦 O
+
+壶 O
+浆 O
+竹 O
+马 O
+相 O
+欢 O
+迎 O
+
+政 O
+成 O
+公 O
+休 O
+屡 O
+登 O
+览 O
+
+山 O
+前 O
+车 O
+骑 O
+长 O
+晶 O
+荧 O
+
+傃 O
+空 O
+寓 O
+目 O
+香 O
+不 O
+足 O
+
+诗 O
+豪 O
+佚 O
+发 O
+输 O
+精 O
+成 O
+
+乃 O
+敕 O
+寮 O
+属 O
+复 O
+祠 O
+宇 O
+
+仍 O
+从 O
+岭 O
+上 O
+新 O
+虚 O
+亭 O
+
+岁 O
+时 O
+游 O
+憩 O
+备 O
+言 O
+咏 O
+
+荆 O
+人 O
+爱 O
+之 O
+犹 O
+鉅 O
+平 O
+
+羊 O
+公 O
+之 O
+政 O
+公 O
+之 O
+化 O
+
+异 O
+时 O
+一 O
+致 O
+当 O
+同 O
+评 O
+
+两 O
+贤 O
+继 O
+美 O
+何 O
+以 O
+况 O
+
+山 O
+之 O
+永 O
+兮 O
+水 O
+之 O
+清 O
+

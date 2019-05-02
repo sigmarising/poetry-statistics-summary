@@ -1,0 +1,447 @@
+夜 O
+坐 O
+看 O
+搊 O
+筝 O
+
+调 O
+筝 O
+夜 O
+坐 O
+灯 O
+光 O
+里 O
+
+却 O
+挂 O
+罗 O
+帷 O
+露 O
+纤 O
+指 O
+
+朱 O
+弦 O
+一 O
+一 O
+声 O
+不 O
+同 O
+
+玉 O
+柱 O
+连 O
+连 O
+影 O
+相 O
+似 O
+
+不 O
+知 O
+何 O
+处 O
+学 O
+新 O
+声 O
+
+曲 O
+曲 O
+弹 O
+来 O
+未 O
+睹 O
+名 O
+
+应 O
+是 O
+石 O
+家 O
+金 O
+谷 O
+里 O
+
+流 O
+传 O
+未 O
+满 O
+洛 O
+阳 O
+城 O
+
+闺 O
+情 O
+
+日 O
+暮 O
+裁 O
+缝 O
+歇 O
+
+深 O
+嫌 O
+气 O
+力 O
+微 O
+
+才 O
+能 O
+收 O
+箧 O
+笥 O
+
+懒 O
+起 O
+下 O
+帘 O
+帷 O
+
+怨 O
+坐 O
+空 O
+然 O
+烛 O
+
+愁 O
+眠 O
+不 O
+解 O
+衣 O
+
+昨 O
+来 O
+频 O
+梦 O
+见 O
+
+夫 O
+婿 O
+莫 O
+应 O
+知 O
+
+后 O
+庭 O
+怨 O
+
+君 O
+不 O
+见 O
+红 O
+闺 O
+少 O
+女 O
+端 O
+正 O
+时 O
+
+夭 O
+夭 O
+桃 O
+李 O
+仙 O
+容 O
+姿 O
+
+幸 O
+得 O
+君 O
+王 O
+怜 O
+巧 O
+笑 O
+
+披 O
+香 O
+殿 O
+里 O
+荐 O
+蛾 O
+眉 O
+
+蛾 O
+眉 O
+双 O
+双 O
+人 O
+共 O
+进 O
+
+常 O
+恐 O
+妾 O
+身 O
+从 O
+此 O
+摈 O
+
+甄 O
+妃 O
+为 O
+妒 O
+出 O
+层 O
+宫 O
+
+班 O
+女 O
+因 O
+猜 O
+下 O
+长 O
+信 O
+
+长 O
+信 O
+宫 O
+门 O
+闭 O
+不 O
+开 O
+
+昭 O
+阳 O
+歌 O
+吹 O
+风 O
+送 O
+来 O
+
+梦 O
+中 O
+魂 O
+魄 O
+犹 O
+言 O
+是 O
+
+觉 O
+后 O
+精 O
+神 O
+尚 O
+未 O
+回 O
+
+念 O
+君 O
+娇 O
+爱 O
+无 O
+终 O
+始 O
+
+使 O
+妾 O
+长 O
+啼 O
+后 O
+庭 O
+里 O
+
+独 O
+立 O
+每 O
+看 O
+斜 O
+日 O
+尽 O
+
+孤 O
+眠 O
+直 O
+至 O
+残 O
+灯 O
+死 O
+
+秋 O
+日 O
+闻 O
+虫 O
+翡 O
+翠 O
+帘 O
+
+春 O
+晴 O
+照 O
+面 O
+鸳 O
+鸯 O
+水 O
+
+红 O
+颜 O
+旧 O
+来 O
+花 O
+不 O
+胜 O
+
+白 O
+发 O
+如 O
+今 O
+雪 O
+相 O
+似 O
+
+传 O
+闻 O
+纨 O
+扇 O
+恩 O
+未 O
+歇 O
+
+预 O
+想 O
+蛾 O
+眉 O
+上 O
+初 O
+月 O
+
+如 O
+君 O
+贵 O
+伪 O
+不 O
+贵 O
+真 O
+
+还 O
+同 O
+弃 O
+妾 O
+逐 O
+新 O
+人 O
+
+借 O
+问 O
+南 O
+山 O
+松 O
+叶 O
+意 O
+
+何 O
+如 O
+北 O
+砌 O
+槿 O
+花 O
+新 O
+
+相 O
+和 O
+歌 O
+辞 O
+· O
+长 O
+信 O
+怨 O
+
+飞 O
+燕 O
+倚 O
+身 O
+轻 O
+
+争 O
+人 O
+巧 O
+笑 O
+名 O
+
+生 O
+君 O
+弃 O
+妾 O
+意 O
+
+增 O
+妾 O
+怨 O
+君 O
+情 O
+
+日 O
+落 O
+昭 O
+阳 O
+殿 O
+
+秋 O
+来 O
+长 O
+信 O
+城 O
+
+寥 O
+寥 O
+金 O
+殿 O
+里 O
+
+歌 O
+吹 O
+夜 O
+无 O
+声 O
+
+十 O
+五 O
+夜 O
+观 O
+灯 O
+
+暂 O
+得 O
+金 O
+吾 O
+夜 O
+
+通 O
+看 O
+火 O
+树 O
+春 O
+
+停 O
+车 O
+傍 O
+明 O
+月 O
+
+走 O
+马 O
+入 O
+红 O
+尘 O
+
+妓 O
+杂 O
+歌 O
+偏 O
+胜 O
+
+场 O
+移 O
+舞 O
+更 O
+新 O
+
+应 O
+须 O
+尽 O
+记 O
+取 O
+
+说 O
+向 O
+不 O
+来 O
+人 O
+

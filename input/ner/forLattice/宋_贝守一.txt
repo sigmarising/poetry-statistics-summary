@@ -1,0 +1,406 @@
+逍 O
+遥 O
+吟 O
+
+饥 O
+餐 O
+匕 O
+箸 O
+饭 O
+
+渴 O
+饮 O
+甆 O
+罂 O
+酒 O
+
+不 O
+忺 O
+白 O
+昼 O
+眠 O
+
+时 O
+复 O
+绕 O
+庭 O
+走 O
+
+不 O
+结 O
+冷 O
+淡 O
+交 O
+
+亦 O
+无 O
+名 O
+利 O
+友 O
+
+晚 O
+借 O
+竹 O
+风 O
+涼 O
+
+临 O
+池 O
+坐 O
+良 O
+久 O
+
+自 O
+适 O
+
+迹 O
+晦 O
+心 O
+须 O
+晦 O
+
+神 O
+清 O
+梦 O
+亦 O
+清 O
+
+一 O
+窝 O
+如 O
+斗 O
+大 O
+
+万 O
+事 O
+等 O
+沤 O
+成 O
+
+风 O
+月 O
+平 O
+章 O
+易 O
+
+山 O
+林 O
+去 O
+就 O
+轻 O
+
+生 O
+生 O
+终 O
+有 O
+累 O
+
+不 O
+若 O
+事 O
+无 O
+生 O
+
+绝 O
+句 O
+
+高 O
+车 O
+驷 O
+马 O
+谩 O
+相 O
+夸 O
+
+竹 O
+榻 O
+蒲 O
+团 O
+属 O
+自 O
+家 O
+
+困 O
+睡 O
+饥 O
+餐 O
+何 O
+所 O
+有 O
+
+一 O
+溪 O
+明 O
+月 O
+照 O
+梅 O
+花 O
+
+有 O
+何 O
+不 O
+可 O
+
+炎 O
+炎 O
+火 O
+繖 O
+张 O
+空 O
+
+避 O
+暑 O
+林 O
+亭 O
+趺 O
+坐 O
+
+有 O
+时 O
+解 O
+带 O
+披 O
+襟 O
+
+恁 O
+地 O
+有 O
+何 O
+不 O
+可 O
+
+有 O
+何 O
+不 O
+可 O
+
+园 O
+林 O
+桃 O
+李 O
+争 O
+妍 O
+
+我 O
+有 O
+兰 O
+花 O
+数 O
+朵 O
+
+杯 O
+盘 O
+笋 O
+蕨 O
+鲜 O
+肥 O
+
+恁 O
+地 O
+有 O
+何 O
+不 O
+可 O
+
+有 O
+何 O
+不 O
+可 O
+
+佳 O
+花 O
+香 O
+满 O
+修 O
+廊 O
+
+皓 O
+月 O
+当 O
+空 O
+照 O
+我 O
+
+徐 O
+徐 O
+三 O
+弄 O
+瑶 O
+琴 O
+
+凭 O
+地 O
+有 O
+何 O
+不 O
+可 O
+
+有 O
+何 O
+不 O
+可 O
+
+竹 O
+坞 O
+雪 O
+封 O
+云 O
+锁 O
+
+地 O
+炉 O
+温 O
+酒 O
+添 O
+火 O
+
+醉 O
+来 O
+拥 O
+被 O
+高 O
+眠 O
+
+恁 O
+地 O
+有 O
+何 O
+不 O
+可 O
+
+冬 O
+晴 O
+晚 O
+步 O
+
+浮 O
+云 O
+浮 O
+敛 O
+夕 O
+阳 O
+斜 O
+
+路 O
+入 O
+江 O
+村 O
+四 O
+望 O
+赊 O
+
+木 O
+厌 O
+霜 O
+浓 O
+频 O
+脱 O
+叶 O
+
+梅 O
+嫌 O
+春 O
+小 O
+未 O
+开 O
+花 O
+
+翩 O
+翩 O
+过 O
+雁 O
+摩 O
+晴 O
+汉 O
+
+隐 O
+隐 O
+孤 O
+帆 O
+趁 O
+落 O
+霞 O
+
+欲 O
+壮 O
+吟 O
+怀 O
+沽 O
+斗 O
+酒 O
+
+野 O
+田 O
+多 O
+处 O
+少 O
+人 O
+家 O
+
+适 O
+意 O
+
+不 O
+效 O
+痴 O
+禅 O
+误 O
+此 O
+身 O
+
+安 O
+居 O
+随 O
+分 O
+乐 O
+天 O
+真 O
+
+閒 O
+寻 O
+草 O
+药 O
+防 O
+医 O
+病 O
+
+广 O
+施 O
+仙 O
+方 O
+为 O
+济 O
+人 O
+
+学 O
+道 O
+示 O
+逢 O
+师 O
+诀 O
+窍 O
+
+收 O
+心 O
+且 O
+养 O
+自 O
+精 O
+神 O
+
+修 O
+持 O
+要 O
+到 O
+无 O
+空 O
+地 O
+
+扫 O
+却 O
+从 O
+前 O
+碍 O
+眼 O
+尘 O
+

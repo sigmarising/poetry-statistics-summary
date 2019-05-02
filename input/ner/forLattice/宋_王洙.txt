@@ -1,0 +1,912 @@
+重 O
+建 O
+岘 O
+山 O
+羊 O
+侯 O
+祠 O
+歌 O
+
+襄 O
+阳 O
+南 O
+出 O
+大 O
+路 O
+奔 O
+
+小 O
+山 O
+曰 O
+岘 O
+名 O
+特 O
+尊 O
+
+山 O
+形 O
+卑 O
+堕 O
+不 O
+峻 O
+极 O
+
+屹 O
+若 O
+巨 O
+首 O
+临 O
+江 O
+濆 O
+
+大 O
+山 O
+半 O
+空 O
+不 O
+成 O
+霍 O
+
+绝 O
+水 O
+阙 O
+左 O
+非 O
+其 O
+亹 O
+
+砠 O
+巅 O
+赑 O
+屭 O
+戴 O
+危 O
+石 O
+
+箕 O
+踞 O
+曼 O
+衍 O
+罗 O
+芳 O
+荪 O
+
+汉 O
+流 O
+长 O
+骛 O
+滨 O
+其 O
+足 O
+
+东 O
+望 O
+瀰 O
+迆 O
+皆 O
+平 O
+原 O
+
+槎 O
+头 O
+下 O
+瞰 O
+罟 O
+罶 O
+集 O
+
+蔡 O
+洲 O
+近 O
+眺 O
+田 O
+园 O
+蕃 O
+
+何 O
+物 O
+兹 O
+山 O
+匪 O
+秀 O
+出 O
+
+得 O
+使 O
+今 O
+古 O
+闻 O
+听 O
+喧 O
+
+自 O
+昔 O
+羊 O
+公 O
+好 O
+登 O
+览 O
+
+山 O
+名 O
+直 O
+为 O
+贤 O
+者 O
+存 O
+
+鹿 O
+门 O
+望 O
+楚 O
+镇 O
+区 O
+境 O
+
+凤 O
+林 O
+冠 O
+盖 O
+延 O
+山 O
+樊 O
+
+丹 O
+岩 O
+翠 O
+壁 O
+互 O
+幽 O
+胜 O
+
+日 O
+月 O
+亏 O
+蔽 O
+烟 O
+岚 O
+屯 O
+
+公 O
+胡 O
+遗 O
+彼 O
+而 O
+乐 O
+此 O
+
+谈 O
+者 O
+未 O
+始 O
+聊 O
+诊 O
+论 O
+
+吾 O
+谓 O
+圣 O
+达 O
+意 O
+超 O
+豁 O
+
+高 O
+览 O
+便 O
+欲 O
+周 O
+乾 O
+坤 O
+
+孔 O
+登 O
+泰 O
+山 O
+小 O
+天 O
+下 O
+
+阮 O
+升 O
+广 O
+武 O
+叹 O
+竖 O
+昏 O
+
+会 O
+稽 O
+探 O
+穴 O
+禹 O
+书 O
+出 O
+
+之 O
+罘 O
+望 O
+海 O
+云 O
+涛 O
+翻 O
+
+此 O
+中 O
+风 O
+景 O
+亦 O
+虚 O
+远 O
+
+极 O
+目 O
+见 O
+尽 O
+江 O
+山 O
+源 O
+
+东 O
+吴 O
+未 O
+定 O
+劳 O
+机 O
+策 O
+
+置 O
+酒 O
+啸 O
+咏 O
+纾 O
+忧 O
+烦 O
+
+数 O
+顾 O
+润 O
+甫 O
+恤 O
+躬 O
+后 O
+
+誓 O
+将 O
+百 O
+岁 O
+游 O
+清 O
+魂 O
+
+对 O
+公 O
+盛 O
+德 O
+与 O
+山 O
+永 O
+
+正 O
+唯 O
+湛 O
+辈 O
+如 O
+公 O
+言 O
+
+今 O
+兹 O
+去 O
+公 O
+仅 O
+千 O
+载 O
+
+凛 O
+然 O
+英 O
+气 O
+犹 O
+轩 O
+轩 O
+
+我 O
+来 O
+追 O
+古 O
+一 O
+长 O
+息 O
+
+旧 O
+迹 O
+废 O
+毁 O
+成 O
+悲 O
+吞 O
+
+民 O
+豪 O
+占 O
+山 O
+童 O
+其 O
+木 O
+
+嘉 O
+植 O
+不 O
+得 O
+容 O
+本 O
+根 O
+
+利 O
+取 O
+薪 O
+苏 O
+积 O
+稛 O
+絭 O
+
+粥 O
+之 O
+陶 O
+瓬 O
+供 O
+烧 O
+燔 O
+
+羊 O
+公 O
+无 O
+庙 O
+忽 O
+不 O
+祀 O
+
+但 O
+纵 O
+淫 O
+鬼 O
+歆 O
+牲 O
+蘩 O
+
+中 O
+庭 O
+有 O
+碑 O
+即 O
+堕 O
+泪 O
+
+至 O
+今 O
+观 O
+者 O
+怀 O
+仁 O
+恩 O
+
+於 O
+民 O
+何 O
+诛 O
+不 O
+足 O
+问 O
+
+非 O
+民 O
+忘 O
+德 O
+由 O
+官 O
+惛 O
+
+下 O
+教 O
+邑 O
+里 O
+复 O
+祠 O
+宇 O
+
+叙 O
+诸 O
+祭 O
+典 O
+跻 O
+之 O
+元 O
+
+思 O
+仁 O
+爱 O
+树 O
+恭 O
+所 O
+茇 O
+
+禁 O
+止 O
+樵 O
+伐 O
+修 O
+壖 O
+垣 O
+
+且 O
+欲 O
+王 O
+命 O
+得 O
+守 O
+固 O
+
+謄 O
+言 O
+状 O
+事 O
+驰 O
+九 O
+阍 O
+
+书 O
+闻 O
+天 O
+子 O
+蒙 O
+报 O
+可 O
+
+金 O
+石 O
+款 O
+刻 O
+垂 O
+后 O
+昆 O
+
+使 O
+民 O
+永 O
+念 O
+古 O
+遗 O
+受 O
+
+勖 O
+尔 O
+风 O
+化 O
+常 O
+丕 O
+敦 O
+
+来 O
+燕 O
+堂 O
+联 O
+句 O
+
+贤 O
+侯 O
+谢 O
+郡 O
+归 O
+
+从 O
+游 O
+乐 O
+吾 O
+党 O
+
+林 O
+泉 O
+富 O
+馀 O
+地 O
+
+卜 O
+築 O
+疏 O
+陈 O
+莽 O
+
+是 O
+时 O
+春 O
+正 O
+中 O
+
+来 O
+燕 O
+音 O
+下 O
+上 O
+
+若 O
+贺 O
+大 O
+厦 O
+成 O
+
+喜 O
+留 O
+众 O
+宾 O
+赏 O
+
+得 O
+名 O
+因 O
+笑 O
+谈 O
+
+挥 O
+墨 O
+粲 O
+题 O
+榜 O
+
+所 O
+夸 O
+贤 O
+豪 O
+盛 O
+
+岂 O
+止 O
+池 O
+榭 O
+广 O
+
+人 O
+心 O
+乐 O
+且 O
+閒 O
+
+鸟 O
+意 O
+颉 O
+而 O
+颃 O
+
+吟 O
+樽 O
+敞 O
+花 O
+轩 O
+
+醉 O
+枕 O
+酣 O
+风 O
+幌 O
+
+轻 O
+云 O
+薄 O
+藻 O
+栋 O
+
+初 O
+日 O
+丽 O
+珠 O
+纲 O
+
+红 O
+袂 O
+生 O
+暗 O
+香 O
+
+清 O
+弦 O
+泛 O
+馀 O
+响 O
+
+林 O
+深 O
+隐 O
+飞 O
+盖 O
+
+岸 O
+曲 O
+迟 O
+去 O
+桨 O
+
+波 O
+光 O
+栏 O
+槛 O
+明 O
+
+竹 O
+气 O
+衣 O
+巾 O
+爽 O
+
+虚 O
+容 O
+凉 O
+樾 O
+入 O
+
+影 O
+与 O
+文 O
+涟 O
+荡 O
+
+晨 O
+飚 O
+转 O
+绿 O
+蕙 O
+
+夕 O
+雨 O
+滋 O
+膏 O
+壤 O
+
+嘉 O
+辰 O
+喜 O
+盍 O
+朋 O
+
+命 O
+驾 O
+期 O
+屡 O
+往 O
+
+觞 O
+咏 O
+陶 O
+淑 O
+真 O
+
+世 O
+俗 O
+岂 O
+吾 O
+倣 O
+
+得 O
+以 O
+为 O
+胜 O
+游 O
+
+萧 O
+然 O
+散 O
+烦 O
+想 O
+
+公 O
+子 O
+固 O
+好 O
+士 O
+
+世 O
+德 O
+复 O
+可 O
+像 O
+
+今 O
+此 O
+大 O
+基 O
+构 O
+
+不 O
+图 O
+专 O
+奉 O
+养 O
+
+美 O
+哉 O
+风 O
+流 O
+存 O
+
+来 O
+叶 O
+足 O
+师 O
+仰 O
+
+戏 O
+改 O
+杜 O
+赠 O
+郑 O
+广 O
+文 O
+诗 O
+
+景 O
+纯 O
+过 O
+官 O
+舍 O
+
+走 O
+马 O
+不 O
+曾 O
+下 O
+
+蓦 O
+地 O
+趁 O
+朝 O
+归 O
+
+便 O
+遭 O
+官 O
+长 O
+骂 O
+
+春 O
+集 O
+东 O
+园 O
+赋 O
+得 O
+萼 O
+字 O
+
+燕 O
+退 O
+朝 O
+事 O
+希 O
+
+鸣 O
+驺 O
+出 O
+云 O
+阁 O
+
+近 O
+游 O
+速 O
+朋 O
+彦 O
+
+名 O
+园 O
+接 O
+闉 O
+郭 O
+
+幽 O
+芳 O
+尚 O
+闲 O
+整 O
+
+新 O
+樾 O
+已 O
+清 O
+漠 O
+
+欢 O
+谈 O
+一 O
+坐 O
+倾 O
+
+递 O
+饮 O
+百 O
+分 O
+涸 O
+
+我 O
+亦 O
+醒 O
+而 O
+狂 O
+
+遵 O
+溪 O
+纵 O
+行 O
+乐 O
+
+晚 O
+驾 O
+方 O
+惜 O
+归 O
+
+正 O
+巾 O
+坠 O
+香 O
+萼 O
+
+句 O
+
+槐 O
+杪 O
+青 O
+虫 O
+缒 O
+夕 O
+阳 O
+
+赠 O
+狄 O
+国 O
+寅 O
+
+每 O
+读 O
+梁 O
+公 O
+传 O
+
+青 O
+编 O
+日 O
+屡 O
+开 O
+
+神 O
+交 O
+慕 O
+英 O
+烈 O
+
+自 O
+喜 O
+见 O
+云 O
+来 O
+
+一 O
+命 O
+须 O
+朝 O
+禄 O
+
+连 O
+章 O
+荐 O
+楚 O
+材 O
+
+凡 O
+昇 O
+黄 O
+绶 O
+秩 O
+
+世 O
+代 O
+乃 O
+身 O
+媒 O
+

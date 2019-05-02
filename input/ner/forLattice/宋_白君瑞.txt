@@ -1,0 +1,519 @@
+念 O
+奴 O
+娇 O
+
+江 O
+干 O
+蹭 O
+蹬 O
+
+镇 O
+寻 O
+常 O
+
+怀 O
+想 O
+京 O
+城 O
+春 O
+色 O
+
+静 O
+倚 O
+山 O
+亭 O
+凝 O
+望 O
+处 O
+
+惟 O
+见 O
+鸟 O
+飞 O
+云 O
+幕 O
+
+拂 O
+面 O
+埃 O
+尘 O
+
+跳 O
+□ O
+□ O
+□ O
+
+老 O
+却 O
+风 O
+流 O
+格 O
+
+年 O
+来 O
+却 O
+有 O
+
+短 O
+蓑 O
+轻 O
+棹 O
+胸 O
+臆 O
+
+闻 O
+与 O
+俊 O
+逸 O
+嬉 O
+游 O
+
+笙 O
+歌 O
+丛 O
+里 O
+
+眷 O
+恋 O
+中 O
+华 O
+国 O
+
+况 O
+是 O
+韶 O
+阳 O
+将 O
+近 O
+也 O
+
+应 O
+办 O
+青 O
+骢 O
+金 O
+勒 O
+
+丰 O
+乐 O
+阑 O
+干 O
+
+西 O
+湖 O
+烟 O
+水 O
+
+遍 O
+赏 O
+苏 O
+堤 O
+侧 O
+
+举 O
+觞 O
+须 O
+酹 O
+
+天 O
+隅 O
+犀 O
+渚 O
+孤 O
+客 O
+
+风 O
+入 O
+松 O
+
+一 O
+冬 O
+不 O
+见 O
+雪 O
+花 O
+飞 O
+
+爱 O
+日 O
+荡 O
+晴 O
+晖 O
+
+腊 O
+残 O
+未 O
+解 O
+寒 O
+塘 O
+冻 O
+
+东 O
+风 O
+细 O
+
+已 O
+露 O
+春 O
+期 O
+
+正 O
+是 O
+年 O
+时 O
+策 O
+马 O
+
+相 O
+随 O
+村 O
+落 O
+寻 O
+梅 O
+
+故 O
+人 O
+别 O
+久 O
+信 O
+音 O
+稀 O
+
+排 O
+闷 O
+有 O
+新 O
+诗 O
+
+雁 O
+声 O
+北 O
+去 O
+江 O
+城 O
+暖 O
+
+暗 O
+舒 O
+展 O
+
+花 O
+柳 O
+容 O
+仪 O
+
+屈 O
+指 O
+烧 O
+灯 O
+不 O
+远 O
+
+等 O
+闲 O
+休 O
+锁 O
+双 O
+眉 O
+
+柳 O
+梢 O
+青 O
+
+玉 O
+骨 O
+冰 O
+姿 O
+
+天 O
+然 O
+清 O
+楚 O
+
+雪 O
+里 O
+曾 O
+看 O
+
+物 O
+外 O
+幽 O
+人 O
+
+细 O
+窥 O
+天 O
+巧 O
+
+收 O
+入 O
+毫 O
+端 O
+
+一 O
+枝 O
+影 O
+落 O
+云 O
+笺 O
+
+便 O
+似 O
+觉 O
+
+清 O
+风 O
+夜 O
+寒 O
+
+试 O
+向 O
+松 O
+窗 O
+
+待 O
+闲 O
+一 O
+展 O
+
+俗 O
+虑 O
+都 O
+捐 O
+
+满 O
+江 O
+红 O
+
+木 O
+落 O
+林 O
+疏 O
+
+秋 O
+渐 O
+冷 O
+
+芙 O
+蓉 O
+新 O
+拆 O
+
+傍 O
+碧 O
+水 O
+
+晓 O
+妆 O
+初 O
+鉴 O
+
+露 O
+匀 O
+妖 O
+色 O
+
+故 O
+向 O
+霜 O
+前 O
+呈 O
+艳 O
+态 O
+
+想 O
+应 O
+青 O
+女 O
+加 O
+怜 O
+惜 O
+
+映 O
+朝 O
+阳 O
+
+翠 O
+叶 O
+拥 O
+红 O
+苞 O
+
+闲 O
+庭 O
+侧 O
+
+岩 O
+桂 O
+香 O
+
+随 O
+飘 O
+泊 O
+
+篱 O
+菊 O
+嫩 O
+
+陪 O
+幽 O
+寂 O
+
+笑 O
+春 O
+红 O
+容 O
+易 O
+
+被 O
+风 O
+吹 O
+落 O
+
+满 O
+眼 O
+炯 O
+然 O
+宫 O
+锦 O
+烂 O
+
+一 O
+身 O
+如 O
+寄 O
+神 O
+仙 O
+宅 O
+
+把 O
+绿 O
+尊 O
+
+莫 O
+惜 O
+醉 O
+相 O
+酬 O
+
+春 O
+工 O
+力 O
+
+水 O
+调 O
+歌 O
+头 O
+
+凉 O
+吹 O
+佛 O
+衣 O
+袂 O
+
+助 O
+我 O
+上 O
+高 O
+台 O
+
+云 O
+檐 O
+风 O
+栋 O
+
+窗 O
+户 O
+绝 O
+纤 O
+埃 O
+
+四 O
+绕 O
+江 O
+山 O
+雄 O
+麓 O
+
+万 O
+古 O
+盘 O
+龙 O
+踞 O
+虎 O
+
+壮 O
+气 O
+销 O
+崖 O
+嵬 O
+
+二 O
+水 O
+中 O
+分 O
+远 O
+
+艇 O
+子 O
+自 O
+归 O
+来 O
+
+望 O
+白 O
+云 O
+
+迎 O
+碧 O
+汉 O
+
+俯 O
+长 O
+淮 O
+
+铎 O
+声 O
+到 O
+耳 O
+
+亭 O
+亭 O
+孤 O
+塔 O
+现 O
+林 O
+隈 O
+
+烟 O
+惹 O
+宫 O
+城 O
+深 O
+树 O
+
+日 O
+照 O
+酒 O
+楼 O
+帘 O
+幕 O
+
+物 O
+象 O
+眼 O
+前 O
+排 O
+
+长 O
+啸 O
+下 O
+梯 O
+径 O
+
+欲 O
+去 O
+更 O
+徘 O
+徊 O
+

@@ -1,0 +1,496 @@
+夏 O
+景 O
+
+竹 O
+几 O
+藤 O
+床 O
+石 O
+砚 O
+屏 O
+
+薰 O
+风 O
+帘 O
+幕 O
+篆 O
+烟 O
+清 O
+
+空 O
+斋 O
+数 O
+点 O
+黄 O
+梅 O
+雨 O
+
+添 O
+得 O
+芭 O
+蕉 O
+绿 O
+满 O
+庭 O
+
+秋 O
+景 O
+
+商 O
+声 O
+早 O
+已 O
+到 O
+梧 O
+桐 O
+
+夜 O
+气 O
+生 O
+凉 O
+湛 O
+碧 O
+空 O
+
+閒 O
+倚 O
+小 O
+窗 O
+待 O
+明 O
+月 O
+
+紫 O
+箫 O
+吹 O
+彻 O
+木 O
+犀 O
+风 O
+
+守 O
+犬 O
+
+风 O
+恬 O
+月 O
+朗 O
+眠 O
+花 O
+影 O
+
+吏 O
+不 O
+敲 O
+门 O
+门 O
+恰 O
+静 O
+
+何 O
+事 O
+猛 O
+然 O
+吠 O
+一 O
+声 O
+
+有 O
+人 O
+来 O
+汲 O
+门 O
+前 O
+井 O
+
+咏 O
+雪 O
+用 O
+滕 O
+字 O
+韵 O
+
+天 O
+上 O
+九 O
+龙 O
+施 O
+法 O
+水 O
+
+人 O
+间 O
+二 O
+鼠 O
+齿 O
+枯 O
+藤 O
+
+鹜 O
+鹅 O
+声 O
+乱 O
+功 O
+收 O
+蔡 O
+
+蝴 O
+蝶 O
+飞 O
+来 O
+妙 O
+过 O
+滕 O
+
+冬 O
+景 O
+
+斗 O
+室 O
+萧 O
+萧 O
+日 O
+晏 O
+眠 O
+
+疏 O
+狂 O
+惟 O
+与 O
+懒 O
+相 O
+便 O
+
+寻 O
+常 O
+甲 O
+子 O
+无 O
+心 O
+记 O
+
+看 O
+到 O
+梅 O
+花 O
+又 O
+一 O
+年 O
+
+又 O
+赋 O
+昙 O
+字 O
+韵 O
+
+万 O
+里 O
+关 O
+河 O
+冻 O
+欲 O
+含 O
+
+浑 O
+如 O
+天 O
+地 O
+尚 O
+函 O
+三 O
+
+桥 O
+边 O
+驴 O
+子 O
+诗 O
+何 O
+恶 O
+
+帐 O
+底 O
+羔 O
+儿 O
+酒 O
+正 O
+酣 O
+
+竹 O
+委 O
+长 O
+身 O
+寒 O
+郭 O
+索 O
+
+松 O
+埋 O
+短 O
+发 O
+老 O
+瞿 O
+昙 O
+
+不 O
+如 O
+乘 O
+此 O
+擒 O
+元 O
+济 O
+
+一 O
+洗 O
+江 O
+南 O
+草 O
+木 O
+惭 O
+
+红 O
+梅 O
+
+疏 O
+影 O
+离 O
+奇 O
+色 O
+更 O
+柔 O
+
+谁 O
+将 O
+红 O
+粉 O
+点 O
+枝 O
+头 O
+
+牧 O
+童 O
+睡 O
+起 O
+朦 O
+胧 O
+眼 O
+
+错 O
+认 O
+桃 O
+林 O
+欲 O
+放 O
+牛 O
+
+千 O
+松 O
+图 O
+
+五 O
+百 O
+居 O
+东 O
+五 O
+百 O
+西 O
+
+枝 O
+枝 O
+叶 O
+叶 O
+压 O
+云 O
+低 O
+
+自 O
+从 O
+老 O
+鹤 O
+归 O
+来 O
+后 O
+
+不 O
+许 O
+閒 O
+禽 O
+杂 O
+乱 O
+啼 O
+
+春 O
+景 O
+
+前 O
+溪 O
+冻 O
+解 O
+绿 O
+生 O
+波 O
+
+好 O
+雨 O
+催 O
+花 O
+向 O
+晓 O
+过 O
+
+宿 O
+酒 O
+未 O
+醒 O
+眠 O
+未 O
+起 O
+
+半 O
+窗 O
+红 O
+日 O
+鸟 O
+声 O
+多 O
+
+绿 O
+萍 O
+
+密 O
+密 O
+绵 O
+绵 O
+满 O
+草 O
+堂 O
+
+不 O
+容 O
+红 O
+日 O
+下 O
+沧 O
+浪 O
+
+却 O
+因 O
+风 O
+扫 O
+沾 O
+泥 O
+土 O
+
+燕 O
+子 O
+衔 O
+来 O
+上 O
+画 O
+梁 O
+
+壶 O
+蜂 O
+
+长 O
+日 O
+融 O
+和 O
+舞 O
+细 O
+腰 O
+
+谁 O
+家 O
+庭 O
+院 O
+不 O
+相 O
+招 O
+
+江 O
+皋 O
+二 O
+月 O
+斜 O
+风 O
+急 O
+
+拚 O
+逐 O
+飞 O
+花 O
+过 O
+短 O
+桥 O
+
+题 O
+画 O
+梅 O
+赠 O
+黄 O
+君 O
+
+黄 O
+君 O
+画 O
+梅 O
+天 O
+下 O
+奇 O
+
+枝 O
+枝 O
+笔 O
+底 O
+如 O
+龙 O
+飞 O
+
+干 O
+盘 O
+屈 O
+曲 O
+苍 O
+苔 O
+古 O
+
+老 O
+树 O
+顷 O
+刻 O
+生 O
+光 O
+辉 O
+
+婆 O
+娑 O
+月 O
+下 O
+弄 O
+清 O
+影 O
+
+更 O
+有 O
+幽 O
+香 O
+袭 O
+诗 O
+境 O
+
+地 O
+僻 O
+从 O
+无 O
+车 O
+马 O
+尘 O
+
+间 O
+关 O
+翠 O
+禽 O
+啼 O
+梦 O
+冷 O
+

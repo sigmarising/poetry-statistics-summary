@@ -1,0 +1,479 @@
+轻 O
+薄 O
+篇 O
+
+末 O
+世 O
+多 O
+轻 O
+薄 O
+
+骄 O
+代 O
+好 O
+浮 O
+华 O
+
+志 O
+意 O
+既 O
+放 O
+逸 O
+
+赀 O
+财 O
+亦 O
+丰 O
+奢 O
+
+被 O
+服 O
+极 O
+纤 O
+丽 O
+
+肴 O
+膳 O
+尽 O
+柔 O
+嘉 O
+
+僮 O
+仆 O
+余 O
+粱 O
+肉 O
+
+婢 O
+妾 O
+蹈 O
+绫 O
+罗 O
+
+文 O
+轩 O
+树 O
+羽 O
+盖 O
+
+乘 O
+马 O
+鸣 O
+玉 O
+珂 O
+
+横 O
+簪 O
+刻 O
+玳 O
+瑁 O
+
+长 O
+鞭 O
+错 O
+象 O
+牙 O
+
+足 O
+下 O
+金 O
+鑮 O
+履 O
+
+手 O
+中 O
+双 O
+莫 O
+邪 O
+
+宾 O
+从 O
+焕 O
+络 O
+绎 O
+
+侍 O
+御 O
+何 O
+芬 O
+葩 O
+
+朝 O
+与 O
+金 O
+张 O
+期 O
+
+暮 O
+宿 O
+许 O
+史 O
+家 O
+
+甲 O
+第 O
+面 O
+长 O
+街 O
+
+朱 O
+门 O
+赫 O
+嵯 O
+峨 O
+
+苍 O
+梧 O
+竹 O
+叶 O
+清 O
+
+宜 O
+城 O
+九 O
+酝 O
+醝 O
+
+浮 O
+醪 O
+随 O
+觞 O
+转 O
+
+素 O
+蚁 O
+自 O
+跳 O
+波 O
+
+美 O
+女 O
+兴 O
+齐 O
+赵 O
+
+妍 O
+唱 O
+出 O
+西 O
+巴 O
+
+一 O
+顾 O
+倾 O
+城 O
+国 O
+
+千 O
+金 O
+不 O
+足 O
+多 O
+
+北 O
+里 O
+献 O
+奇 O
+舞 O
+
+大 O
+陵 O
+奏 O
+名 O
+歌 O
+
+新 O
+声 O
+逾 O
+激 O
+楚 O
+
+妙 O
+妓 O
+绝 O
+阳 O
+阿 O
+
+玄 O
+鹤 O
+降 O
+浮 O
+云 O
+
+鲟 O
+鱼 O
+跃 O
+中 O
+河 O
+
+墨 O
+翟 O
+且 O
+停 O
+车 O
+
+展 O
+季 O
+犹 O
+咨 O
+嗟 O
+
+淳 O
+于 O
+前 O
+行 O
+酒 O
+
+雍 O
+门 O
+坐 O
+相 O
+和 O
+
+孟 O
+公 O
+结 O
+重 O
+关 O
+
+宾 O
+客 O
+不 O
+得 O
+蹉 O
+
+三 O
+雅 O
+来 O
+何 O
+迟 O
+
+耳 O
+热 O
+眼 O
+中 O
+花 O
+
+盘 O
+案 O
+互 O
+交 O
+错 O
+
+坐 O
+席 O
+咸 O
+喧 O
+哗 O
+
+簪 O
+珥 O
+或 O
+堕 O
+落 O
+
+冠 O
+冕 O
+皆 O
+倾 O
+斜 O
+
+酣 O
+饮 O
+终 O
+日 O
+夜 O
+
+明 O
+灯 O
+继 O
+朝 O
+霞 O
+
+绝 O
+缨 O
+尚 O
+不 O
+尤 O
+
+安 O
+能 O
+复 O
+顾 O
+他 O
+
+留 O
+连 O
+弥 O
+信 O
+宿 O
+
+此 O
+欢 O
+难 O
+可 O
+过 O
+
+人 O
+生 O
+若 O
+浮 O
+寄 O
+
+年 O
+时 O
+忽 O
+蹉 O
+跎 O
+
+促 O
+促 O
+朝 O
+露 O
+期 O
+
+荣 O
+乐 O
+遽 O
+几 O
+何 O
+
+念 O
+此 O
+肠 O
+中 O
+悲 O
+
+涕 O
+下 O
+自 O
+滂 O
+沱 O
+
+但 O
+畏 O
+执 O
+法 O
+吏 O
+
+礼 O
+防 O
+且 O
+切 O
+磋 O
+
+太 O
+康 O
+六 O
+年 O
+三 O
+月 O
+三 O
+日 O
+后 O
+园 O
+会 O
+
+暮 O
+春 O
+元 O
+日 O
+
+阳 O
+气 O
+清 O
+明 O
+
+祁 O
+祁 O
+甘 O
+雨 O
+
+膏 O
+泽 O
+流 O
+盈 O
+
+习 O
+习 O
+祥 O
+风 O
+
+启 O
+滞 O
+异 O
+生 O
+
+禽 O
+鸟 O
+翔 O
+逸 O
+
+卉 O
+木 O
+滋 O
+荣 O
+
+情 O
+诗 O
+
+游 O
+目 O
+四 O
+野 O
+外 O
+
+逍 O
+遥 O
+独 O
+延 O
+伫 O
+
+兰 O
+蕙 O
+缘 O
+清 O
+渠 O
+
+繁 O
+华 O
+荫 O
+绿 O
+渚 O
+
+佳 O
+人 O
+不 O
+在 O
+兹 O
+
+取 O
+此 O
+欲 O
+谁 O
+与 O
+
+巢 O
+居 O
+知 O
+风 O
+寒 O
+
+穴 O
+处 O
+识 O
+阴 O
+雨 O
+
+不 O
+曾 O
+远 O
+别 O
+离 O
+
+安 O
+知 O
+慕 O
+俦 O
+侣 O
+

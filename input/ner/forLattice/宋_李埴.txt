@@ -1,0 +1,327 @@
+竹 O
+斋 O
+题 O
+事 O
+
+低 O
+斋 O
+结 O
+空 O
+野 O
+
+小 O
+竹 O
+移 O
+孤 O
+林 O
+
+斋 O
+闲 O
+竹 O
+净 O
+好 O
+
+日 O
+媚 O
+幽 O
+人 O
+心 O
+
+南 O
+方 O
+夏 O
+厌 O
+暑 O
+
+独 O
+此 O
+留 O
+残 O
+阴 O
+
+戛 O
+雨 O
+挫 O
+促 O
+梦 O
+
+穿 O
+风 O
+搜 O
+凉 O
+襟 O
+
+长 O
+茵 O
+展 O
+丽 O
+藓 O
+
+乱 O
+歌 O
+奏 O
+欢 O
+禽 O
+
+侍 O
+奴 O
+裹 O
+村 O
+服 O
+
+语 O
+客 O
+抛 O
+尘 O
+簪 O
+
+志 O
+高 O
+成 O
+利 O
+犇 O
+
+思 O
+爽 O
+生 O
+诗 O
+淫 O
+
+值 O
+圣 O
+喜 O
+盈 O
+卷 O
+
+感 O
+古 O
+悲 O
+人 O
+琴 O
+
+山 O
+迎 O
+稳 O
+履 O
+远 O
+
+月 O
+勤 O
+澄 O
+杯 O
+深 O
+
+荣 O
+名 O
+虽 O
+未 O
+染 O
+
+幸 O
+亦 O
+非 O
+烟 O
+沉 O
+
+离 O
+巫 O
+山 O
+晚 O
+泊 O
+棹 O
+石 O
+滩 O
+下 O
+
+黄 O
+昏 O
+风 O
+雨 O
+阻 O
+江 O
+滨 O
+
+翠 O
+绾 O
+群 O
+峰 O
+莫 O
+色 O
+匀 O
+
+一 O
+夜 O
+子 O
+规 O
+啼 O
+到 O
+晓 O
+
+孤 O
+舟 O
+愁 O
+杀 O
+未 O
+归 O
+人 O
+
+上 O
+巳 O
+从 O
+史 O
+巫 O
+山 O
+超 O
+过 O
+{ O
+左 O
+衤 O
+右 O
+弗 O
+} O
+饮 O
+江 O
+皋 O
+
+风 O
+沙 O
+一 O
+夜 O
+卷 O
+冥 O
+冥 O
+
+晓 O
+色 O
+曈 O
+曚 O
+上 O
+翠 O
+屏 O
+
+薄 O
+宦 O
+驱 O
+人 O
+成 O
+老 O
+大 O
+
+佳 O
+时 O
+得 O
+酒 O
+慰 O
+飘 O
+零 O
+
+红 O
+馀 O
+晚 O
+树 O
+迷 O
+幽 O
+谷 O
+
+绿 O
+涨 O
+晴 O
+波 O
+失 O
+远 O
+汀 O
+
+却 O
+是 O
+崇 O
+山 O
+兼 O
+峻 O
+岭 O
+
+看 O
+来 O
+浑 O
+不 O
+减 O
+兰 O
+亭 O
+
+白 O
+马 O
+湖 O
+
+白 O
+马 O
+湖 O
+光 O
+绿 O
+染 O
+衣 O
+
+兰 O
+舟 O
+溶 O
+洋 O
+彩 O
+鸳 O
+飞 O
+
+闲 O
+愁 O
+不 O
+到 O
+秋 O
+风 O
+后 O
+
+听 O
+唱 O
+蛮 O
+歌 O
+月 O
+下 O
+归 O
+
+句 O
+
+日 O
+射 O
+红 O
+鸾 O
+扇 O
+
+风 O
+清 O
+白 O
+野 O
+樽 O
+
+四 O
+恩 O
+岩 O
+
+疲 O
+筇 O
+扪 O
+石 O
+上 O
+
+大 O
+野 O
+俯 O
+栏 O
+窥 O
+
+洞 O
+穴 O
+通 O
+诸 O
+顶 O
+
+泉 O
+流 O
+接 O
+两 O
+地 O
+

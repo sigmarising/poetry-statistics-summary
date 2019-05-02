@@ -1,0 +1,511 @@
+木 O
+兰 O
+辞 O
+
+唧 O
+唧 O
+复 O
+唧 O
+唧 O
+
+木 O
+兰 O
+当 O
+户 O
+织 O
+
+不 O
+闻 O
+机 O
+杼 O
+声 O
+
+唯 O
+闻 O
+女 O
+叹 O
+息 O
+
+问 O
+女 O
+何 O
+所 O
+思 O
+
+问 O
+女 O
+何 O
+所 O
+忆 O
+
+女 O
+亦 O
+无 O
+所 O
+思 O
+
+女 O
+亦 O
+无 O
+所 O
+忆 O
+
+昨 O
+夜 O
+见 O
+军 O
+帖 O
+
+可 O
+汗 O
+大 O
+点 O
+兵 O
+
+军 O
+书 O
+十 O
+二 O
+卷 O
+
+卷 O
+卷 O
+有 O
+爷 O
+名 O
+
+阿 O
+爷 O
+无 O
+大 O
+儿 O
+
+木 O
+兰 O
+无 O
+长 O
+兄 O
+
+愿 O
+为 O
+市 O
+鞍 O
+马 O
+
+从 O
+此 O
+替 O
+爷 O
+征 O
+
+东 O
+市 O
+买 O
+骏 O
+马 O
+
+西 O
+市 O
+买 O
+鞍 O
+鞯 O
+
+南 O
+市 O
+买 O
+辔 O
+头 O
+
+北 O
+市 O
+买 O
+长 O
+鞭 O
+
+旦 O
+辞 O
+爷 O
+娘 O
+去 O
+
+暮 O
+宿 O
+黄 O
+河 O
+边 O
+
+不 O
+闻 O
+爷 O
+娘 O
+唤 O
+女 O
+声 O
+
+但 O
+闻 O
+黄 O
+河 O
+流 O
+水 O
+鸣 O
+溅 O
+溅 O
+
+旦 O
+辞 O
+黄 O
+河 O
+去 O
+
+暮 O
+至 O
+黑 O
+山 O
+头 O
+
+不 O
+闻 O
+爷 O
+娘 O
+唤 O
+女 O
+声 O
+
+但 O
+闻 O
+燕 O
+山 O
+胡 O
+骑 O
+鸣 O
+啾 O
+啾 O
+
+万 O
+里 O
+赴 O
+戎 O
+机 O
+
+关 O
+山 O
+度 O
+若 O
+飞 O
+
+朔 O
+气 O
+传 O
+金 O
+柝 O
+
+寒 O
+光 O
+照 O
+铁 O
+衣 O
+
+将 O
+军 O
+百 O
+战 O
+死 O
+
+壮 O
+士 O
+十 O
+年 O
+归 O
+
+归 O
+来 O
+见 O
+天 O
+子 O
+
+天 O
+子 O
+坐 O
+明 O
+堂 O
+
+策 O
+勋 O
+十 O
+二 O
+转 O
+
+赏 O
+赐 O
+百 O
+千 O
+强 O
+
+可 O
+汗 O
+问 O
+所 O
+欲 O
+
+木 O
+兰 O
+不 O
+用 O
+尚 O
+书 O
+郎 O
+
+愿 O
+驰 O
+千 O
+里 O
+足 O
+
+送 O
+儿 O
+还 O
+故 O
+乡 O
+
+爷 O
+娘 O
+闻 O
+女 O
+来 O
+
+出 O
+郭 O
+相 O
+扶 O
+将 O
+
+阿 O
+姊 O
+闻 O
+妹 O
+来 O
+
+当 O
+户 O
+理 O
+红 O
+妆 O
+
+小 O
+弟 O
+闻 O
+姊 O
+来 O
+
+磨 O
+刀 O
+霍 O
+霍 O
+向 O
+猪 O
+羊 O
+
+开 O
+我 O
+东 O
+阁 O
+门 O
+
+坐 O
+我 O
+西 O
+阁 O
+床 O
+
+脱 O
+我 O
+战 O
+时 O
+袍 O
+
+着 O
+我 O
+旧 O
+时 O
+裳 O
+
+当 O
+窗 O
+理 O
+云 O
+鬓 O
+
+对 O
+镜 O
+帖 O
+花 O
+黄 O
+
+出 O
+门 O
+看 O
+火 O
+伴 O
+
+火 O
+伴 O
+皆 O
+惊 O
+忙 O
+
+同 O
+行 O
+十 O
+二 O
+年 O
+
+不 O
+知 O
+木 O
+兰 O
+是 O
+女 O
+郎 O
+
+雄 O
+兔 O
+脚 O
+扑 O
+朔 O
+
+雌 O
+兔 O
+眼 O
+迷 O
+离 O
+
+两 O
+兔 O
+傍 O
+地 O
+走 O
+
+安 O
+能 O
+辨 O
+我 O
+是 O
+雄 O
+雌 O
+
+子 O
+夜 O
+秋 O
+歌 O
+
+秋 O
+风 O
+入 O
+窗 O
+里 O
+
+罗 O
+帐 O
+起 O
+飘 O
+扬 O
+
+仰 O
+头 O
+看 O
+明 O
+月 O
+
+寄 O
+情 O
+千 O
+里 O
+光 O
+
+子 O
+夜 O
+歌 O
+
+始 O
+欲 O
+识 O
+郎 O
+时 O
+
+两 O
+心 O
+望 O
+如 O
+一 O
+
+理 O
+丝 O
+入 O
+残 O
+机 O
+
+何 O
+悟 O
+不 O
+成 O
+匹 O
+
+折 O
+杨 O
+柳 O
+歌 O
+辞 O
+
+遥 O
+看 O
+孟 O
+津 O
+河 O
+
+杨 O
+柳 O
+郁 O
+婆 O
+娑 O
+
+我 O
+是 O
+虏 O
+家 O
+儿 O
+
+不 O
+解 O
+汉 O
+儿 O
+歌 O
+
+懊 O
+侬 O
+歌 O
+
+江 O
+陵 O
+去 O
+扬 O
+州 O
+
+三 O
+千 O
+三 O
+百 O
+里 O
+
+已 O
+行 O
+一 O
+千 O
+三 O
+
+所 O
+有 O
+二 O
+千 O
+在 O
+

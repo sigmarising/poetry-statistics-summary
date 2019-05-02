@@ -1,0 +1,871 @@
+送 O
+阎 O
+校 O
+书 O
+之 O
+越 O
+
+南 O
+入 O
+剡 O
+中 O
+路 O
+
+草 O
+云 O
+应 O
+转 O
+微 O
+
+湖 O
+边 O
+好 O
+花 O
+照 O
+
+山 O
+口 O
+细 O
+泉 O
+飞 O
+
+此 O
+地 O
+饶 O
+古 O
+迹 O
+
+世 O
+人 O
+多 O
+忘 O
+归 O
+
+经 O
+年 O
+松 O
+雪 O
+在 O
+
+永 O
+日 O
+世 O
+情 O
+稀 O
+
+芸 O
+阁 O
+应 O
+相 O
+望 O
+
+芳 O
+时 O
+不 O
+可 O
+违 O
+
+题 O
+农 O
+父 O
+庐 O
+舍 O
+
+东 O
+风 O
+何 O
+时 O
+至 O
+
+已 O
+绿 O
+湖 O
+上 O
+山 O
+
+湖 O
+上 O
+春 O
+已 O
+早 O
+
+田 O
+家 O
+日 O
+不 O
+闲 O
+
+沟 O
+塍 O
+流 O
+水 O
+处 O
+
+耒 O
+耜 O
+平 O
+芜 O
+间 O
+
+薄 O
+暮 O
+饭 O
+牛 O
+罢 O
+
+归 O
+来 O
+还 O
+闭 O
+关 O
+
+湖 O
+中 O
+寄 O
+王 O
+侍 O
+御 O
+
+日 O
+日 O
+湖 O
+水 O
+上 O
+
+好 O
+登 O
+湖 O
+上 O
+楼 O
+
+终 O
+年 O
+不 O
+向 O
+郭 O
+
+过 O
+午 O
+始 O
+梳 O
+头 O
+
+尝 O
+自 O
+爱 O
+杯 O
+酒 O
+
+得 O
+无 O
+相 O
+献 O
+酬 O
+
+小 O
+僮 O
+能 O
+脍 O
+鲤 O
+
+少 O
+妾 O
+事 O
+莲 O
+舟 O
+
+每 O
+有 O
+南 O
+浦 O
+信 O
+
+仍 O
+期 O
+后 O
+月 O
+游 O
+
+方 O
+春 O
+转 O
+摇 O
+荡 O
+
+孤 O
+兴 O
+时 O
+淹 O
+留 O
+
+骢 O
+马 O
+真 O
+傲 O
+吏 O
+
+翛 O
+然 O
+无 O
+所 O
+求 O
+
+晨 O
+趋 O
+玉 O
+阶 O
+下 O
+
+心 O
+许 O
+沧 O
+江 O
+流 O
+
+少 O
+别 O
+如 O
+昨 O
+日 O
+
+何 O
+言 O
+经 O
+数 O
+秋 O
+
+应 O
+知 O
+方 O
+外 O
+事 O
+
+独 O
+往 O
+非 O
+悠 O
+悠 O
+
+省 O
+试 O
+夏 O
+日 O
+可 O
+畏 O
+（ O
+一 O
+作 O
+张 O
+籍 O
+诗 O
+） O
+
+赫 O
+赫 O
+温 O
+风 O
+扇 O
+
+炎 O
+炎 O
+夏 O
+日 O
+徂 O
+
+火 O
+威 O
+驰 O
+迥 O
+野 O
+
+畏 O
+景 O
+烁 O
+遥 O
+途 O
+
+势 O
+矫 O
+翔 O
+阳 O
+翰 O
+
+功 O
+分 O
+造 O
+化 O
+炉 O
+
+禁 O
+城 O
+千 O
+品 O
+烛 O
+
+黄 O
+道 O
+一 O
+轮 O
+孤 O
+
+落 O
+照 O
+频 O
+空 O
+簟 O
+
+馀 O
+晖 O
+卷 O
+夕 O
+梧 O
+
+如 O
+何 O
+倦 O
+游 O
+子 O
+
+中 O
+路 O
+独 O
+踟 O
+蹰 O
+
+左 O
+掖 O
+梨 O
+花 O
+
+冷 O
+艳 O
+金 O
+歇 O
+雪 O
+
+余 O
+香 O
+乍 O
+入 O
+衣 O
+
+春 O
+风 O
+且 O
+莫 O
+定 O
+
+吹 O
+向 O
+玉 O
+阶 O
+飞 O
+
+渡 O
+汉 O
+江 O
+（ O
+一 O
+作 O
+戴 O
+叔 O
+伦 O
+诗 O
+
+题 O
+作 O
+江 O
+行 O
+） O
+
+漾 O
+舟 O
+汉 O
+江 O
+上 O
+
+挂 O
+席 O
+候 O
+风 O
+生 O
+
+临 O
+泛 O
+何 O
+容 O
+与 O
+
+爱 O
+此 O
+江 O
+水 O
+清 O
+
+芦 O
+洲 O
+隐 O
+遥 O
+嶂 O
+
+露 O
+日 O
+映 O
+孤 O
+城 O
+
+自 O
+顾 O
+疏 O
+野 O
+性 O
+
+难 O
+忘 O
+鸥 O
+鸟 O
+情 O
+
+聊 O
+复 O
+与 O
+时 O
+顾 O
+
+暂 O
+欲 O
+解 O
+尘 O
+缨 O
+
+跋 O
+涉 O
+非 O
+吾 O
+愿 O
+
+虚 O
+怀 O
+浩 O
+已 O
+盈 O
+
+竹 O
+下 O
+残 O
+雪 O
+
+一 O
+点 O
+消 O
+未 O
+尽 O
+
+孤 O
+月 O
+在 O
+竹 O
+阴 O
+
+晴 O
+光 O
+夜 O
+转 O
+莹 O
+
+寒 O
+气 O
+晓 O
+仍 O
+深 O
+
+还 O
+对 O
+读 O
+书 O
+牖 O
+
+且 O
+关 O
+乘 O
+兴 O
+心 O
+
+已 O
+能 O
+依 O
+此 O
+地 O
+
+终 O
+不 O
+傍 O
+瑶 O
+琴 O
+
+泛 O
+若 O
+耶 O
+谿 O
+
+结 O
+庐 O
+若 O
+耶 O
+里 O
+
+左 O
+右 O
+若 O
+耶 O
+水 O
+
+无 O
+日 O
+不 O
+钓 O
+鱼 O
+
+有 O
+时 O
+向 O
+城 O
+市 O
+
+溪 O
+中 O
+水 O
+流 O
+急 O
+
+渡 O
+口 O
+水 O
+流 O
+宽 O
+
+每 O
+得 O
+樵 O
+风 O
+便 O
+
+往 O
+来 O
+殊 O
+不 O
+难 O
+
+一 O
+川 O
+草 O
+长 O
+绿 O
+
+四 O
+时 O
+那 O
+得 O
+辨 O
+
+短 O
+褐 O
+衣 O
+妻 O
+儿 O
+
+馀 O
+粮 O
+及 O
+鸡 O
+犬 O
+
+日 O
+暮 O
+鸟 O
+雀 O
+稀 O
+
+稚 O
+子 O
+呼 O
+牛 O
+归 O
+
+住 O
+处 O
+无 O
+邻 O
+里 O
+
+柴 O
+门 O
+独 O
+掩 O
+扉 O
+
+冬 O
+至 O
+下 O
+寄 O
+舍 O
+弟 O
+时 O
+应 O
+赴 O
+入 O
+京 O
+（ O
+杂 O
+言 O
+） O
+
+去 O
+去 O
+知 O
+未 O
+远 O
+
+依 O
+依 O
+甚 O
+初 O
+别 O
+
+他 O
+乡 O
+至 O
+下 O
+心 O
+
+昨 O
+夜 O
+阶 O
+前 O
+雪 O
+
+终 O
+日 O
+读 O
+书 O
+仍 O
+少 O
+孤 O
+
+家 O
+贫 O
+兄 O
+弟 O
+未 O
+当 O
+途 O
+
+适 O
+远 O
+才 O
+过 O
+宿 O
+舂 O
+料 O
+
+相 O
+随 O
+惟 O
+一 O
+平 O
+头 O
+奴 O
+
+男 O
+儿 O
+出 O
+门 O
+事 O
+四 O
+海 O
+
+立 O
+身 O
+世 O
+业 O
+文 O
+章 O
+在 O
+
+莫 O
+漫 O
+忆 O
+柴 O
+扉 O
+
+驷 O
+马 O
+高 O
+车 O
+朝 O
+紫 O
+微 O
+
+江 O
+南 O
+驿 O
+使 O
+不 O
+曾 O
+断 O
+
+迎 O
+前 O
+为 O
+尔 O
+非 O
+春 O
+衣 O
+
+寻 O
+庐 O
+山 O
+崔 O
+征 O
+君 O
+
+日 O
+高 O
+鸡 O
+犬 O
+静 O
+
+门 O
+掩 O
+向 O
+寒 O
+塘 O
+
+夜 O
+竹 O
+深 O
+茅 O
+宇 O
+
+秋 O
+亭 O
+冷 O
+石 O
+床 O
+
+住 O
+山 O
+年 O
+已 O
+远 O
+
+服 O
+药 O
+寿 O
+偏 O
+长 O
+
+虚 O
+弃 O
+浮 O
+生 O
+者 O
+
+相 O
+逢 O
+益 O
+自 O
+伤 O
+
+左 O
+掖 O
+梨 O
+花 O
+（ O
+同 O
+王 O
+维 O
+
+皇 O
+甫 O
+冉 O
+赋 O
+） O
+
+冷 O
+艳 O
+全 O
+欺 O
+雪 O
+
+馀 O
+香 O
+乍 O
+入 O
+衣 O
+
+春 O
+风 O
+且 O
+莫 O
+定 O
+
+吹 O
+向 O
+玉 O
+阶 O
+飞 O
+
+登 O
+润 O
+州 O
+城 O
+
+天 O
+末 O
+江 O
+城 O
+晚 O
+
+登 O
+临 O
+客 O
+望 O
+迷 O
+
+春 O
+潮 O
+平 O
+岛 O
+屿 O
+
+残 O
+雨 O
+隔 O
+虹 O
+蜺 O
+
+鸟 O
+与 O
+孤 O
+帆 O
+远 O
+
+烟 O
+和 O
+独 O
+树 O
+低 O
+
+乡 O
+山 O
+何 O
+处 O
+是 O
+
+目 O
+断 O
+广 O
+陵 O
+西 O
+

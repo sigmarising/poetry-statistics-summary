@@ -1,0 +1,457 @@
+金 O
+菊 O
+对 O
+芙 O
+蓉 O
+
+浅 O
+拂 O
+春 O
+山 O
+
+慢 O
+横 O
+秋 O
+水 O
+
+玉 O
+纤 O
+闲 O
+理 O
+丝 O
+桐 O
+
+按 O
+清 O
+冷 O
+繁 O
+露 O
+
+淡 O
+伫 O
+悲 O
+风 O
+
+素 O
+弦 O
+瑶 O
+轸 O
+调 O
+新 O
+韵 O
+
+颤 O
+翠 O
+翘 O
+
+金 O
+簇 O
+芙 O
+蓉 O
+
+叠 O
+蠲 O
+重 O
+锁 O
+
+轻 O
+挑 O
+慢 O
+摘 O
+
+特 O
+地 O
+情 O
+浓 O
+
+泛 O
+商 O
+刻 O
+羽 O
+无 O
+穷 O
+
+似 O
+和 O
+鸣 O
+鸾 O
+凤 O
+
+律 O
+应 O
+雌 O
+雄 O
+
+问 O
+高 O
+山 O
+流 O
+水 O
+
+此 O
+意 O
+谁 O
+同 O
+
+个 O
+中 O
+只 O
+许 O
+知 O
+音 O
+听 O
+
+有 O
+茂 O
+陵 O
+
+车 O
+马 O
+雍 O
+容 O
+
+画 O
+帘 O
+人 O
+静 O
+
+琴 O
+心 O
+三 O
+叠 O
+
+时 O
+倒 O
+金 O
+锺 O
+
+玉 O
+楼 O
+春 O
+
+柳 O
+梢 O
+绿 O
+小 O
+眉 O
+如 O
+印 O
+
+乍 O
+暖 O
+还 O
+寒 O
+犹 O
+未 O
+定 O
+
+惜 O
+花 O
+长 O
+是 O
+为 O
+花 O
+愁 O
+
+殢 O
+酒 O
+却 O
+嫌 O
+添 O
+酒 O
+病 O
+
+蝇 O
+头 O
+蜗 O
+角 O
+都 O
+休 O
+竞 O
+
+万 O
+古 O
+豪 O
+华 O
+同 O
+一 O
+尽 O
+
+东 O
+君 O
+晓 O
+夜 O
+促 O
+归 O
+期 O
+
+三 O
+十 O
+六 O
+番 O
+花 O
+递 O
+信 O
+
+水 O
+调 O
+歌 O
+头 O
+
+残 O
+腊 O
+卷 O
+愁 O
+去 O
+
+春 O
+至 O
+莫 O
+闲 O
+愁 O
+
+荣 O
+枯 O
+会 O
+有 O
+成 O
+说 O
+
+无 O
+处 O
+著 O
+机 O
+谋 O
+
+身 O
+世 O
+石 O
+中 O
+敲 O
+火 O
+
+富 O
+贵 O
+草 O
+头 O
+垂 O
+露 O
+
+何 O
+用 O
+苦 O
+贪 O
+求 O
+
+三 O
+尺 O
+布 O
+衣 O
+剑 O
+
+千 O
+载 O
+赤 O
+松 O
+游 O
+
+忆 O
+亲 O
+朋 O
+
+方 O
+丱 O
+角 O
+
+总 O
+白 O
+头 O
+
+羊 O
+肠 O
+世 O
+路 O
+巇 O
+嶮 O
+
+莫 O
+莫 O
+且 O
+休 O
+休 O
+
+选 O
+甚 O
+范 O
+侯 O
+高 O
+爵 O
+
+遮 O
+莫 O
+陶 O
+公 O
+钜 O
+产 O
+
+争 O
+似 O
+五 O
+湖 O
+舟 O
+
+万 O
+事 O
+付 O
+蜗 O
+角 O
+
+止 O
+坎 O
+谩 O
+乘 O
+流 O
+
+沁 O
+园 O
+春 O
+
+浅 O
+碧 O
+芙 O
+蓉 O
+
+素 O
+艳 O
+亭 O
+亭 O
+
+前 O
+身 O
+阿 O
+娇 O
+
+记 O
+湘 O
+滨 O
+露 O
+冷 O
+
+酥 O
+容 O
+倍 O
+洁 O
+
+华 O
+清 O
+水 O
+滑 O
+
+酒 O
+晕 O
+全 O
+消 O
+
+瑶 O
+剪 O
+丰 O
+肥 O
+
+云 O
+翻 O
+碎 O
+萼 O
+
+白 O
+羽 O
+鲜 O
+明 O
+时 O
+自 O
+摇 O
+
+风 O
+流 O
+处 O
+
+是 O
+古 O
+香 O
+幽 O
+韵 O
+
+时 O
+度 O
+仙 O
+飙 O
+
+琼 O
+枝 O
+璧 O
+月 O
+清 O
+标 O
+
+对 O
+千 O
+朵 O
+婵 O
+娟 O
+倾 O
+翠 O
+瓢 O
+
+况 O
+水 O
+晶 O
+台 O
+榭 O
+
+低 O
+迷 O
+净 O
+绿 O
+
+冰 O
+霜 O
+词 O
+调 O
+
+隐 O
+约 O
+轻 O
+桡 O
+
+细 O
+认 O
+金 O
+房 O
+
+锺 O
+奇 O
+孕 O
+秀 O
+
+已 O
+觉 O
+青 O
+衿 O
+横 O
+素 O
+腰 O
+
+西 O
+风 O
+晚 O
+
+看 O
+花 O
+开 O
+十 O
+丈 O
+
+玉 O
+井 O
+非 O
+遥 O
+

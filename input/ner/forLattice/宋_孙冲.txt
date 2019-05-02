@@ -1,0 +1,434 @@
+送 O
+张 O
+无 O
+梦 O
+归 O
+天 O
+台 O
+
+天 O
+台 O
+山 O
+里 O
+草 O
+堂 O
+低 O
+
+一 O
+到 O
+都 O
+城 O
+识 O
+面 O
+稀 O
+
+绮 O
+里 O
+冠 O
+裳 O
+遵 O
+汉 O
+命 O
+
+许 O
+由 O
+风 O
+骨 O
+谢 O
+尧 O
+归 O
+
+去 O
+时 O
+暑 O
+气 O
+蒸 O
+船 O
+滴 O
+
+到 O
+日 O
+秋 O
+云 O
+伴 O
+鹤 O
+飞 O
+
+谁 O
+向 O
+薜 O
+萝 O
+寻 O
+觅 O
+得 O
+
+石 O
+桥 O
+侵 O
+汉 O
+见 O
+依 O
+微 O
+
+题 O
+桑 O
+子 O
+铺 O
+石 O
+壁 O
+
+峨 O
+峨 O
+溪 O
+畔 O
+石 O
+
+迢 O
+迢 O
+石 O
+边 O
+路 O
+
+寄 O
+言 O
+名 O
+利 O
+徒 O
+
+清 O
+闲 O
+诚 O
+足 O
+慕 O
+
+长 O
+平 O
+怀 O
+古 O
+
+邯 O
+郸 O
+无 O
+策 O
+信 O
+冯 O
+亭 O
+
+上 O
+党 O
+须 O
+贪 O
+泽 O
+起 O
+兵 O
+
+赵 O
+括 O
+母 O
+言 O
+犹 O
+不 O
+听 O
+
+当 O
+时 O
+谁 O
+肯 O
+计 O
+长 O
+平 O
+
+过 O
+古 O
+夹 O
+寨 O
+城 O
+
+宋 O
+氏 O
+英 O
+声 O
+振 O
+
+并 O
+门 O
+意 O
+气 O
+扬 O
+
+两 O
+雄 O
+争 O
+裂 O
+土 O
+
+百 O
+战 O
+竞 O
+图 O
+王 O
+
+揣 O
+敌 O
+惟 O
+虞 O
+晋 O
+
+躭 O
+颐 O
+已 O
+噬 O
+唐 O
+
+大 O
+河 O
+分 O
+背 O
+面 O
+
+上 O
+党 O
+扼 O
+咽 O
+吭 O
+
+地 O
+利 O
+知 O
+为 O
+胜 O
+
+人 O
+心 O
+彼 O
+未 O
+遑 O
+
+重 O
+围 O
+夸 O
+壁 O
+立 O
+
+夹 O
+寨 O
+逞 O
+虹 O
+张 O
+
+埇 O
+道 O
+便 O
+轮 O
+馈 O
+
+游 O
+兵 O
+劲 O
+绝 O
+粮 O
+
+蒙 O
+冲 O
+窥 O
+女 O
+堞 O
+
+钩 O
+戟 O
+伺 O
+耐 O
+墙 O
+
+踞 O
+峙 O
+培 O
+山 O
+峻 O
+
+环 O
+围 O
+列 O
+堑 O
+长 O
+
+力 O
+攻 O
+须 O
+陷 O
+没 O
+
+坚 O
+拒 O
+倚 O
+金 O
+汤 O
+
+墨 O
+带 O
+推 O
+才 O
+妙 O
+
+班 O
+斤 O
+衒 O
+技 O
+良 O
+
+万 O
+夫 O
+横 O
+剑 O
+刃 O
+
+一 O
+噉 O
+堕 O
+夷 O
+伤 O
+
+野 O
+草 O
+涂 O
+肝 O
+脑 O
+
+贪 O
+心 O
+怒 O
+虎 O
+狼 O
+
+嘶 O
+鸣 O
+宵 O
+遁 O
+马 O
+
+感 O
+慨 O
+守 O
+陴 O
+郎 O
+
+戈 O
+甲 O
+從 O
+谁 O
+息 O
+
+功 O
+名 O
+漫 O
+自 O
+狂 O
+
+逡 O
+巡 O
+称 O
+五 O
+代 O
+
+合 O
+沓 O
+斗 O
+干 O
+场 O
+
+此 O
+后 O
+连 O
+吞 O
+并 O
+
+于 O
+时 O
+旋 O
+覆 O
+亡 O
+
+昔 O
+年 O
+劳 O
+战 O
+阵 O
+
+今 O
+日 O
+旧 O
+城 O
+隍 O
+
+耕 O
+涩 O
+枯 O
+骸 O
+白 O
+
+风 O
+腥 O
+鬼 O
+火 O
+光 O
+
+营 O
+基 O
+系 O
+井 O
+室 O
+
+濠 O
+坎 O
+密 O
+榆 O
+桑 O
+
+忍 O
+杀 O
+天 O
+还 O
+厌 O
+
+阴 O
+谋 O
+嗣 O
+昔 O
+昌 O
+
+驱 O
+除 O
+期 O
+出 O
+震 O
+
+草 O
+昧 O
+在 O
+开 O
+皇 O
+
+真 O
+主 O
+临 O
+绵 O
+宇 O
+
+华 O
+胥 O
+正 O
+乐 O
+康 O
+
+廓 O
+然 O
+文 O
+轨 O
+至 O
+
+海 O
+外 O
+截 O
+封 O
+疆 O
+

@@ -1,0 +1,485 @@
+寻 O
+张 O
+司 O
+马 O
+墓 O
+
+草 O
+荒 O
+树 O
+密 O
+路 O
+三 O
+叉 O
+
+下 O
+马 O
+来 O
+寻 O
+日 O
+色 O
+斜 O
+
+顽 O
+石 O
+呜 O
+呼 O
+都 O
+作 O
+字 O
+
+冬 O
+青 O
+憔 O
+悴 O
+未 O
+开 O
+花 O
+
+夜 O
+台 O
+不 O
+敢 O
+留 O
+真 O
+姓 O
+
+萍 O
+梗 O
+还 O
+来 O
+酹 O
+晚 O
+鸦 O
+
+牡 O
+砺 O
+滩 O
+头 O
+当 O
+日 O
+客 O
+
+茫 O
+然 O
+隔 O
+世 O
+数 O
+年 O
+华 O
+
+周 O
+公 O
+谨 O
+砚 O
+
+弁 O
+阳 O
+片 O
+石 O
+出 O
+塘 O
+栖 O
+
+馀 O
+墨 O
+犹 O
+然 O
+积 O
+水 O
+湄 O
+
+一 O
+半 O
+已 O
+书 O
+亡 O
+宋 O
+事 O
+
+更 O
+留 O
+一 O
+半 O
+写 O
+今 O
+时 O
+
+卧 O
+病 O
+旬 O
+日 O
+未 O
+已 O
+
+闲 O
+书 O
+所 O
+感 O
+
+此 O
+地 O
+那 O
+堪 O
+再 O
+度 O
+年 O
+
+此 O
+身 O
+惭 O
+傀 O
+在 O
+灯 O
+前 O
+
+梦 O
+中 O
+失 O
+哭 O
+儿 O
+呼 O
+我 O
+
+天 O
+末 O
+招 O
+魂 O
+鸟 O
+降 O
+筵 O
+
+好 O
+友 O
+多 O
+从 O
+忠 O
+节 O
+传 O
+
+人 O
+情 O
+不 O
+尽 O
+绝 O
+交 O
+篇 O
+
+于 O
+今 O
+屈 O
+指 O
+几 O
+回 O
+死 O
+
+未 O
+死 O
+犹 O
+然 O
+被 O
+病 O
+眠 O
+
+五 O
+月 O
+二 O
+十 O
+八 O
+日 O
+书 O
+诗 O
+人 O
+壁 O
+
+不 O
+识 O
+山 O
+村 O
+路 O
+纵 O
+横 O
+
+但 O
+随 O
+流 O
+水 O
+小 O
+桥 O
+行 O
+
+一 O
+春 O
+尚 O
+未 O
+闻 O
+黄 O
+鸟 O
+
+玉 O
+女 O
+峰 O
+前 O
+第 O
+一 O
+声 O
+
+五 O
+月 O
+二 O
+十 O
+八 O
+日 O
+书 O
+诗 O
+人 O
+壁 O
+
+水 O
+晶 O
+宫 O
+殿 O
+玉 O
+雕 O
+阑 O
+
+丝 O
+竹 O
+丛 O
+中 O
+墨 O
+未 O
+干 O
+
+却 O
+道 O
+诗 O
+情 O
+多 O
+富 O
+贵 O
+
+故 O
+教 O
+村 O
+落 O
+写 O
+荒 O
+寒 O
+
+周 O
+公 O
+谨 O
+砚 O
+
+剩 O
+水 O
+残 O
+山 O
+字 O
+句 O
+饶 O
+
+剡 O
+源 O
+仁 O
+近 O
+共 O
+推 O
+敲 O
+
+砚 O
+中 O
+斑 O
+驳 O
+遗 O
+民 O
+泪 O
+
+井 O
+底 O
+千 O
+年 O
+恨 O
+未 O
+销 O
+
+山 O
+居 O
+杂 O
+咏 O
+
+锋 O
+镝 O
+牢 O
+囚 O
+取 O
+决 O
+过 O
+
+依 O
+然 O
+不 O
+废 O
+我 O
+弦 O
+歌 O
+
+死 O
+犹 O
+未 O
+肯 O
+输 O
+心 O
+去 O
+
+贫 O
+亦 O
+岂 O
+能 O
+奈 O
+我 O
+何 O
+
+廿 O
+两 O
+棉 O
+花 O
+装 O
+破 O
+被 O
+
+三 O
+根 O
+松 O
+木 O
+煮 O
+空 O
+锅 O
+
+一 O
+冬 O
+也 O
+是 O
+堂 O
+堂 O
+地 O
+
+岂 O
+信 O
+人 O
+间 O
+胜 O
+著 O
+多 O
+
+五 O
+月 O
+二 O
+十 O
+八 O
+日 O
+书 O
+诗 O
+人 O
+壁 O
+
+不 O
+钩 O
+帘 O
+幕 O
+昼 O
+沉 O
+沉 O
+
+难 O
+向 O
+庸 O
+医 O
+话 O
+病 O
+深 O
+
+不 O
+识 O
+诗 O
+人 O
+容 O
+易 O
+病 O
+
+一 O
+春 O
+花 O
+鸟 O
+总 O
+关 O
+心 O
+
+苍 O
+水 O
+
+少 O
+年 O
+苦 O
+节 O
+何 O
+人 O
+似 O
+
+得 O
+此 O
+全 O
+归 O
+亦 O
+称 O
+情 O
+
+废 O
+寺 O
+醵 O
+钱 O
+收 O
+弃 O
+骨 O
+
+老 O
+生 O
+秃 O
+笔 O
+记 O
+琴 O
+声 O
+
+遥 O
+空 O
+摩 O
+影 O
+狂 O
+相 O
+得 O
+
+群 O
+水 O
+穿 O
+礁 O
+浩 O
+未 O
+平 O
+
+两 O
+世 O
+雪 O
+交 O
+私 O
+不 O
+得 O
+
+只 O
+随 O
+众 O
+口 O
+一 O
+闲 O
+评 O
+

@@ -1,0 +1,280 @@
+漂 O
+泊 O
+岳 O
+阳 O
+泛 O
+舟 O
+洞 O
+庭 O
+晚 O
+君 O
+山 O
+与 O
+丁 O
+联 O
+句 O
+
+元 O
+气 O
+无 O
+根 O
+株 O
+
+地 O
+脉 O
+有 O
+断 O
+绝 O
+
+日 O
+月 O
+互 O
+吞 O
+吐 O
+
+云 O
+雾 O
+自 O
+生 O
+灭 O
+
+楚 O
+妃 O
+结 O
+幽 O
+想 O
+
+巴 O
+客 O
+答 O
+清 O
+吷 O
+
+宁 O
+知 O
+莽 O
+苍 O
+中 O
+
+不 O
+假 O
+巨 O
+鳌 O
+力 O
+
+势 O
+阅 O
+南 O
+纪 O
+浮 O
+
+思 O
+随 O
+西 O
+风 O
+发 O
+
+形 O
+影 O
+寄 O
+孤 O
+舟 O
+
+吾 O
+道 O
+成 O
+鴂 O
+舌 O
+
+笑 O
+谈 O
+正 O
+凌 O
+傲 O
+
+俯 O
+仰 O
+不 O
+逼 O
+侧 O
+
+每 O
+与 O
+景 O
+物 O
+会 O
+
+未 O
+省 O
+欢 O
+娱 O
+毕 O
+
+叠 O
+翠 O
+晚 O
+愔 O
+愔 O
+
+堕 O
+黄 O
+秋 O
+的 O
+的 O
+
+鱼 O
+龙 O
+负 O
+贔 O
+贔 O
+
+独 O
+鸟 O
+去 O
+不 O
+息 O
+
+旷 O
+原 O
+眇 O
+周 O
+抱 O
+
+异 O
+境 O
+超 O
+慌 O
+惚 O
+
+径 O
+度 O
+万 O
+顷 O
+空 O
+
+忽 O
+得 O
+一 O
+拳 O
+碧 O
+
+稍 O
+稍 O
+鸡 O
+犬 O
+近 O
+
+依 O
+依 O
+钟 O
+梵 O
+夕 O
+
+推 O
+门 O
+月 O
+微 O
+堕 O
+
+煮 O
+茗 O
+香 O
+初 O
+歇 O
+
+衣 O
+裳 O
+识 O
+霜 O
+信 O
+
+瓶 O
+钵 O
+了 O
+禅 O
+悦 O
+
+事 O
+定 O
+心 O
+源 O
+清 O
+
+梦 O
+回 O
+斗 O
+柄 O
+直 O
+
+周 O
+游 O
+兴 O
+欲 O
+尽 O
+
+长 O
+往 O
+计 O
+未 O
+决 O
+
+出 O
+门 O
+更 O
+回 O
+首 O
+
+沙 O
+水 O
+盪 O
+虚 O
+白 O
+
+美 O
+哉 O
+神 O
+禹 O
+功 O
+
+已 O
+矣 O
+三 O
+苗 O
+国 O
+
+山 O
+川 O
+长 O
+不 O
+朽 O
+
+愚 O
+智 O
+俱 O
+可 O
+惜 O
+
+神 O
+交 O
+正 O
+冥 O
+冥 O
+
+指 O
+点 O
+空 O
+历 O
+历 O
+
+慎 O
+勿 O
+语 O
+俗 O
+人 O
+
+桃 O
+源 O
+恐 O
+相 O
+失 O
+

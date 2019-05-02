@@ -1,0 +1,164 @@
+句 O
+
+书 O
+乱 O
+床 O
+头 O
+无 O
+甲 O
+乙 O
+
+鸟 O
+鸣 O
+窗 O
+外 O
+自 O
+宫 O
+商 O
+
+金 O
+山 O
+亭 O
+呈 O
+翁 O
+守 O
+二 O
+首 O
+
+新 O
+亭 O
+高 O
+敞 O
+枕 O
+城 O
+隈 O
+
+万 O
+里 O
+江 O
+山 O
+爽 O
+气 O
+来 O
+
+云 O
+外 O
+孤 O
+峰 O
+擎 O
+日 O
+晚 O
+
+林 O
+间 O
+啼 O
+鸟 O
+唤 O
+春 O
+回 O
+
+登 O
+车 O
+谩 O
+有 O
+澄 O
+清 O
+志 O
+
+览 O
+景 O
+惭 O
+非 O
+赋 O
+咏 O
+才 O
+
+太 O
+守 O
+风 O
+流 O
+民 O
+讼 O
+简 O
+
+落 O
+成 O
+尊 O
+酒 O
+许 O
+相 O
+陪 O
+
+金 O
+山 O
+亭 O
+呈 O
+翁 O
+守 O
+二 O
+首 O
+
+丹 O
+碧 O
+崔 O
+嵬 O
+切 O
+斗 O
+魁 O
+
+峰 O
+峦 O
+怀 O
+抱 O
+水 O
+萦 O
+回 O
+
+春 O
+归 O
+岩 O
+谷 O
+幽 O
+花 O
+发 O
+
+日 O
+上 O
+楼 O
+台 O
+宿 O
+雾 O
+开 O
+
+天 O
+近 O
+凤 O
+城 O
+瞻 O
+帝 O
+座 O
+
+云 O
+迷 O
+鳌 O
+海 O
+接 O
+蓬 O
+莱 O
+
+登 O
+临 O
+谁 O
+会 O
+迟 O
+留 O
+意 O
+
+共 O
+折 O
+梅 O
+花 O
+更 O
+一 O
+杯 O
+

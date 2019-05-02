@@ -1,0 +1,541 @@
+题 O
+虞 O
+帝 O
+庙 O
+
+南 O
+国 O
+熏 O
+风 O
+入 O
+帝 O
+歌 O
+
+至 O
+今 O
+遗 O
+庙 O
+只 O
+嵯 O
+峨 O
+
+一 O
+天 O
+晓 O
+色 O
+怀 O
+明 O
+哲 O
+
+四 O
+野 O
+春 O
+光 O
+想 O
+太 O
+和 O
+
+存 O
+古 O
+尚 O
+瞻 O
+虞 O
+衮 O
+冕 O
+
+抚 O
+时 O
+几 O
+换 O
+禹 O
+山 O
+河 O
+
+海 O
+滨 O
+乐 O
+可 O
+忘 O
+天 O
+下 O
+
+解 O
+写 O
+灵 O
+明 O
+是 O
+老 O
+轲 O
+
+澹 O
+山 O
+岩 O
+
+永 O
+州 O
+澹 O
+岩 O
+天 O
+下 O
+稀 O
+
+山 O
+灵 O
+妙 O
+斲 O
+涪 O
+翁 O
+知 O
+
+蹲 O
+猊 O
+翔 O
+凤 O
+献 O
+颖 O
+异 O
+
+中 O
+有 O
+仙 O
+佛 O
+来 O
+娱 O
+嬉 O
+
+我 O
+生 O
+骨 O
+相 O
+□ O
+冰 O
+雪 O
+
+心 O
+境 O
+相 O
+□ O
+生 O
+怿 O
+悦 O
+
+缘 O
+轻 O
+自 O
+笑 O
+来 O
+已 O
+迟 O
+
+犹 O
+见 O
+岩 O
+前 O
+古 O
+时 O
+月 O
+
+句 O
+
+山 O
+川 O
+半 O
+为 O
+蛮 O
+烟 O
+累 O
+
+人 O
+物 O
+多 O
+因 O
+谪 O
+籍 O
+香 O
+
+玉 O
+岩 O
+
+山 O
+蹊 O
+屈 O
+曲 O
+石 O
+玲 O
+珑 O
+
+今 O
+古 O
+游 O
+人 O
+兴 O
+不 O
+穷 O
+
+一 O
+一 O
+圆 O
+明 O
+人 O
+不 O
+识 O
+
+却 O
+寻 O
+石 O
+□ O
+任 O
+中 O
+通 O
+
+偕 O
+彭 O
+雅 O
+林 O
+游 O
+翠 O
+即 O
+席 O
+求 O
+和 O
+
+往 O
+事 O
+镌 O
+鑱 O
+一 O
+梦 O
+同 O
+
+游 O
+人 O
+聊 O
+此 O
+句 O
+从 O
+容 O
+
+神 O
+仙 O
+已 O
+逝 O
+境 O
+犹 O
+在 O
+
+洞 O
+府 O
+虽 O
+深 O
+户 O
+不 O
+封 O
+
+阅 O
+遍 O
+古 O
+今 O
+云 O
+木 O
+老 O
+
+洗 O
+空 O
+尘 O
+土 O
+石 O
+泉 O
+舂 O
+
+此 O
+怀 O
+清 O
+白 O
+堪 O
+超 O
+世 O
+
+何 O
+必 O
+星 O
+精 O
+特 O
+地 O
+逢 O
+
+玉 O
+岩 O
+
+翠 O
+屏 O
+青 O
+紫 O
+互 O
+高 O
+低 O
+
+清 O
+净 O
+仙 O
+人 O
+薜 O
+荔 O
+衣 O
+
+正 O
+好 O
+观 O
+心 O
+坐 O
+岩 O
+下 O
+
+忘 O
+归 O
+却 O
+是 O
+不 O
+忘 O
+归 O
+
+山 O
+行 O
+
+川 O
+原 O
+绿 O
+已 O
+张 O
+
+春 O
+去 O
+今 O
+何 O
+在 O
+
+深 O
+树 O
+涵 O
+幽 O
+姿 O
+
+微 O
+云 O
+弄 O
+晴 O
+态 O
+
+禽 O
+声 O
+互 O
+酬 O
+应 O
+
+林 O
+霏 O
+閒 O
+明 O
+晦 O
+
+渐 O
+远 O
+人 O
+迹 O
+稀 O
+
+清 O
+音 O
+自 O
+虚 O
+籁 O
+
+紫 O
+霄 O
+观 O
+
+平 O
+陂 O
+复 O
+峻 O
+坂 O
+
+曲 O
+折 O
+劳 O
+攀 O
+跻 O
+
+中 O
+道 O
+忽 O
+孤 O
+绝 O
+
+恍 O
+然 O
+遇 O
+安 O
+期 O
+
+授 O
+以 O
+度 O
+世 O
+术 O
+
+呼 O
+吸 O
+随 O
+风 O
+飞 O
+
+长 O
+跪 O
+受 O
+隐 O
+文 O
+
+三 O
+复 O
+叹 O
+且 O
+疑 O
+
+变 O
+化 O
+岂 O
+不 O
+神 O
+
+勾 O
+谲 O
+莫 O
+予 O
+期 O
+
+回 O
+鞭 O
+指 O
+故 O
+山 O
+
+从 O
+此 O
+问 O
+所 O
+归 O
+
+晓 O
+行 O
+
+披 O
+衣 O
+起 O
+遐 O
+征 O
+
+微 O
+茫 O
+认 O
+前 O
+路 O
+
+哀 O
+鸿 O
+天 O
+际 O
+云 O
+
+残 O
+月 O
+水 O
+边 O
+树 O
+
+晚 O
+出 O
+
+落 O
+日 O
+山 O
+气 O
+清 O
+
+归 O
+禽 O
+噪 O
+林 O
+杪 O
+
+意 O
+行 O
+忘 O
+远 O
+近 O
+
+吟 O
+过 O
+深 O
+烟 O
+表 O
+
+虢 O
+虢 O
+水 O
+萦 O
+田 O
+
+幽 O
+幽 O
+云 O
+反 O
+峤 O
+
+忽 O
+闻 O
+隣 O
+寺 O
+钟 O
+
+沿 O
+途 O
+发 O
+长 O
+啸 O
+
+石 O
+仙 O
+观 O
+
+千 O
+丈 O
+飞 O
+崖 O
+倚 O
+半 O
+空 O
+
+火 O
+云 O
+时 O
+节 O
+此 O
+清 O
+风 O
+
+身 O
+闲 O
+一 O
+日 O
+俱 O
+仙 O
+思 O
+
+何 O
+用 O
+藏 O
+形 O
+古 O
+木 O
+中 O
+

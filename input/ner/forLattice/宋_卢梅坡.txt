@@ -1,0 +1,522 @@
+柳 O
+絮 O
+
+晴 O
+栏 O
+看 O
+尽 O
+柳 O
+花 O
+飞 O
+
+一 O
+段 O
+风 O
+情 O
+不 O
+自 O
+持 O
+
+若 O
+使 O
+化 O
+为 O
+萍 O
+逐 O
+水 O
+
+不 O
+如 O
+且 O
+作 O
+絮 O
+沾 O
+泥 O
+
+闵 O
+雨 O
+
+百 O
+万 O
+人 O
+家 O
+井 O
+水 O
+黄 O
+
+江 O
+南 O
+大 O
+半 O
+田 O
+无 O
+秧 O
+
+乖 O
+龙 O
+岂 O
+是 O
+为 O
+霖 O
+物 O
+
+贪 O
+弄 O
+明 O
+珠 O
+簸 O
+日 O
+光 O
+
+梅 O
+花 O
+
+梅 O
+雪 O
+争 O
+春 O
+未 O
+肯 O
+降 O
+
+骚 O
+人 O
+阁 O
+笔 O
+费 O
+平 O
+章 O
+
+梅 O
+须 O
+逊 O
+雪 O
+三 O
+分 O
+白 O
+
+雪 O
+却 O
+输 O
+梅 O
+一 O
+段 O
+香 O
+
+茉 O
+莉 O
+
+京 O
+尘 O
+湫 O
+隘 O
+{ O
+左 O
+虫 O
+右 O
+梦 O
+} O
+蚊 O
+多 O
+
+彼 O
+美 O
+繁 O
+英 O
+玉 O
+雪 O
+窠 O
+
+见 O
+谓 O
+娇 O
+柔 O
+能 O
+特 O
+立 O
+
+肯 O
+凭 O
+他 O
+物 O
+学 O
+藤 O
+萝 O
+
+春 O
+日 O
+
+红 O
+芳 O
+满 O
+眼 O
+斗 O
+风 O
+流 O
+
+谁 O
+倍 O
+春 O
+来 O
+有 O
+客 O
+愁 O
+
+惆 O
+怅 O
+不 O
+干 O
+桃 O
+李 O
+事 O
+
+故 O
+山 O
+烟 O
+雨 O
+忆 O
+松 O
+楸 O
+
+落 O
+梅 O
+
+自 O
+负 O
+孤 O
+高 O
+伴 O
+岁 O
+寒 O
+
+玉 O
+堂 O
+茆 O
+舍 O
+一 O
+般 O
+看 O
+
+顽 O
+风 O
+摧 O
+剥 O
+君 O
+知 O
+否 O
+
+铁 O
+笛 O
+一 O
+声 O
+人 O
+倚 O
+栏 O
+
+雪 O
+梅 O
+
+有 O
+梅 O
+无 O
+雪 O
+不 O
+精 O
+神 O
+
+有 O
+雪 O
+无 O
+诗 O
+俗 O
+了 O
+人 O
+
+日 O
+暮 O
+诗 O
+成 O
+天 O
+又 O
+雪 O
+
+与 O
+梅 O
+并 O
+作 O
+十 O
+分 O
+春 O
+
+牡 O
+丹 O
+
+玉 O
+栏 O
+四 O
+面 O
+护 O
+花 O
+王 O
+
+一 O
+段 O
+风 O
+流 O
+似 O
+洛 O
+阳 O
+
+深 O
+院 O
+不 O
+须 O
+驱 O
+野 O
+鹿 O
+
+只 O
+愁 O
+蜂 O
+蝶 O
+暗 O
+偷 O
+香 O
+
+蚕 O
+
+春 O
+蚕 O
+运 O
+巧 O
+起 O
+经 O
+纶 O
+
+底 O
+事 O
+周 O
+防 O
+反 O
+杀 O
+身 O
+
+鼎 O
+镬 O
+如 O
+归 O
+缘 O
+报 O
+主 O
+
+羞 O
+他 O
+肥 O
+禄 O
+避 O
+危 O
+人 O
+
+荼 O
+醾 O
+
+荼 O
+醾 O
+结 O
+屋 O
+是 O
+何 O
+年 O
+
+风 O
+雨 O
+摧 O
+颓 O
+为 O
+怆 O
+然 O
+
+飞 O
+似 O
+绿 O
+珠 O
+楼 O
+上 O
+坠 O
+
+困 O
+于 O
+毕 O
+卓 O
+瓮 O
+间 O
+眠 O
+
+门 O
+前 O
+碍 O
+路 O
+旋 O
+移 O
+来 O
+
+压 O
+架 O
+欹 O
+斜 O
+缘 O
+作 O
+堆 O
+
+三 O
+月 O
+半 O
+时 O
+花 O
+正 O
+好 O
+
+十 O
+年 O
+前 O
+是 O
+手 O
+亲 O
+栽 O
+
+幽 O
+香 O
+早 O
+被 O
+风 O
+偷 O
+递 O
+
+小 O
+蕊 O
+那 O
+禁 O
+雨 O
+急 O
+催 O
+
+尽 O
+数 O
+折 O
+为 O
+神 O
+佛 O
+供 O
+
+免 O
+教 O
+飞 O
+去 O
+卧 O
+苍 O
+苔 O
+
+读 O
+康 O
+节 O
+诗 O
+
+先 O
+生 O
+乐 O
+处 O
+少 O
+人 O
+知 O
+
+最 O
+是 O
+生 O
+平 O
+不 O
+皱 O
+眉 O
+
+身 O
+世 O
+帝 O
+王 O
+全 O
+盛 O
+日 O
+
+风 O
+光 O
+伊 O
+洛 O
+太 O
+平 O
+时 O
+
+画 O
+前 O
+勘 O
+破 O
+先 O
+天 O
+易 O
+
+醉 O
+后 O
+吟 O
+成 O
+击 O
+壤 O
+诗 O
+
+高 O
+卧 O
+行 O
+窝 O
+吾 O
+亦 O
+愿 O
+
+不 O
+堪 O
+心 O
+事 O
+类 O
+周 O
+嫠 O
+
+芙 O
+蓉 O
+
+云 O
+袂 O
+飘 O
+摇 O
+翠 O
+佩 O
+环 O
+
+仙 O
+姿 O
+绰 O
+约 O
+紫 O
+霞 O
+冠 O
+
+虽 O
+然 O
+谪 O
+在 O
+西 O
+风 O
+里 O
+
+合 O
+作 O
+人 O
+间 O
+小 O
+牡 O
+丹 O
+

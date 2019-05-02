@@ -1,0 +1,477 @@
+句 O
+
+月 O
+借 O
+窗 O
+移 O
+疏 O
+影 O
+转 O
+
+风 O
+翻 O
+雪 O
+放 O
+一 O
+枝 O
+高 O
+
+句 O
+
+也 O
+应 O
+只 O
+是 O
+寻 O
+常 O
+夜 O
+
+未 O
+必 O
+如 O
+今 O
+分 O
+外 O
+圆 O
+
+句 O
+
+日 O
+长 O
+人 O
+静 O
+闻 O
+风 O
+佩 O
+
+雨 O
+久 O
+堂 O
+空 O
+生 O
+水 O
+衣 O
+
+句 O
+
+道 O
+上 O
+飞 O
+来 O
+燕 O
+
+帘 O
+间 O
+不 O
+避 O
+人 O
+
+句 O
+
+朱 O
+唇 O
+不 O
+注 O
+晓 O
+妆 O
+薄 O
+
+玉 O
+类 O
+频 O
+啼 O
+夜 O
+雨 O
+翻 O
+
+句 O
+
+人 O
+情 O
+不 O
+似 O
+溪 O
+流 O
+水 O
+
+不 O
+改 O
+当 O
+时 O
+枕 O
+上 O
+声 O
+
+句 O
+
+半 O
+塘 O
+微 O
+涨 O
+聚 O
+红 O
+皱 O
+
+几 O
+亩 O
+清 O
+阴 O
+锁 O
+碧 O
+鲜 O
+
+句 O
+
+冰 O
+看 O
+时 O
+俗 O
+薄 O
+
+雨 O
+弄 O
+客 O
+愁 O
+多 O
+
+句 O
+
+笛 O
+弄 O
+一 O
+声 O
+横 O
+钓 O
+艇 O
+
+月 O
+明 O
+千 O
+里 O
+上 O
+层 O
+楼 O
+
+句 O
+
+檐 O
+花 O
+谢 O
+女 O
+雪 O
+
+径 O
+扫 O
+沈 O
+郎 O
+钱 O
+
+回 O
+文 O
+暮 O
+春 O
+
+娇 O
+声 O
+啭 O
+处 O
+藏 O
+鹦 O
+小 O
+
+美 O
+睡 O
+浓 O
+时 O
+落 O
+日 O
+斜 O
+
+桥 O
+拂 O
+柳 O
+溪 O
+深 O
+涨 O
+水 O
+
+眼 O
+惊 O
+春 O
+雨 O
+过 O
+飞 O
+花 O
+
+句 O
+
+独 O
+鹤 O
+下 O
+随 O
+鸡 O
+饮 O
+啄 O
+
+众 O
+星 O
+高 O
+共 O
+月 O
+徘 O
+徊 O
+
+句 O
+
+一 O
+轴 O
+尘 O
+埃 O
+古 O
+涩 O
+体 O
+
+十 O
+年 O
+灯 O
+火 O
+短 O
+长 O
+檠 O
+
+句 O
+
+轻 O
+雷 O
+入 O
+树 O
+惊 O
+花 O
+魄 O
+
+白 O
+浪 O
+浮 O
+空 O
+涨 O
+水 O
+脂 O
+
+句 O
+
+梦 O
+过 O
+一 O
+年 O
+还 O
+是 O
+魇 O
+
+心 O
+更 O
+万 O
+事 O
+竟 O
+成 O
+灰 O
+
+句 O
+
+农 O
+祥 O
+待 O
+白 O
+未 O
+雪 O
+
+春 O
+榜 O
+争 O
+魁 O
+欲 O
+放 O
+梅 O
+
+句 O
+
+檐 O
+头 O
+清 O
+响 O
+银 O
+匙 O
+动 O
+
+阶 O
+下 O
+寒 O
+光 O
+玉 O
+碗 O
+翻 O
+
+句 O
+
+二 O
+天 O
+开 O
+佛 O
+日 O
+
+一 O
+道 O
+羃 O
+卿 O
+云 O
+
+句 O
+
+泉 O
+声 O
+如 O
+有 O
+语 O
+
+山 O
+色 O
+自 O
+忘 O
+形 O
+
+花 O
+觉 O
+青 O
+春 O
+半 O
+
+山 O
+净 O
+白 O
+昼 O
+阴 O
+
+句 O
+
+无 O
+苗 O
+何 O
+处 O
+寻 O
+黄 O
+犊 O
+
+露 O
+地 O
+谁 O
+家 O
+觅 O
+白 O
+牛 O
+
+句 O
+
+蒹 O
+葭 O
+露 O
+滴 O
+思 O
+乡 O
+恨 O
+
+芦 O
+荻 O
+风 O
+萦 O
+羁 O
+旅 O
+愁 O
+
+句 O
+
+花 O
+蕊 O
+有 O
+须 O
+浑 O
+带 O
+蜜 O
+
+桑 O
+枝 O
+无 O
+叶 O
+已 O
+成 O
+衣 O
+
+苦 O
+阴 O
+
+荒 O
+山 O
+乾 O
+没 O
+更 O
+节 O
+序 O
+
+浊 O
+气 O
+拥 O
+地 O
+愁 O
+无 O
+边 O
+
+非 O
+烟 O
+非 O
+雾 O
+不 O
+见 O
+日 O
+
+欲 O
+雨 O
+欲 O
+雪 O
+难 O
+为 O
+天 O
+
+句 O
+
+写 O
+处 O
+似 O
+移 O
+墙 O
+上 O
+影 O
+
+卷 O
+如 O
+来 O
+寄 O
+陇 O
+头 O
+春 O
+
+句 O
+
+弹 O
+压 O
+京 O
+畿 O
+贤 O
+大 O
+尹 O
+
+藩 O
+宣 O
+上 O
+国 O
+古 O
+贤 O
+侯 O
+

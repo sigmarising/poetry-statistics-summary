@@ -1,0 +1,441 @@
+益 O
+州 O
+州 O
+学 O
+对 O
+训 O
+堂 O
+
+益 O
+为 O
+蕃 O
+捍 O
+西 O
+南 O
+隅 O
+
+物 O
+众 O
+地 O
+大 O
+称 O
+名 O
+都 O
+
+择 O
+守 O
+来 O
+頒 O
+兹 O
+土 O
+政 O
+
+治 O
+人 O
+颇 O
+与 O
+他 O
+邦 O
+殊 O
+
+蹉 O
+跌 O
+一 O
+有 O
+戾 O
+條 O
+教 O
+
+便 O
+宜 O
+皆 O
+得 O
+行 O
+黥 O
+诛 O
+
+群 O
+奸 O
+帖 O
+息 O
+不 O
+敢 O
+动 O
+
+无 O
+复 O
+弄 O
+兵 O
+觊 O
+穿 O
+窬 O
+
+任 O
+威 O
+或 O
+谓 O
+一 O
+时 O
+事 O
+
+立 O
+政 O
+恐 O
+事 O
+非 O
+长 O
+世 O
+图 O
+
+岂 O
+无 O
+达 O
+识 O
+究 O
+是 O
+否 O
+
+重 O
+在 O
+改 O
+作 O
+徒 O
+嗟 O
+吁 O
+
+仲 O
+翁 O
+裔 O
+孙 O
+有 O
+伟 O
+度 O
+
+敢 O
+决 O
+不 O
+以 O
+常 O
+文 O
+拘 O
+
+当 O
+官 O
+勇 O
+欲 O
+除 O
+蔽 O
+法 O
+
+伊 O
+尤 O
+内 O
+恻 O
+仁 O
+心 O
+孚 O
+
+视 O
+人 O
+无 O
+异 O
+远 O
+方 O
+意 O
+
+威 O
+刑 O
+惠 O
+政 O
+还 O
+相 O
+须 O
+
+始 O
+时 O
+岁 O
+荒 O
+力 O
+赈 O
+救 O
+
+坐 O
+使 O
+饿 O
+殍 O
+成 O
+完 O
+肤 O
+
+既 O
+而 O
+为 O
+俗 O
+思 O
+根 O
+本 O
+
+其 O
+在 O
+立 O
+学 O
+陈 O
+师 O
+谟 O
+
+大 O
+开 O
+庠 O
+儒 O
+务 O
+诲 O
+导 O
+
+秀 O
+民 O
+从 O
+慕 O
+纷 O
+来 O
+趋 O
+
+遂 O
+言 O
+讲 O
+署 O
+鸿 O
+生 O
+职 O
+
+使 O
+演 O
+经 O
+傅 O
+傅 O
+诸 O
+徒 O
+
+奏 O
+函 O
+一 O
+上 O
+闻 O
+法 O
+座 O
+
+诏 O
+劄 O
+即 O
+日 O
+来 O
+諧 O
+俞 O
+
+诏 O
+云 O
+信 O
+汝 O
+辨 O
+治 O
+蜀 O
+
+缓 O
+任 O
+威 O
+罚 O
+先 O
+文 O
+儒 O
+
+公 O
+心 O
+感 O
+激 O
+侈 O
+上 O
+赐 O
+
+刻 O
+在 O
+金 O
+石 O
+尊 O
+神 O
+谟 O
+
+覆 O
+之 O
+大 O
+厦 O
+牓 O
+美 O
+称 O
+
+日 O
+久 O
+傅 O
+者 O
+期 O
+无 O
+渝 O
+
+邦 O
+人 O
+承 O
+风 O
+为 O
+盛 O
+事 O
+
+观 O
+者 O
+填 O
+道 O
+来 O
+于 O
+于 O
+
+嗟 O
+嗟 O
+多 O
+士 O
+其 O
+听 O
+命 O
+
+勿 O
+即 O
+邪 O
+径 O
+安 O
+夷 O
+涂 O
+
+师 O
+无 O
+訿 O
+圣 O
+生 O
+率 O
+教 O
+
+信 O
+尚 O
+姬 O
+孔 O
+尊 O
+唐 O
+虞 O
+
+施 O
+之 O
+乡 O
+党 O
+励 O
+雅 O
+俗 O
+
+仁 O
+谊 O
+得 O
+以 O
+相 O
+持 O
+扶 O
+
+汉 O
+皇 O
+初 O
+始 O
+盛 O
+文 O
+学 O
+
+起 O
+自 O
+蜀 O
+国 O
+行 O
+中 O
+区 O
+
+本 O
+朝 O
+教 O
+化 O
+视 O
+三 O
+代 O
+
+建 O
+元 O
+安 O
+可 O
+为 O
+齐 O
+驱 O
+
+吾 O
+君 O
+训 O
+辞 O
+谕 O
+万 O
+里 O
+
+义 O
+均 O
+盘 O
+诰 O
+兹 O
+宣 O
+敷 O
+
+吾 O
+守 O
+教 O
+本 O
+数 O
+一 O
+国 O
+
+学 O
+成 O
+洙 O
+泗 O
+相 O
+涵 O
+濡 O
+
+臣 O
+谋 O
+君 O
+从 O
+协 O
+大 O
+义 O
+
+圣 O
+哲 O
+倡 O
+和 O
+真 O
+同 O
+符 O
+
+欲 O
+歌 O
+盛 O
+节 O
+示 O
+万 O
+古 O
+
+才 O
+不 O
+迨 O
+志 O
+嗟 O
+其 O
+愚 O
+

@@ -1,0 +1,238 @@
+小 O
+辅 O
+茅 O
+亭 O
+新 O
+成 O
+
+榆 O
+柳 O
+清 O
+阴 O
+下 O
+
+茅 O
+亭 O
+近 O
+水 O
+湄 O
+
+抵 O
+檐 O
+栽 O
+美 O
+竹 O
+
+横 O
+榻 O
+赋 O
+新 O
+诗 O
+
+朴 O
+陋 O
+从 O
+人 O
+笑 O
+
+栖 O
+迟 O
+止 O
+自 O
+怡 O
+
+岁 O
+寒 O
+天 O
+地 O
+肃 O
+
+松 O
+雪 O
+有 O
+心 O
+期 O
+
+江 O
+城 O
+子 O
+中 O
+州 O
+乐 O
+府 O
+
+胭 O
+脂 O
+坡 O
+上 O
+月 O
+如 O
+钩 O
+
+问 O
+青 O
+楼 O
+
+觅 O
+温 O
+柔 O
+
+庭 O
+院 O
+深 O
+沈 O
+
+窗 O
+户 O
+掩 O
+清 O
+秋 O
+
+月 O
+下 O
+香 O
+云 O
+娇 O
+堕 O
+砌 O
+
+花 O
+气 O
+重 O
+
+酒 O
+光 O
+浮 O
+
+清 O
+歌 O
+皓 O
+齿 O
+艳 O
+明 O
+眸 O
+
+锦 O
+缠 O
+头 O
+
+若 O
+为 O
+酬 O
+
+门 O
+外 O
+三 O
+更 O
+
+灯 O
+影 O
+立 O
+骅 O
+骝 O
+
+结 O
+习 O
+未 O
+忘 O
+吾 O
+老 O
+矣 O
+
+烦 O
+恼 O
+梦 O
+
+赴 O
+东 O
+流 O
+
+佑 O
+德 O
+观 O
+试 O
+经 O
+
+琳 O
+馆 O
+清 O
+深 O
+小 O
+雪 O
+残 O
+
+酿 O
+梅 O
+天 O
+气 O
+不 O
+多 O
+寒 O
+
+客 O
+窗 O
+竟 O
+日 O
+无 O
+人 O
+到 O
+
+只 O
+有 O
+萧 O
+萧 O
+竹 O
+数 O
+竿 O
+
+书 O
+事 O
+
+客 O
+舍 O
+如 O
+僧 O
+舍 O
+
+秋 O
+风 O
+几 O
+席 O
+清 O
+
+竹 O
+孙 O
+仍 O
+带 O
+箨 O
+
+鸠 O
+妇 O
+已 O
+呼 O
+晴 O
+
+年 O
+老 O
+心 O
+情 O
+减 O
+
+官 O
+卑 O
+去 O
+就 O
+轻 O
+
+京 O
+师 O
+名 O
+籍 O
+甚 O
+
+郑 O
+子 O
+岂 O
+其 O
+卿 O
+

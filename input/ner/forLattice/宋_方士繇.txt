@@ -1,0 +1,473 @@
+句 O
+
+肯 O
+向 O
+渊 O
+明 O
+拚 O
+一 O
+醉 O
+
+何 O
+妨 O
+乘 O
+兴 O
+过 O
+篱 O
+东 O
+
+寒 O
+栖 O
+馆 O
+
+苍 O
+崖 O
+凌 O
+绛 O
+霄 O
+
+横 O
+席 O
+坐 O
+高 O
+迥 O
+
+遥 O
+夜 O
+闻 O
+吹 O
+箫 O
+
+山 O
+空 O
+月 O
+华 O
+冷 O
+
+鸡 O
+豚 O
+社 O
+
+稻 O
+叶 O
+青 O
+青 O
+水 O
+满 O
+塍 O
+
+夕 O
+阳 O
+林 O
+下 O
+赛 O
+田 O
+神 O
+
+投 O
+身 O
+便 O
+入 O
+鸡 O
+豚 O
+社 O
+
+老 O
+去 O
+人 O
+间 O
+懒 O
+问 O
+津 O
+
+句 O
+
+几 O
+酌 O
+碧 O
+筩 O
+陪 O
+笑 O
+咏 O
+
+崇 O
+安 O
+分 O
+水 O
+道 O
+中 O
+
+溪 O
+流 O
+清 O
+浅 O
+路 O
+横 O
+斜 O
+
+日 O
+暮 O
+牛 O
+羊 O
+自 O
+识 O
+家 O
+
+梅 O
+叶 O
+阴 O
+阴 O
+桃 O
+李 O
+尽 O
+
+春 O
+光 O
+已 O
+到 O
+白 O
+桐 O
+花 O
+
+句 O
+
+不 O
+复 O
+云 O
+軿 O
+去 O
+自 O
+留 O
+
+却 O
+凭 O
+飞 O
+鹊 O
+集 O
+中 O
+流 O
+
+丹 O
+崖 O
+
+丹 O
+崖 O
+石 O
+气 O
+凝 O
+高 O
+秋 O
+
+碧 O
+溪 O
+上 O
+引 O
+天 O
+河 O
+流 O
+
+金 O
+堂 O
+石 O
+室 O
+不 O
+可 O
+到 O
+
+玉 O
+棺 O
+莓 O
+苔 O
+生 O
+古 O
+愁 O
+
+仟 O
+人 O
+昔 O
+乘 O
+紫 O
+云 O
+去 O
+
+白 O
+马 O
+摇 O
+鞭 O
+在 O
+何 O
+处 O
+
+茫 O
+茫 O
+尘 O
+世 O
+那 O
+得 O
+知 O
+
+幔 O
+亭 O
+空 O
+记 O
+当 O
+年 O
+事 O
+
+君 O
+不 O
+见 O
+茂 O
+林 O
+松 O
+柏 O
+已 O
+萧 O
+疎 O
+
+乾 O
+鱼 O
+犹 O
+祭 O
+同 O
+亭 O
+祠 O
+
+答 O
+故 O
+人 O
+
+天 O
+涯 O
+春 O
+色 O
+已 O
+平 O
+分 O
+
+桃 O
+李 O
+阴 O
+阴 O
+昼 O
+掩 O
+门 O
+
+黄 O
+素 O
+久 O
+无 O
+人 O
+问 O
+字 O
+
+绿 O
+醽 O
+时 O
+有 O
+客 O
+来 O
+樽 O
+
+栖 O
+迟 O
+未 O
+叹 O
+流 O
+光 O
+远 O
+
+寂 O
+寞 O
+远 O
+令 O
+此 O
+道 O
+存 O
+
+珍 O
+重 O
+故 O
+人 O
+勤 O
+问 O
+讯 O
+
+暮 O
+年 O
+忧 O
+乐 O
+任 O
+乾 O
+坤 O
+
+偶 O
+成 O
+长 O
+句 O
+
+北 O
+风 O
+日 O
+日 O
+闭 O
+柴 O
+门 O
+
+落 O
+尽 O
+梅 O
+花 O
+雨 O
+暗 O
+村 O
+
+虚 O
+阁 O
+留 O
+春 O
+宜 O
+夜 O
+永 O
+
+寒 O
+炉 O
+拨 O
+火 O
+借 O
+春 O
+恩 O
+
+舂 O
+知 O
+身 O
+外 O
+亲 O
+交 O
+少 O
+
+老 O
+觉 O
+人 O
+间 O
+岁 O
+月 O
+奔 O
+
+空 O
+负 O
+平 O
+生 O
+江 O
+海 O
+意 O
+
+只 O
+今 O
+心 O
+事 O
+与 O
+谁 O
+论 O
+
+竹 O
+
+凤 O
+尾 O
+森 O
+森 O
+半 O
+已 O
+舒 O
+
+玳 O
+文 O
+滴 O
+沥 O
+画 O
+难 O
+如 O
+
+虚 O
+心 O
+不 O
+贮 O
+相 O
+思 O
+恨 O
+
+还 O
+作 O
+风 O
+流 O
+向 O
+绮 O
+疏 O
+
+升 O
+山 O
+即 O
+事 O
+
+一 O
+径 O
+西 O
+风 O
+里 O
+
+闲 O
+房 O
+客 O
+未 O
+归 O
+
+砌 O
+苔 O
+侵 O
+野 O
+屐 O
+
+林 O
+叶 O
+上 O
+秋 O
+衣 O
+
+黄 O
+卷 O
+经 O
+心 O
+懒 O
+
+青 O
+纶 O
+入 O
+梦 O
+稀 O
+
+还 O
+书 O
+报 O
+妻 O
+子 O
+
+莫 O
+厌 O
+故 O
+山 O
+薇 O
+
+句 O
+
+流 O
+连 O
+儿 O
+女 O
+意 O
+
+香 O
+满 O
+曝 O
+衣 O
+楼 O
+

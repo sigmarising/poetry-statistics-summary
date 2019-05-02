@@ -1,0 +1,550 @@
+次 O
+胡 O
+馀 O
+学 O
+同 O
+年 O
+四 O
+首 O
+
+桃 O
+花 O
+柳 O
+絮 O
+及 O
+春 O
+敷 O
+
+台 O
+是 O
+浮 O
+轻 O
+匪 O
+壮 O
+图 O
+
+幸 O
+有 O
+田 O
+耕 O
+并 O
+井 O
+饮 O
+
+犹 O
+胜 O
+身 O
+屦 O
+与 O
+妻 O
+纑 O
+
+郎 O
+君 O
+竞 O
+爽 O
+贤 O
+声 O
+起 O
+
+老 O
+子 O
+尊 O
+安 O
+道 O
+味 O
+腴 O
+
+便 O
+是 O
+当 O
+年 O
+正 O
+考 O
+父 O
+
+是 O
+间 O
+饘 O
+粥 O
+口 O
+堪 O
+糊 O
+
+次 O
+胡 O
+馀 O
+学 O
+同 O
+年 O
+四 O
+首 O
+
+力 O
+田 O
+元 O
+不 O
+怵 O
+凶 O
+饥 O
+
+瘠 O
+者 O
+为 O
+谁 O
+谁 O
+是 O
+肥 O
+
+但 O
+得 O
+高 O
+堂 O
+翁 O
+媪 O
+健 O
+
+定 O
+知 O
+奕 O
+世 O
+子 O
+孙 O
+宜 O
+
+追 O
+风 O
+骐 O
+骤 O
+仍 O
+不 O
+蹶 O
+
+览 O
+德 O
+鸾 O
+凤 O
+栖 O
+或 O
+飞 O
+
+有 O
+酒 O
+急 O
+须 O
+频 O
+对 O
+月 O
+
+桂 O
+枝 O
+香 O
+了 O
+到 O
+梅 O
+枝 O
+
+次 O
+胡 O
+济 O
+鼎 O
+同 O
+年 O
+三 O
+律 O
+
+费 O
+却 O
+长 O
+吟 O
+复 O
+短 O
+吟 O
+
+投 O
+瓜 O
+投 O
+李 O
+愧 O
+何 O
+深 O
+
+吾 O
+人 O
+只 O
+记 O
+钱 O
+留 O
+纸 O
+
+此 O
+老 O
+能 O
+令 O
+户 O
+作 O
+金 O
+
+掷 O
+地 O
+有 O
+声 O
+知 O
+处 O
+处 O
+
+如 O
+兰 O
+斯 O
+臭 O
+见 O
+心 O
+心 O
+
+柏 O
+梁 O
+体 O
+后 O
+八 O
+仙 O
+赋 O
+
+趾 O
+美 O
+重 O
+光 O
+未 O
+陆 O
+沉 O
+
+次 O
+胡 O
+济 O
+鼎 O
+同 O
+年 O
+三 O
+律 O
+
+五 O
+经 O
+为 O
+笥 O
+腹 O
+便 O
+便 O
+
+千 O
+佛 O
+名 O
+高 O
+此 O
+作 O
+缘 O
+
+贵 O
+仕 O
+直 O
+堪 O
+梅 O
+和 O
+鼎 O
+
+贫 O
+交 O
+猥 O
+为 O
+酒 O
+供 O
+钱 O
+
+连 O
+章 O
+秋 O
+月 O
+雁 O
+回 O
+翅 O
+
+贮 O
+袖 O
+天 O
+香 O
+龙 O
+吐 O
+涎 O
+
+旧 O
+话 O
+新 O
+情 O
+如 O
+觌 O
+面 O
+
+同 O
+年 O
+真 O
+是 O
+我 O
+同 O
+年 O
+
+次 O
+胡 O
+馀 O
+学 O
+同 O
+年 O
+四 O
+首 O
+
+对 O
+看 O
+中 O
+秋 O
+是 O
+好 O
+天 O
+
+健 O
+来 O
+欣 O
+为 O
+子 O
+分 O
+田 O
+
+只 O
+消 O
+菽 O
+水 O
+叹 O
+无 O
+尽 O
+
+况 O
+有 O
+经 O
+书 O
+腹 O
+可 O
+便 O
+
+家 O
+事 O
+既 O
+传 O
+情 O
+思 O
+稳 O
+
+吟 O
+篇 O
+谩 O
+写 O
+墨 O
+痕 O
+鲜 O
+
+惟 O
+馀 O
+学 O
+课 O
+随 O
+年 O
+捱 O
+
+共 O
+我 O
+艰 O
+劬 O
+知 O
+几 O
+员 O
+
+次 O
+胡 O
+济 O
+鼎 O
+同 O
+年 O
+三 O
+律 O
+
+共 O
+是 O
+金 O
+明 O
+衣 O
+绿 O
+郎 O
+
+梅 O
+仙 O
+风 O
+致 O
+压 O
+仇 O
+香 O
+
+人 O
+如 O
+紫 O
+凤 O
+仪 O
+丹 O
+阁 O
+
+谁 O
+则 O
+青 O
+蚨 O
+涴 O
+锦 O
+囊 O
+
+洛 O
+社 O
+菜 O
+羹 O
+时 O
+不 O
+禁 O
+
+雪 O
+堂 O
+斗 O
+酒 O
+夜 O
+宜 O
+良 O
+
+至 O
+尊 O
+端 O
+肯 O
+怜 O
+芹 O
+曝 O
+
+臣 O
+罪 O
+当 O
+诛 O
+自 O
+恐 O
+惶 O
+
+次 O
+胡 O
+馀 O
+学 O
+同 O
+年 O
+四 O
+首 O
+
+金 O
+明 O
+池 O
+上 O
+共 O
+扬 O
+鞭 O
+
+豪 O
+气 O
+宁 O
+求 O
+许 O
+祀 O
+田 O
+
+不 O
+道 O
+福 O
+碑 O
+轰 O
+忒 O
+早 O
+
+相 O
+逢 O
+颓 O
+景 O
+稳 O
+为 O
+便 O
+
+牙 O
+牌 O
+刻 O
+处 O
+谩 O
+夸 O
+贵 O
+
+蓝 O
+绶 O
+披 O
+来 O
+难 O
+敌 O
+鲜 O
+
+千 O
+岁 O
+尽 O
+长 O
+公 O
+论 O
+在 O
+
+于 O
+中 O
+定 O
+有 O
+好 O
+官 O
+员 O
+
+代 O
+柬 O
+济 O
+鼎 O
+同 O
+年 O
+约 O
+其 O
+早 O
+饭 O
+
+小 O
+人 O
+难 O
+与 O
+作 O
+缘 O
+
+恶 O
+食 O
+不 O
+妨 O
+志 O
+道 O
+
+犹 O
+胜 O
+杜 O
+陵 O
+岳 O
+阳 O
+
+一 O
+饭 O
+欲 O
+从 O
+人 O
+讨 O
+

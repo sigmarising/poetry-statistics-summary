@@ -1,0 +1,279 @@
+句 O
+
+露 O
+湿 O
+看 O
+花 O
+脚 O
+
+莺 O
+啼 O
+欲 O
+晓 O
+山 O
+
+句 O
+
+春 O
+消 O
+千 O
+嶂 O
+雪 O
+
+清 O
+逼 O
+五 O
+湖 O
+秋 O
+
+酹 O
+江 O
+月 O
+/ O
+念 O
+奴 O
+娇 O
+
+郎 O
+星 O
+锦 O
+帐 O
+
+忽 O
+翩 O
+然 O
+归 O
+访 O
+
+南 O
+溪 O
+孤 O
+鹜 O
+
+前 O
+日 O
+登 O
+高 O
+谁 O
+信 O
+道 O
+
+寿 O
+酒 O
+重 O
+浮 O
+茱 O
+萸 O
+
+风 O
+露 O
+杯 O
+寒 O
+
+芙 O
+蓉 O
+帐 O
+冷 O
+
+笑 O
+受 O
+长 O
+生 O
+箓 O
+
+广 O
+寒 O
+宫 O
+殿 O
+
+桂 O
+华 O
+应 O
+已 O
+新 O
+续 O
+
+不 O
+用 O
+翠 O
+倚 O
+红 O
+围 O
+
+舞 O
+裙 O
+歌 O
+袖 O
+
+共 O
+理 O
+称 O
+觞 O
+曲 O
+
+只 O
+把 O
+文 O
+章 O
+千 O
+古 O
+事 O
+
+留 O
+伴 O
+平 O
+生 O
+幽 O
+独 O
+
+但 O
+使 O
+明 O
+年 O
+
+鬓 O
+青 O
+长 O
+在 O
+
+萱 O
+草 O
+春 O
+风 O
+绿 O
+
+诸 O
+郎 O
+如 O
+许 O
+
+转 O
+头 O
+百 O
+事 O
+都 O
+足 O
+
+寄 O
+杨 O
+诚 O
+斋 O
+
+不 O
+愁 O
+风 O
+月 O
+只 O
+忧 O
+时 O
+
+发 O
+为 O
+君 O
+王 O
+寸 O
+寸 O
+丝 O
+
+司 O
+马 O
+要 O
+为 O
+元 O
+佑 O
+起 O
+
+西 O
+枢 O
+政 O
+坐 O
+寿 O
+皇 O
+知 O
+
+苦 O
+辞 O
+君 O
+命 O
+惊 O
+凡 O
+子 O
+
+清 O
+对 O
+梅 O
+花 O
+更 O
+与 O
+谁 O
+
+梦 O
+绕 O
+师 O
+门 O
+三 O
+稽 O
+首 O
+
+起 O
+敲 O
+冰 O
+砚 O
+诉 O
+相 O
+思 O
+
+送 O
+永 O
+丰 O
+汪 O
+令 O
+
+锦 O
+缆 O
+梅 O
+花 O
+浦 O
+
+江 O
+南 O
+作 O
+县 O
+归 O
+
+新 O
+来 O
+荐 O
+鹗 O
+牍 O
+
+惊 O
+动 O
+衮 O
+龙 O
+衣 O
+
+岁 O
+晚 O
+情 O
+难 O
+别 O
+
+心 O
+亲 O
+事 O
+却 O
+违 O
+
+恐 O
+君 O
+天 O
+上 O
+去 O
+
+扶 O
+病 O
+出 O
+烟 O
+霏 O
+

@@ -1,0 +1,501 @@
+句 O
+
+立 O
+尽 O
+疏 O
+帘 O
+落 O
+絮 O
+风 O
+
+句 O
+
+宇 O
+宙 O
+双 O
+蓬 O
+鬓 O
+
+句 O
+
+兴 O
+随 O
+流 O
+水 O
+远 O
+
+句 O
+
+不 O
+办 O
+扁 O
+舟 O
+访 O
+安 O
+道 O
+
+菩 O
+萨 O
+蛮 O
+
+西 O
+风 O
+又 O
+转 O
+芦 O
+花 O
+雪 O
+
+故 O
+人 O
+犹 O
+隔 O
+关 O
+山 O
+月 O
+
+金 O
+雁 O
+一 O
+声 O
+悲 O
+
+玉 O
+腮 O
+双 O
+泪 O
+垂 O
+
+绣 O
+衾 O
+寒 O
+不 O
+暖 O
+
+愁 O
+远 O
+天 O
+无 O
+岸 O
+
+夜 O
+夜 O
+卜 O
+灯 O
+花 O
+
+几 O
+时 O
+郎 O
+到 O
+家 O
+
+美 O
+人 O
+对 O
+镜 O
+歌 O
+
+天 O
+上 O
+在 O
+雄 O
+鸡 O
+啼 O
+一 O
+声 O
+
+人 O
+间 O
+万 O
+鸡 O
+相 O
+应 O
+鸣 O
+
+美 O
+人 O
+红 O
+酣 O
+尚 O
+未 O
+醒 O
+
+锁 O
+掣 O
+金 O
+匙 O
+鹦 O
+鹉 O
+惊 O
+
+鹦 O
+鹉 O
+从 O
+来 O
+巧 O
+言 O
+语 O
+
+声 O
+聒 O
+锦 O
+帏 O
+残 O
+梦 O
+起 O
+
+猛 O
+揎 O
+罗 O
+袖 O
+窝 O
+绿 O
+云 O
+
+步 O
+逼 O
+妆 O
+台 O
+趁 O
+梳 O
+洗 O
+
+玉 O
+奁 O
+脱 O
+覆 O
+光 O
+烁 O
+人 O
+
+洞 O
+房 O
+环 O
+曲 O
+惊 O
+晓 O
+春 O
+
+不 O
+是 O
+清 O
+空 O
+月 O
+飞 O
+入 O
+
+如 O
+何 O
+中 O
+有 O
+姮 O
+娥 O
+身 O
+
+轩 O
+辕 O
+百 O
+练 O
+今 O
+湮 O
+灭 O
+
+扬 O
+州 O
+青 O
+铜 O
+却 O
+奇 O
+绝 O
+
+人 O
+非 O
+照 O
+镜 O
+镜 O
+照 O
+人 O
+
+镜 O
+亦 O
+分 O
+明 O
+为 O
+人 O
+说 O
+
+媸 O
+妍 O
+一 O
+镜 O
+固 O
+两 O
+般 O
+
+狐 O
+妇 O
+怀 O
+奸 O
+心 O
+胆 O
+寒 O
+
+闺 O
+中 O
+少 O
+女 O
+庄 O
+丽 O
+
+眉 O
+颊 O
+不 O
+妨 O
+终 O
+日 O
+看 O
+
+汉 O
+宫 O
+春 O
+夜 O
+
+虚 O
+轮 O
+绚 O
+采 O
+千 O
+门 O
+外 O
+
+窗 O
+眼 O
+渗 O
+光 O
+金 O
+箔 O
+碎 O
+
+渴 O
+龙 O
+滴 O
+水 O
+续 O
+铜 O
+壶 O
+
+檐 O
+马 O
+呼 O
+风 O
+摇 O
+玉 O
+佩 O
+
+宫 O
+车 O
+声 O
+远 O
+翠 O
+幌 O
+幽 O
+
+珠 O
+帘 O
+闲 O
+却 O
+珊 O
+瑚 O
+钩 O
+
+眉 O
+山 O
+两 O
+点 O
+亦 O
+何 O
+有 O
+
+中 O
+锁 O
+万 O
+斛 O
+相 O
+思 O
+愁 O
+
+蜀 O
+罗 O
+蜜 O
+炬 O
+光 O
+明 O
+灭 O
+
+红 O
+泪 O
+难 O
+溅 O
+守 O
+宫 O
+血 O
+
+遥 O
+夜 O
+春 O
+寒 O
+听 O
+晓 O
+钟 O
+
+角 O
+声 O
+满 O
+地 O
+梨 O
+花 O
+雪 O
+
+染 O
+丝 O
+上 O
+春 O
+机 O
+
+锦 O
+江 O
+之 O
+水 O
+来 O
+蜀 O
+西 O
+
+女 O
+红 O
+染 O
+丝 O
+上 O
+春 O
+机 O
+
+可 O
+怜 O
+欲 O
+织 O
+未 O
+织 O
+时 O
+
+思 O
+君 O
+意 O
+绪 O
+如 O
+乱 O
+丝 O
+
+乱 O
+丝 O
+尚 O
+可 O
+理 O
+
+妾 O
+愁 O
+渺 O
+无 O
+际 O
+
+寒 O
+窗 O
+轧 O
+轧 O
+千 O
+万 O
+梭 O
+
+断 O
+魂 O
+随 O
+梭 O
+暗 O
+来 O
+去 O
+
+荡 O
+子 O
+醉 O
+花 O
+月 O
+
+妾 O
+辜 O
+鸾 O
+镜 O
+妆 O
+
+寒 O
+蛩 O
+只 O
+解 O
+趣 O
+机 O
+杼 O
+
+争 O
+奈 O
+情 O
+如 O
+刀 O
+剑 O
+伤 O
+
+织 O
+成 O
+回 O
+纹 O
+诗 O
+
+寄 O
+与 O
+白 O
+玉 O
+郎 O
+
+原 O
+郎 O
+勿 O
+弃 O
+置 O
+
+上 O
+有 O
+双 O
+鸳 O
+鸯 O
+
+觑 O
+著 O
+双 O
+鸳 O
+鸯 O
+
+忍 O
+教 O
+孤 O
+妾 O
+守 O
+空 O
+房 O
+
+句 O
+
+苔 O
+封 O
+曲 O
+径 O
+无 O
+人 O
+到 O
+

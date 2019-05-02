@@ -1,0 +1,461 @@
+水 O
+龙 O
+吟 O
+秋 O
+声 O
+
+西 O
+风 O
+已 O
+是 O
+难 O
+听 O
+
+如 O
+何 O
+又 O
+著 O
+芭 O
+蕉 O
+雨 O
+
+泠 O
+泠 O
+暗 O
+起 O
+
+澌 O
+澌 O
+渐 O
+紧 O
+
+萧 O
+萧 O
+忽 O
+住 O
+
+候 O
+馆 O
+疏 O
+碪 O
+
+高 O
+城 O
+断 O
+鼓 O
+
+和 O
+成 O
+凄 O
+楚 O
+
+想 O
+亭 O
+皋 O
+木 O
+落 O
+
+洞 O
+庭 O
+波 O
+远 O
+
+浑 O
+不 O
+见 O
+
+愁 O
+来 O
+处 O
+
+此 O
+际 O
+频 O
+惊 O
+倦 O
+旅 O
+
+夜 O
+初 O
+长 O
+
+归 O
+程 O
+梦 O
+阻 O
+
+砌 O
+蛩 O
+自 O
+叹 O
+
+边 O
+鸿 O
+自 O
+唳 O
+
+剪 O
+灯 O
+谁 O
+语 O
+
+莫 O
+更 O
+伤 O
+心 O
+
+可 O
+怜 O
+秋 O
+到 O
+
+无 O
+声 O
+更 O
+苦 O
+
+满 O
+寒 O
+江 O
+剩 O
+有 O
+
+黄 O
+芦 O
+万 O
+顷 O
+
+卷 O
+离 O
+魂 O
+去 O
+
+阮 O
+郎 O
+归 O
+吴 O
+门 O
+寄 O
+家 O
+书 O
+
+阖 O
+闾 O
+城 O
+下 O
+漏 O
+声 O
+残 O
+
+别 O
+愁 O
+千 O
+万 O
+端 O
+
+蜀 O
+笺 O
+书 O
+字 O
+报 O
+平 O
+安 O
+
+烛 O
+花 O
+和 O
+泪 O
+弹 O
+
+无 O
+一 O
+语 O
+
+只 O
+加 O
+餐 O
+
+病 O
+时 O
+须 O
+自 O
+宽 O
+
+早 O
+梅 O
+庭 O
+院 O
+夜 O
+深 O
+寒 O
+
+月 O
+中 O
+休 O
+倚 O
+阑 O
+
+太 O
+常 O
+引 O
+客 O
+中 O
+闻 O
+歌 O
+
+杏 O
+花 O
+开 O
+了 O
+燕 O
+飞 O
+忙 O
+
+正 O
+是 O
+好 O
+春 O
+光 O
+
+偏 O
+是 O
+好 O
+春 O
+光 O
+
+者 O
+几 O
+日 O
+
+风 O
+凄 O
+雨 O
+凉 O
+
+　 O
+杨 O
+枝 O
+飘 O
+泊 O
+
+桃 O
+根 O
+娇 O
+小 O
+
+独 O
+自 O
+个 O
+思 O
+量 O
+
+刚 O
+待 O
+不 O
+思 O
+量 O
+
+吹 O
+一 O
+片 O
+
+箫 O
+声 O
+过 O
+墙 O
+
+清 O
+平 O
+乐 O
+池 O
+上 O
+纳 O
+凉 O
+
+水 O
+天 O
+清 O
+话 O
+
+院 O
+静 O
+人 O
+销 O
+夏 O
+
+蜡 O
+炬 O
+风 O
+摇 O
+帘 O
+不 O
+下 O
+
+竹 O
+影 O
+半 O
+墙 O
+如 O
+画 O
+
+　 O
+醉 O
+来 O
+扶 O
+上 O
+桃 O
+笙 O
+
+熟 O
+罗 O
+扇 O
+子 O
+凉 O
+轻 O
+
+一 O
+霎 O
+荷 O
+塘 O
+过 O
+雨 O
+
+明 O
+朝 O
+便 O
+是 O
+秋 O
+声 O
+
+减 O
+字 O
+木 O
+兰 O
+花 O
+春 O
+夜 O
+闻 O
+隔 O
+墙 O
+歌 O
+吹 O
+声 O
+
+阑 O
+珊 O
+心 O
+绪 O
+
+醉 O
+依 O
+绿 O
+琴 O
+相 O
+伴 O
+祝 O
+一 O
+枕 O
+新 O
+愁 O
+
+残 O
+夜 O
+花 O
+香 O
+月 O
+满 O
+楼 O
+
+繁 O
+笙 O
+脆 O
+管 O
+
+吹 O
+得 O
+锦 O
+屏 O
+春 O
+梦 O
+远 O
+
+只 O
+有 O
+垂 O
+杨 O
+
+不 O
+放 O
+秋 O
+千 O
+影 O
+过 O
+墙 O
+
+减 O
+字 O
+木 O
+兰 O
+花 O
+
+春 O
+夜 O
+
+闻 O
+隔 O
+墙 O
+歌 O
+吹 O
+声 O
+
+阑 O
+珊 O
+心 O
+绪 O
+
+醉 O
+依 O
+绿 O
+琴 O
+相 O
+伴 O
+祝 O
+一 O
+枕 O
+新 O
+愁 O
+
+残 O
+夜 O
+花 O
+香 O
+月 O
+满 O
+楼 O
+
+繁 O
+笙 O
+脆 O
+管 O
+
+吹 O
+得 O
+锦 O
+屏 O
+春 O
+梦 O
+远 O
+
+只 O
+有 O
+垂 O
+杨 O
+
+不 O
+放 O
+秋 O
+千 O
+影 O
+过 O
+墙 O
+

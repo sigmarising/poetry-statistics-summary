@@ -1,0 +1,538 @@
+宿 O
+灵 O
+岩 O
+寺 O
+
+叠 O
+翠 O
+围 O
+僧 O
+国 O
+
+幽 O
+栖 O
+孰 O
+有 O
+才 O
+
+名 O
+高 O
+仍 O
+可 O
+隐 O
+
+骨 O
+俗 O
+岂 O
+宜 O
+来 O
+
+花 O
+发 O
+松 O
+香 O
+没 O
+
+云 O
+销 O
+石 O
+色 O
+回 O
+
+何 O
+年 O
+脱 O
+身 O
+去 O
+
+心 O
+委 O
+像 O
+前 O
+灰 O
+
+蝶 O
+恋 O
+花 O
+
+贴 O
+鬓 O
+香 O
+云 O
+双 O
+绾 O
+绿 O
+
+柳 O
+弱 O
+花 O
+娇 O
+
+一 O
+点 O
+春 O
+心 O
+足 O
+
+不 O
+肯 O
+玉 O
+箫 O
+闲 O
+度 O
+曲 O
+
+恼 O
+人 O
+特 O
+把 O
+青 O
+蛾 O
+蹙 O
+
+静 O
+夜 O
+溪 O
+桥 O
+霜 O
+薄 O
+屋 O
+
+独 O
+影 O
+行 O
+歌 O
+
+惊 O
+起 O
+双 O
+鸾 O
+宿 O
+
+愁 O
+破 O
+酒 O
+阑 O
+闺 O
+梦 O
+熟 O
+
+月 O
+斜 O
+窗 O
+外 O
+风 O
+敲 O
+竹 O
+
+千 O
+秋 O
+万 O
+岁 O
+/ O
+千 O
+秋 O
+岁 O
+引 O
+
+杏 O
+花 O
+好 O
+
+子 O
+细 O
+君 O
+须 O
+辨 O
+
+比 O
+早 O
+梅 O
+深 O
+
+夭 O
+桃 O
+浅 O
+
+把 O
+鲛 O
+绡 O
+
+淡 O
+拂 O
+鲜 O
+红 O
+面 O
+
+蜡 O
+融 O
+紫 O
+萼 O
+重 O
+重 O
+现 O
+
+烟 O
+外 O
+悄 O
+
+风 O
+中 O
+笑 O
+
+香 O
+满 O
+院 O
+
+欲 O
+绽 O
+全 O
+开 O
+俱 O
+可 O
+羡 O
+
+粹 O
+美 O
+妖 O
+娆 O
+无 O
+处 O
+选 O
+
+除 O
+卿 O
+卿 O
+似 O
+寻 O
+常 O
+见 O
+
+倚 O
+天 O
+真 O
+
+艳 O
+冶 O
+轻 O
+朱 O
+粉 O
+
+分 O
+明 O
+洗 O
+出 O
+胭 O
+脂 O
+面 O
+
+追 O
+往 O
+事 O
+
+绕 O
+芳 O
+榭 O
+
+千 O
+千 O
+遍 O
+
+蝶 O
+恋 O
+花 O
+
+遥 O
+夜 O
+亭 O
+皋 O
+闲 O
+信 O
+步 O
+
+才 O
+过 O
+清 O
+明 O
+
+渐 O
+觉 O
+伤 O
+春 O
+暮 O
+
+数 O
+点 O
+雨 O
+声 O
+风 O
+约 O
+住 O
+
+朦 O
+胧 O
+淡 O
+月 O
+云 O
+来 O
+去 O
+
+桃 O
+杏 O
+依 O
+稀 O
+香 O
+暗 O
+渡 O
+
+谁 O
+在 O
+秋 O
+千 O
+
+笑 O
+里 O
+轻 O
+轻 O
+语 O
+
+一 O
+寸 O
+相 O
+思 O
+千 O
+万 O
+绪 O
+
+人 O
+间 O
+没 O
+个 O
+安 O
+排 O
+处 O
+
+六 O
+州 O
+歌 O
+头 O
+
+凄 O
+凉 O
+绣 O
+岭 O
+
+宫 O
+殿 O
+倚 O
+山 O
+阿 O
+
+明 O
+皇 O
+帝 O
+
+曾 O
+游 O
+地 O
+
+锁 O
+烟 O
+萝 O
+
+郁 O
+嵯 O
+峨 O
+
+忆 O
+惜 O
+真 O
+妃 O
+子 O
+
+艳 O
+倾 O
+国 O
+
+方 O
+姝 O
+丽 O
+
+朝 O
+复 O
+暮 O
+
+嫔 O
+嫱 O
+妒 O
+
+宠 O
+偏 O
+颇 O
+
+三 O
+尺 O
+玉 O
+泉 O
+新 O
+浴 O
+
+莲 O
+羞 O
+吐 O
+
+红 O
+浸 O
+秋 O
+波 O
+
+听 O
+花 O
+奴 O
+
+敲 O
+羯 O
+鼓 O
+
+酣 O
+奏 O
+鸣 O
+鼍 O
+
+体 O
+不 O
+胜 O
+罗 O
+
+舞 O
+婆 O
+娑 O
+
+正 O
+霓 O
+裳 O
+曳 O
+
+惊 O
+烽 O
+燧 O
+
+千 O
+万 O
+骑 O
+
+拥 O
+雕 O
+戈 O
+
+情 O
+宛 O
+转 O
+
+魂 O
+空 O
+乱 O
+
+蹙 O
+双 O
+蛾 O
+
+奈 O
+兵 O
+何 O
+
+痛 O
+惜 O
+三 O
+春 O
+暮 O
+
+委 O
+妖 O
+丽 O
+
+马 O
+嵬 O
+坡 O
+
+平 O
+寇 O
+乱 O
+
+回 O
+宸 O
+辇 O
+
+忍 O
+重 O
+过 O
+
+香 O
+瘗 O
+紫 O
+囊 O
+犹 O
+有 O
+
+鸿 O
+都 O
+客 O
+
+钿 O
+合 O
+应 O
+讹 O
+
+使 O
+行 O
+人 O
+到 O
+此 O
+
+千 O
+古 O
+只 O
+伤 O
+歌 O
+
+事 O
+往 O
+愁 O
+多 O
+
+寄 O
+王 O
+樵 O
+
+霜 O
+台 O
+御 O
+史 O
+新 O
+为 O
+郡 O
+
+棘 O
+手 O
+廷 O
+评 O
+继 O
+下 O
+车 O
+
+首 O
+谒 O
+梓 O
+桐 O
+王 O
+处 O
+士 O
+
+教 O
+风 O
+从 O
+此 O
+重 O
+诗 O
+书 O
+

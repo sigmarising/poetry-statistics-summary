@@ -1,0 +1,414 @@
+大 O
+丹 O
+诗 O
+四 O
+首 O
+
+混 O
+沌 O
+未 O
+分 O
+我 O
+独 O
+存 O
+
+包 O
+含 O
+四 O
+象 O
+立 O
+乾 O
+坤 O
+
+还 O
+丹 O
+须 O
+向 O
+此 O
+中 O
+觅 O
+
+得 O
+此 O
+方 O
+为 O
+至 O
+妙 O
+门 O
+
+煮 O
+石 O
+烹 O
+金 O
+炼 O
+太 O
+元 O
+
+神 O
+仙 O
+不 O
+肯 O
+等 O
+闲 O
+传 O
+
+人 O
+能 O
+认 O
+得 O
+其 O
+中 O
+理 O
+
+夺 O
+尽 O
+乾 O
+坤 O
+造 O
+化 O
+权 O
+
+百 O
+首 O
+荒 O
+辞 O
+义 O
+亦 O
+深 O
+
+因 O
+传 O
+同 O
+道 O
+决 O
+疑 O
+心 O
+
+华 O
+池 O
+本 O
+是 O
+真 O
+神 O
+水 O
+
+神 O
+水 O
+元 O
+来 O
+是 O
+白 O
+金 O
+
+取 O
+将 O
+白 O
+金 O
+为 O
+鼎 O
+器 O
+
+鼎 O
+成 O
+潜 O
+伏 O
+汞 O
+来 O
+侵 O
+
+汞 O
+入 O
+金 O
+鼎 O
+终 O
+年 O
+尽 O
+
+产 O
+出 O
+灵 O
+砂 O
+似 O
+太 O
+阴 O
+
+赠 O
+鬻 O
+胭 O
+脂 O
+者 O
+偈 O
+
+不 O
+涂 O
+红 O
+粉 O
+自 O
+风 O
+流 O
+
+往 O
+往 O
+禅 O
+徒 O
+到 O
+此 O
+休 O
+
+透 O
+过 O
+古 O
+今 O
+圈 O
+{ O
+左 O
+衤 O
+右 O
+贵 O
+} O
+后 O
+
+却 O
+来 O
+这 O
+裹 O
+吃 O
+拳 O
+头 O
+
+出 O
+疏 O
+山 O
+
+忙 O
+中 O
+安 O
+得 O
+此 O
+身 O
+闲 O
+
+杖 O
+策 O
+西 O
+风 O
+自 O
+往 O
+还 O
+
+今 O
+日 O
+已 O
+偿 O
+云 O
+水 O
+债 O
+
+篮 O
+舆 O
+带 O
+雨 O
+下 O
+疏 O
+山 O
+
+东 O
+西 O
+船 O
+行 O
+
+东 O
+船 O
+得 O
+风 O
+帆 O
+席 O
+高 O
+
+千 O
+里 O
+瞬 O
+息 O
+轻 O
+鸿 O
+毛 O
+
+西 O
+船 O
+见 O
+笑 O
+苦 O
+迟 O
+钝 O
+
+汗 O
+流 O
+撑 O
+折 O
+百 O
+张 O
+篙 O
+
+明 O
+日 O
+风 O
+翻 O
+波 O
+浪 O
+异 O
+
+西 O
+笑 O
+东 O
+船 O
+却 O
+如 O
+此 O
+
+东 O
+西 O
+相 O
+笑 O
+无 O
+已 O
+时 O
+
+我 O
+但 O
+行 O
+藏 O
+任 O
+天 O
+理 O
+
+寄 O
+同 O
+参 O
+严 O
+康 O
+朝 O
+偈 O
+
+门 O
+有 O
+孙 O
+膑 O
+铺 O
+
+家 O
+存 O
+甘 O
+贽 O
+妻 O
+
+夜 O
+眠 O
+还 O
+早 O
+起 O
+
+谁 O
+悟 O
+复 O
+谁 O
+迷 O
+
+述 O
+陂 O
+
+数 O
+椽 O
+临 O
+苍 O
+波 O
+
+我 O
+目 O
+得 O
+以 O
+寓 O
+
+长 O
+溪 O
+山 O
+根 O
+来 O
+
+澄 O
+潭 O
+一 O
+回 O
+互 O
+
+万 O
+象 O
+森 O
+可 O
+掬 O
+
+翛 O
+翛 O
+澹 O
+清 O
+素 O
+
+草 O
+短 O
+牛 O
+羊 O
+饥 O
+
+沙 O
+暖 O
+凫 O
+鹜 O
+聚 O
+
+枯 O
+槎 O
+出 O
+断 O
+岸 O
+
+孤 O
+艇 O
+横 O
+野 O
+渡 O
+
+荒 O
+寒 O
+何 O
+代 O
+城 O
+
+隐 O
+沦 O
+尚 O
+门 O
+户 O
+
+昔 O
+时 O
+歌 O
+舞 O
+地 O
+
+今 O
+日 O
+采 O
+樵 O
+路 O
+
+回 O
+薄 O
+万 O
+古 O
+心 O
+
+斜 O
+阳 O
+在 O
+烟 O
+树 O
+

@@ -1,0 +1,489 @@
+和 O
+虞 O
+智 O
+父 O
+登 O
+金 O
+陵 O
+清 O
+溪 O
+阁 O
+
+叶 O
+脱 O
+林 O
+梢 O
+处 O
+处 O
+秋 O
+
+壮 O
+怀 O
+易 O
+感 O
+更 O
+登 O
+楼 O
+
+日 O
+斜 O
+锺 O
+阜 O
+烟 O
+凝 O
+碧 O
+
+霜 O
+落 O
+秦 O
+淮 O
+水 O
+慢 O
+流 O
+
+人 O
+似 O
+仲 O
+宣 O
+思 O
+故 O
+国 O
+
+诗 O
+如 O
+杜 O
+老 O
+到 O
+夔 O
+州 O
+
+十 O
+年 O
+前 O
+作 O
+金 O
+陵 O
+梦 O
+
+重 O
+抚 O
+栏 O
+干 O
+说 O
+旧 O
+游 O
+
+以 O
+水 O
+石 O
+菖 O
+蒲 O
+赠 O
+谷 O
+堂 O
+孙 O
+漕 O
+
+菖 O
+蒲 O
+体 O
+柔 O
+弱 O
+
+孤 O
+生 O
+幽 O
+涧 O
+傍 O
+
+润 O
+深 O
+水 O
+不 O
+滋 O
+
+短 O
+叶 O
+疏 O
+而 O
+黄 O
+
+物 O
+亦 O
+有 O
+不 O
+幸 O
+
+仁 O
+者 O
+为 O
+悲 O
+伤 O
+
+愿 O
+因 O
+水 O
+石 O
+间 O
+
+移 O
+值 O
+近 O
+窗 O
+光 O
+
+探 O
+丸 O
+起 O
+九 O
+死 O
+
+焦 O
+卷 O
+复 O
+翠 O
+长 O
+
+草 O
+木 O
+固 O
+无 O
+知 O
+
+此 O
+心 O
+未 O
+能 O
+忘 O
+
+赠 O
+阖 O
+门 O
+潘 O
+舍 O
+人 O
+
+清 O
+跸 O
+声 O
+中 O
+玉 O
+笋 O
+班 O
+
+五 O
+云 O
+光 O
+裹 O
+侍 O
+天 O
+颜 O
+
+至 O
+尊 O
+端 O
+拱 O
+通 O
+明 O
+殿 O
+
+上 O
+阖 O
+来 O
+从 O
+饭 O
+颗 O
+山 O
+
+旄 O
+节 O
+行 O
+将 O
+千 O
+骑 O
+去 O
+
+鬓 O
+须 O
+全 O
+未 O
+一 O
+根 O
+斑 O
+
+朝 O
+回 O
+两 O
+袖 O
+香 O
+烟 O
+满 O
+
+应 O
+有 O
+诗 O
+留 O
+雉 O
+扇 O
+间 O
+
+日 O
+暮 O
+望 O
+泾 O
+水 O
+
+导 O
+源 O
+径 O
+陇 O
+阪 O
+
+属 O
+汭 O
+贯 O
+嬴 O
+都 O
+
+下 O
+濑 O
+波 O
+常 O
+急 O
+
+回 O
+圻 O
+溜 O
+亦 O
+纡 O
+
+毒 O
+流 O
+秦 O
+卒 O
+毙 O
+
+泥 O
+粪 O
+汉 O
+田 O
+腴 O
+
+独 O
+有 O
+迷 O
+津 O
+客 O
+
+怀 O
+归 O
+轸 O
+暮 O
+途 O
+
+日 O
+暮 O
+望 O
+泾 O
+水 O
+
+导 O
+源 O
+经 O
+陇 O
+阪 O
+
+属 O
+汭 O
+贯 O
+嬴 O
+都 O
+
+下 O
+濑 O
+波 O
+常 O
+急 O
+
+回 O
+圻 O
+溜 O
+亦 O
+纡 O
+
+毒 O
+流 O
+秦 O
+卒 O
+毙 O
+
+泥 O
+粪 O
+汉 O
+田 O
+腴 O
+
+独 O
+有 O
+迷 O
+津 O
+客 O
+
+怀 O
+归 O
+轸 O
+暮 O
+途 O
+
+醉 O
+歌 O
+
+得 O
+谁 O
+酿 O
+法 O
+乃 O
+尔 O
+佳 O
+
+连 O
+引 O
+数 O
+杯 O
+极 O
+口 O
+夸 O
+
+须 O
+臾 O
+忘 O
+物 O
+亦 O
+忘 O
+我 O
+
+是 O
+非 O
+荣 O
+辱 O
+不 O
+可 O
+加 O
+
+儿 O
+童 O
+相 O
+随 O
+拍 O
+手 O
+笑 O
+
+阿 O
+翁 O
+醉 O
+也 O
+扶 O
+归 O
+家 O
+
+平 O
+生 O
+故 O
+人 O
+赵 O
+半 O
+刺 O
+
+遣 O
+骑 O
+折 O
+送 O
+园 O
+中 O
+花 O
+
+插 O
+花 O
+饮 O
+酒 O
+不 O
+待 O
+劝 O
+
+夜 O
+如 O
+何 O
+其 O
+月 O
+欲 O
+斜 O
+
+倒 O
+著 O
+接 O
+{ O
+上 O
+四 O
+下 O
+离 O
+} O
+自 O
+起 O
+舞 O
+
+笛 O
+声 O
+趁 O
+拍 O
+鼓 O
+三 O
+挝 O
+
+陶 O
+陶 O
+兀 O
+兀 O
+意 O
+有 O
+得 O
+
+小 O
+姬 O
+在 O
+傍 O
+双 O
+髻 O
+丫 O
+
+驱 O
+令 O
+磨 O
+墨 O
+具 O
+纸 O
+笔 O
+
+满 O
+幅 O
+大 O
+草 O
+飞 O
+龙 O
+蛇 O
+
+妇 O
+云 O
+汝 O
+醉 O
+当 O
+止 O
+矣 O
+
+明 O
+月 O
+酒 O
+醒 O
+不 O
+愧 O
+耶 O
+

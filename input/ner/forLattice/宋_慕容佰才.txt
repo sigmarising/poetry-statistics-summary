@@ -1,0 +1,189 @@
+剑 O
+阁 O
+
+剑 O
+岭 O
+排 O
+峰 O
+鸟 O
+过 O
+迟 O
+
+蜀 O
+食 O
+秦 O
+诈 O
+事 O
+堪 O
+悲 O
+
+若 O
+为 O
+社 O
+稷 O
+思 O
+长 O
+计 O
+
+肯 O
+把 O
+干 O
+将 O
+自 O
+倒 O
+持 O
+
+大 O
+剑 O
+山 O
+
+李 O
+势 O
+非 O
+嵎 O
+虎 O
+
+公 O
+孙 O
+是 O
+井 O
+蛙 O
+
+圣 O
+朝 O
+无 O
+外 O
+户 O
+
+夷 O
+壤 O
+尽 O
+为 O
+家 O
+
+叠 O
+嶂 O
+宁 O
+须 O
+铲 O
+
+停 O
+鼖 O
+久 O
+废 O
+挝 O
+
+原 O
+鳞 O
+生 O
+骆 O
+谷 O
+
+钓 O
+驷 O
+入 O
+彭 O
+衙 O
+
+关 O
+失 O
+千 O
+年 O
+壮 O
+
+方 O
+来 O
+万 O
+里 O
+遐 O
+
+商 O
+渊 O
+宁 O
+满 O
+面 O
+洞 O
+
+使 O
+节 O
+偏 O
+谽 O
+谺 O
+
+岑 O
+蔚 O
+谁 O
+惊 O
+鸟 O
+
+丰 O
+茭 O
+自 O
+乐 O
+{ O
+上 O
+鹿 O
+下 O
+加 O
+} O
+
+烽 O
+屯 O
+开 O
+雨 O
+雪 O
+
+樵 O
+爨 O
+老 O
+烟 O
+霞 O
+
+帝 O
+德 O
+朝 O
+宗 O
+地 O
+
+仙 O
+游 O
+上 O
+汉 O
+槎 O
+
+赏 O
+奇 O
+酬 O
+酒 O
+兴 O
+
+摛 O
+藻 O
+谢 O
+诗 O
+葩 O
+
+阶 O
+走 O
+枫 O
+林 O
+叶 O
+
+窗 O
+催 O
+桕 O
+烛 O
+花 O
+
+山 O
+亭 O
+无 O
+刻 O
+漏 O
+
+隐 O
+几 O
+待 O
+鸣 O
+鸦 O
+

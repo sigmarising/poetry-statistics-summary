@@ -1,0 +1,408 @@
+次 O
+韵 O
+介 O
+甫 O
+怀 O
+舒 O
+州 O
+山 O
+水 O
+见 O
+示 O
+之 O
+什 O
+
+皖 O
+上 O
+相 O
+逢 O
+昔 O
+少 O
+留 O
+
+登 O
+楼 O
+隐 O
+几 O
+听 O
+鸣 O
+鸠 O
+
+山 O
+峰 O
+游 O
+处 O
+今 O
+何 O
+在 O
+
+溪 O
+水 O
+流 O
+来 O
+此 O
+有 O
+不 O
+
+就 O
+食 O
+四 O
+方 O
+甘 O
+不 O
+击 O
+
+为 O
+生 O
+一 O
+世 O
+信 O
+长 O
+浮 O
+
+共 O
+知 O
+局 O
+促 O
+京 O
+沙 O
+里 O
+
+回 O
+首 O
+当 O
+时 O
+始 O
+觉 O
+羞 O
+
+寄 O
+王 O
+荆 O
+公 O
+忆 O
+江 O
+阴 O
+
+城 O
+上 O
+城 O
+隍 O
+古 O
+镜 O
+中 O
+
+城 O
+边 O
+山 O
+色 O
+翠 O
+屏 O
+风 O
+
+鱼 O
+是 O
+接 O
+海 O
+随 O
+时 O
+足 O
+
+稻 O
+米 O
+连 O
+湖 O
+逐 O
+岁 O
+丰 O
+
+太 O
+伯 O
+人 O
+民 O
+堪 O
+教 O
+育 O
+
+春 O
+申 O
+沟 O
+港 O
+可 O
+疏 O
+通 O
+
+朱 O
+轮 O
+天 O
+使 O
+从 O
+君 O
+欲 O
+
+异 O
+日 O
+能 O
+忘 O
+笑 O
+语 O
+同 O
+
+岁 O
+暮 O
+呈 O
+五 O
+介 O
+甫 O
+平 O
+甫 O
+
+岁 O
+暮 O
+远 O
+为 O
+客 O
+
+一 O
+身 O
+归 O
+计 O
+深 O
+
+尘 O
+沙 O
+日 O
+翳 O
+翳 O
+
+雨 O
+雪 O
+夜 O
+阴 O
+阴 O
+
+喜 O
+色 O
+开 O
+南 O
+信 O
+
+悲 O
+怀 O
+动 O
+北 O
+琴 O
+
+感 O
+时 O
+须 O
+寂 O
+寞 O
+
+何 O
+独 O
+少 O
+陵 O
+心 O
+
+尘 O
+士 O
+呈 O
+介 O
+甫 O
+
+尘 O
+土 O
+纷 O
+纷 O
+起 O
+处 O
+微 O
+
+祗 O
+随 O
+风 O
+力 O
+乱 O
+嘘 O
+吹 O
+
+高 O
+张 O
+白 O
+雾 O
+横 O
+宫 O
+阙 O
+
+低 O
+引 O
+轻 O
+云 O
+暗 O
+路 O
+岐 O
+
+坐 O
+客 O
+昏 O
+蒙 O
+归 O
+耳 O
+目 O
+
+行 O
+人 O
+斑 O
+白 O
+上 O
+须 O
+眉 O
+
+谁 O
+知 O
+滂 O
+沛 O
+天 O
+飞 O
+雨 O
+
+洗 O
+涤 O
+轻 O
+浮 O
+会 O
+有 O
+时 O
+
+羁 O
+旅 O
+呈 O
+王 O
+介 O
+甫 O
+
+羁 O
+旅 O
+迫 O
+岁 O
+晚 O
+
+班 O
+毛 O
+混 O
+满 O
+簪 O
+
+游 O
+无 O
+果 O
+下 O
+马 O
+
+坐 O
+乏 O
+囊 O
+中 O
+金 O
+
+尘 O
+涨 O
+风 O
+声 O
+满 O
+
+天 O
+昏 O
+雪 O
+气 O
+深 O
+
+幸 O
+闻 O
+清 O
+论 O
+数 O
+
+竟 O
+日 O
+解 O
+悲 O
+吟 O
+
+因 O
+忆 O
+灊 O
+楼 O
+读 O
+书 O
+之 O
+乐 O
+呈 O
+介 O
+甫 O
+
+忆 O
+昨 O
+灊 O
+楼 O
+幸 O
+久 O
+留 O
+
+乾 O
+坤 O
+谈 O
+罢 O
+论 O
+雎 O
+鸠 O
+
+它 O
+时 O
+已 O
+恨 O
+相 O
+从 O
+少 O
+
+此 O
+日 O
+能 O
+忘 O
+共 O
+学 O
+不 O
+
+南 O
+去 O
+溪 O
+山 O
+随 O
+梦 O
+断 O
+
+北 O
+来 O
+身 O
+世 O
+若 O
+云 O
+浮 O
+
+行 O
+藏 O
+愿 O
+与 O
+君 O
+同 O
+道 O
+
+只 O
+恐 O
+蹉 O
+跎 O
+我 O
+独 O
+羞 O
+

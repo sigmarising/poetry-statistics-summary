@@ -1,0 +1,235 @@
+小 O
+金 O
+山 O
+
+天 O
+光 O
+云 O
+影 O
+碧 O
+相 O
+涵 O
+
+百 O
+顷 O
+玻 O
+璃 O
+一 O
+望 O
+间 O
+
+绿 O
+水 O
+绕 O
+门 O
+迷 O
+客 O
+渡 O
+
+白 O
+云 O
+终 O
+日 O
+伴 O
+僧 O
+闲 O
+
+疏 O
+钟 O
+破 O
+晓 O
+潜 O
+虬 O
+动 O
+
+老 O
+木 O
+成 O
+阴 O
+倦 O
+鸟 O
+还 O
+
+唤 O
+取 O
+送 O
+陀 O
+靡 O
+石 O
+壁 O
+
+为 O
+渠 O
+题 O
+作 O
+小 O
+金 O
+山 O
+
+句 O
+
+科 O
+名 O
+成 O
+后 O
+竟 O
+如 O
+何 O
+
+句 O
+
+久 O
+闻 O
+父 O
+老 O
+言 O
+沙 O
+谶 O
+
+为 O
+问 O
+何 O
+时 O
+出 O
+状 O
+元 O
+
+春 O
+游 O
+
+风 O
+烟 O
+冉 O
+冉 O
+草 O
+萋 O
+萋 O
+
+乍 O
+雨 O
+还 O
+晴 O
+不 O
+作 O
+泥 O
+
+粉 O
+蝶 O
+乱 O
+随 O
+花 O
+片 O
+妥 O
+
+黄 O
+鹂 O
+双 O
+压 O
+柳 O
+枝 O
+低 O
+
+一 O
+湾 O
+渌 O
+水 O
+明 O
+凫 O
+影 O
+
+数 O
+里 O
+青 O
+山 O
+送 O
+马 O
+蹄 O
+
+无 O
+限 O
+春 O
+光 O
+吟 O
+不 O
+尽 O
+
+浮 O
+红 O
+浪 O
+紫 O
+望 O
+中 O
+迷 O
+
+风 O
+铃 O
+
+风 O
+不 O
+能 O
+调 O
+碎 O
+玉 O
+声 O
+
+宫 O
+商 O
+滥 O
+奏 O
+竟 O
+难 O
+名 O
+
+谁 O
+家 O
+稚 O
+女 O
+敲 O
+言 O
+响 O
+
+一 O
+曲 O
+从 O
+头 O
+学 O
+不 O
+成 O
+
+旅 O
+夜 O
+书 O
+怀 O
+
+十 O
+日 O
+春 O
+光 O
+九 O
+日 O
+阴 O
+
+故 O
+关 O
+千 O
+里 O
+未 O
+归 O
+心 O
+
+遥 O
+怜 O
+儿 O
+女 O
+寒 O
+窗 O
+底 O
+
+指 O
+点 O
+灯 O
+花 O
+语 O
+夜 O
+深 O
+

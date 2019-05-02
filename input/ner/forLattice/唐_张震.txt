@@ -1,0 +1,475 @@
+宿 O
+金 O
+河 O
+戍 O
+
+朝 O
+发 O
+铁 O
+麟 O
+驿 O
+
+夕 O
+宿 O
+金 O
+河 O
+戍 O
+
+奔 O
+波 O
+急 O
+王 O
+程 O
+
+一 O
+日 O
+千 O
+里 O
+路 O
+
+但 O
+见 O
+容 O
+鬓 O
+改 O
+
+不 O
+知 O
+岁 O
+华 O
+暮 O
+
+悠 O
+悠 O
+沙 O
+漠 O
+行 O
+
+王 O
+事 O
+弥 O
+多 O
+故 O
+
+蓦 O
+山 O
+溪 O
+
+青 O
+梅 O
+如 O
+豆 O
+
+断 O
+送 O
+春 O
+归 O
+去 O
+
+小 O
+绿 O
+间 O
+长 O
+红 O
+
+看 O
+几 O
+处 O
+
+云 O
+歌 O
+柳 O
+舞 O
+
+偎 O
+花 O
+识 O
+面 O
+
+对 O
+月 O
+共 O
+论 O
+心 O
+
+携 O
+素 O
+手 O
+
+采 O
+香 O
+游 O
+
+踏 O
+遍 O
+西 O
+池 O
+路 O
+
+水 O
+边 O
+朱 O
+户 O
+
+曾 O
+记 O
+销 O
+魂 O
+处 O
+
+小 O
+立 O
+背 O
+秋 O
+千 O
+
+空 O
+怅 O
+望 O
+
+娉 O
+婷 O
+韵 O
+度 O
+
+杨 O
+花 O
+扑 O
+面 O
+
+香 O
+糁 O
+一 O
+帘 O
+风 O
+
+情 O
+脉 O
+脉 O
+
+酒 O
+厌 O
+厌 O
+
+回 O
+首 O
+斜 O
+阳 O
+暮 O
+
+蓦 O
+山 O
+溪 O
+
+春 O
+光 O
+如 O
+许 O
+
+春 O
+到 O
+江 O
+南 O
+路 O
+
+柳 O
+眼 O
+弄 O
+晴 O
+晖 O
+
+笑 O
+梅 O
+老 O
+
+落 O
+英 O
+无 O
+数 O
+
+峭 O
+寒 O
+庭 O
+院 O
+
+罗 O
+幕 O
+护 O
+窗 O
+纱 O
+
+金 O
+鸭 O
+暖 O
+
+锦 O
+屏 O
+深 O
+
+曾 O
+记 O
+看 O
+承 O
+处 O
+
+云 O
+边 O
+尺 O
+素 O
+
+何 O
+计 O
+传 O
+心 O
+缕 O
+
+无 O
+处 O
+说 O
+相 O
+思 O
+
+空 O
+惆 O
+怅 O
+
+朝 O
+云 O
+暮 O
+雨 O
+
+曲 O
+阑 O
+干 O
+外 O
+
+小 O
+立 O
+近 O
+黄 O
+昏 O
+
+心 O
+下 O
+事 O
+
+眼 O
+边 O
+愁 O
+
+借 O
+问 O
+春 O
+知 O
+否 O
+
+蝶 O
+恋 O
+花 O
+
+梅 O
+子 O
+初 O
+青 O
+春 O
+已 O
+暮 O
+
+芳 O
+草 O
+连 O
+云 O
+
+绿 O
+遍 O
+西 O
+池 O
+路 O
+
+小 O
+院 O
+绣 O
+垂 O
+帘 O
+半 O
+举 O
+
+衔 O
+泥 O
+紫 O
+燕 O
+双 O
+飞 O
+去 O
+
+人 O
+在 O
+赤 O
+阑 O
+桥 O
+畔 O
+住 O
+
+不 O
+解 O
+伤 O
+春 O
+
+还 O
+解 O
+相 O
+思 O
+否 O
+
+清 O
+梦 O
+欲 O
+寻 O
+犹 O
+间 O
+阻 O
+
+沙 O
+窗 O
+一 O
+夜 O
+萧 O
+萧 O
+雨 O
+
+鹧 O
+鸪 O
+天 O
+
+横 O
+素 O
+桥 O
+边 O
+景 O
+最 O
+佳 O
+
+绿 O
+波 O
+清 O
+浅 O
+见 O
+琼 O
+沙 O
+
+衔 O
+泥 O
+燕 O
+子 O
+迎 O
+风 O
+絮 O
+
+得 O
+食 O
+鱼 O
+儿 O
+趁 O
+浪 O
+花 O
+
+春 O
+已 O
+暮 O
+
+日 O
+初 O
+斜 O
+
+画 O
+船 O
+箫 O
+鼓 O
+是 O
+谁 O
+家 O
+
+兰 O
+桡 O
+欲 O
+去 O
+空 O
+留 O
+恋 O
+
+醉 O
+倚 O
+阑 O
+干 O
+看 O
+晚 O
+霞 O
+
+鹧 O
+鸪 O
+天 O
+
+宽 O
+尽 O
+香 O
+罗 O
+金 O
+缕 O
+衣 O
+
+心 O
+情 O
+不 O
+似 O
+旧 O
+家 O
+时 O
+
+万 O
+丝 O
+柳 O
+暗 O
+才 O
+飞 O
+絮 O
+
+一 O
+点 O
+梅 O
+酸 O
+已 O
+着 O
+枝 O
+
+金 O
+底 O
+背 O
+
+玉 O
+东 O
+西 O
+
+前 O
+欢 O
+赢 O
+得 O
+两 O
+相 O
+思 O
+
+伤 O
+心 O
+不 O
+及 O
+风 O
+前 O
+燕 O
+
+犹 O
+解 O
+穿 O
+帘 O
+度 O
+幕 O
+飞 O
+

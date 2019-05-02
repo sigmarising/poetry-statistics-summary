@@ -1,0 +1,492 @@
+斗 O
+鸡 O
+诗 O
+
+戚 O
+戚 O
+怀 O
+不 O
+乐 O
+
+无 O
+以 O
+释 O
+劳 O
+勤 O
+
+兄 O
+弟 O
+游 O
+戏 O
+场 O
+
+命 O
+驾 O
+迎 O
+众 O
+宾 O
+
+二 O
+部 O
+分 O
+曹 O
+伍 O
+
+群 O
+鸡 O
+焕 O
+以 O
+陈 O
+
+双 O
+距 O
+解 O
+长 O
+绁 O
+
+飞 O
+踊 O
+超 O
+敌 O
+伦 O
+
+芥 O
+羽 O
+张 O
+金 O
+距 O
+
+连 O
+战 O
+何 O
+缤 O
+纷 O
+
+从 O
+朝 O
+至 O
+日 O
+夕 O
+
+胜 O
+负 O
+尚 O
+未 O
+分 O
+
+专 O
+场 O
+驱 O
+众 O
+敌 O
+
+刚 O
+捷 O
+逸 O
+等 O
+羣 O
+
+四 O
+坐 O
+同 O
+休 O
+赞 O
+
+宾 O
+主 O
+怀 O
+悦 O
+欣 O
+
+博 O
+奕 O
+非 O
+不 O
+乐 O
+
+此 O
+戏 O
+世 O
+所 O
+珍 O
+
+别 O
+诗 O
+
+浩 O
+浩 O
+长 O
+河 O
+水 O
+
+九 O
+折 O
+东 O
+北 O
+流 O
+
+晨 O
+夜 O
+赴 O
+沧 O
+海 O
+
+海 O
+流 O
+亦 O
+何 O
+抽 O
+
+远 O
+适 O
+万 O
+里 O
+道 O
+
+归 O
+来 O
+未 O
+有 O
+由 O
+
+临 O
+河 O
+累 O
+太 O
+息 O
+
+五 O
+内 O
+怀 O
+伤 O
+忧 O
+
+别 O
+诗 O
+
+朝 O
+云 O
+浮 O
+四 O
+海 O
+
+日 O
+暮 O
+归 O
+故 O
+山 O
+
+行 O
+役 O
+怀 O
+旧 O
+土 O
+
+悲 O
+思 O
+不 O
+能 O
+言 O
+
+悠 O
+悠 O
+涉 O
+千 O
+里 O
+
+未 O
+知 O
+何 O
+时 O
+旋 O
+
+侍 O
+五 O
+官 O
+中 O
+郎 O
+将 O
+建 O
+章 O
+台 O
+集 O
+诗 O
+
+朝 O
+雁 O
+鸣 O
+云 O
+中 O
+
+音 O
+响 O
+一 O
+何 O
+哀 O
+
+问 O
+子 O
+游 O
+何 O
+乡 O
+
+戢 O
+翼 O
+正 O
+徘 O
+徊 O
+
+言 O
+我 O
+塞 O
+门 O
+来 O
+
+将 O
+就 O
+衡 O
+阳 O
+栖 O
+
+往 O
+春 O
+翔 O
+北 O
+土 O
+
+今 O
+冬 O
+客 O
+南 O
+淮 O
+
+远 O
+行 O
+蒙 O
+霜 O
+雪 O
+
+毛 O
+羽 O
+日 O
+摧 O
+颓 O
+
+常 O
+恐 O
+伤 O
+肌 O
+骨 O
+
+身 O
+陨 O
+沉 O
+黄 O
+泥 O
+
+简 O
+珠 O
+堕 O
+沙 O
+石 O
+
+何 O
+能 O
+中 O
+自 O
+谐 O
+
+欲 O
+因 O
+云 O
+雨 O
+会 O
+
+濯 O
+羽 O
+陵 O
+高 O
+梯 O
+
+良 O
+遇 O
+不 O
+可 O
+值 O
+
+伸 O
+眉 O
+路 O
+何 O
+阶 O
+
+公 O
+子 O
+敬 O
+爱 O
+客 O
+
+乐 O
+饮 O
+不 O
+知 O
+疲 O
+
+和 O
+颜 O
+既 O
+以 O
+畅 O
+
+乃 O
+肯 O
+顾 O
+细 O
+微 O
+
+赠 O
+诗 O
+见 O
+存 O
+慰 O
+
+小 O
+子 O
+非 O
+所 O
+宜 O
+
+为 O
+且 O
+极 O
+讙 O
+情 O
+
+不 O
+醉 O
+其 O
+无 O
+归 O
+
+凡 O
+百 O
+敬 O
+尔 O
+位 O
+
+以 O
+副 O
+饥 O
+渴 O
+怀 O
+
+公 O
+宴 O
+诗 O
+
+巍 O
+巍 O
+主 O
+人 O
+德 O
+
+佳 O
+会 O
+被 O
+四 O
+方 O
+
+开 O
+馆 O
+延 O
+羣 O
+士 O
+
+置 O
+酒 O
+于 O
+斯 O
+堂 O
+
+辨 O
+论 O
+释 O
+郁 O
+结 O
+
+援 O
+笔 O
+兴 O
+文 O
+章 O
+
+穆 O
+穆 O
+众 O
+君 O
+子 O
+
+好 O
+合 O
+同 O
+欢 O
+康 O
+
+促 O
+坐 O
+褰 O
+重 O
+帷 O
+
+传 O
+满 O
+腾 O
+羽 O
+觞 O
+
+报 O
+赵 O
+淑 O
+丽 O
+诗 O
+
+朝 O
+云 O
+不 O
+归 O
+
+夕 O
+结 O
+成 O
+阴 O
+
+离 O
+羣 O
+犹 O
+宿 O
+
+永 O
+思 O
+长 O
+吟 O
+
+有 O
+鸟 O
+孤 O
+栖 O
+
+哀 O
+鸣 O
+北 O
+林 O
+
+嗟 O
+我 O
+怀 O
+矣 O
+
+感 O
+物 O
+伤 O
+心 O
+

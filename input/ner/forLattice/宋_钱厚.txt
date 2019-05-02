@@ -1,0 +1,419 @@
+漱 O
+石 O
+轩 O
+
+危 O
+石 O
+参 O
+差 O
+上 O
+霄 O
+汉 O
+
+中 O
+涵 O
+万 O
+壑 O
+冰 O
+玉 O
+清 O
+
+与 O
+谁 O
+流 O
+出 O
+洗 O
+尘 O
+滓 O
+
+遗 O
+我 O
+一 O
+林 O
+风 O
+雨 O
+声 O
+
+句 O
+
+暮 O
+霭 O
+不 O
+知 O
+天 O
+远 O
+近 O
+
+閒 O
+云 O
+休 O
+碍 O
+月 O
+升 O
+沉 O
+
+梅 O
+亭 O
+
+东 O
+风 O
+吹 O
+雨 O
+雨 O
+吹 O
+花 O
+
+洗 O
+却 O
+阴 O
+沉 O
+放 O
+月 O
+华 O
+
+俗 O
+眼 O
+总 O
+嫌 O
+梅 O
+太 O
+白 O
+
+嫦 O
+娥 O
+勾 O
+引 O
+莫 O
+云 O
+遮 O
+
+云 O
+浓 O
+更 O
+欲 O
+催 O
+诗 O
+句 O
+
+风 O
+急 O
+花 O
+飞 O
+留 O
+不 O
+住 O
+
+使 O
+君 O
+唤 O
+客 O
+早 O
+评 O
+章 O
+
+趁 O
+渠 O
+未 O
+点 O
+苍 O
+苔 O
+路 O
+
+夜 O
+阑 O
+留 O
+月 O
+迟 O
+春 O
+酌 O
+
+生 O
+怕 O
+楼 O
+头 O
+吹 O
+画 O
+角 O
+
+更 O
+摧 O
+银 O
+蜡 O
+上 O
+寒 O
+梢 O
+
+冷 O
+艳 O
+烧 O
+春 O
+春 O
+未 O
+觉 O
+
+烛 O
+光 O
+炯 O
+炯 O
+花 O
+冥 O
+冥 O
+
+花 O
+前 O
+醉 O
+倒 O
+唤 O
+不 O
+醒 O
+
+南 O
+枝 O
+自 O
+与 O
+北 O
+枝 O
+语 O
+
+今 O
+夜 O
+诗 O
+工 O
+眼 O
+倍 O
+沮 O
+
+漱 O
+石 O
+轩 O
+
+石 O
+窦 O
+鸣 O
+泉 O
+自 O
+招 O
+隐 O
+
+故 O
+邀 O
+风 O
+月 O
+到 O
+林 O
+扃 O
+
+我 O
+今 O
+欲 O
+去 O
+尚 O
+回 O
+首 O
+
+多 O
+少 O
+人 O
+来 O
+不 O
+肯 O
+听 O
+
+登 O
+玲 O
+珑 O
+山 O
+赋 O
+呈 O
+章 O
+冠 O
+叟 O
+俞 O
+安 O
+伸 O
+陈 O
+安 O
+世 O
+
+林 O
+扉 O
+日 O
+日 O
+为 O
+谁 O
+开 O
+
+底 O
+用 O
+潜 O
+驱 O
+俗 O
+驾 O
+回 O
+
+路 O
+有 O
+阴 O
+夷 O
+休 O
+跌 O
+荡 O
+
+山 O
+无 O
+今 O
+古 O
+只 O
+崔 O
+嵬 O
+
+千 O
+章 O
+佳 O
+木 O
+凌 O
+云 O
+上 O
+
+万 O
+壑 O
+清 O
+流 O
+涌 O
+月 O
+来 O
+
+寄 O
+语 O
+游 O
+人 O
+莫 O
+遄 O
+迈 O
+
+世 O
+间 O
+何 O
+处 O
+不 O
+尘 O
+埃 O
+
+寄 O
+锺 O
+子 O
+充 O
+
+倦 O
+倚 O
+吴 O
+门 O
+思 O
+泬 O
+寥 O
+
+怀 O
+人 O
+清 O
+致 O
+诗 O
+满 O
+瓢 O
+
+池 O
+塘 O
+芳 O
+草 O
+梦 O
+初 O
+断 O
+
+风 O
+雨 O
+落 O
+花 O
+魂 O
+正 O
+锁 O
+
+一 O
+百 O
+五 O
+日 O
+寒 O
+食 O
+节 O
+
+二 O
+十 O
+四 O
+浦 O
+春 O
+潮 O
+
+遥 O
+知 O
+药 O
+圃 O
+晓 O
+经 O
+劚 O
+
+舍 O
+后 O
+蘼 O
+添 O
+绿 O
+苗 O
+
+山 O
+亭 O
+
+又 O
+踏 O
+君 O
+山 O
+路 O
+
+来 O
+驱 O
+陌 O
+上 O
+尘 O
+
+江 O
+仍 O
+旧 O
+时 O
+面 O
+
+我 O
+是 O
+去 O
+年 O
+人 O
+
+爱 O
+听 O
+松 O
+声 O
+古 O
+
+休 O
+催 O
+柳 O
+色 O
+新 O
+
+片 O
+云 O
+衔 O
+落 O
+日 O
+
+梅 O
+与 O
+月 O
+争 O
+春 O
+

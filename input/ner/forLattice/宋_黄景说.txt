@@ -1,0 +1,360 @@
+句 O
+
+肯 O
+随 O
+桃 O
+李 O
+鬭 O
+梳 O
+妆 O
+
+句 O
+
+落 O
+日 O
+天 O
+寒 O
+客 O
+自 O
+愁 O
+
+句 O
+
+万 O
+木 O
+逢 O
+霜 O
+一 O
+劫 O
+灰 O
+
+句 O
+
+一 O
+身 O
+尽 O
+著 O
+雪 O
+衣 O
+裳 O
+
+雪 O
+
+说 O
+道 O
+羞 O
+明 O
+却 O
+不 O
+羞 O
+
+日 O
+光 O
+玉 O
+洁 O
+共 O
+飞 O
+浮 O
+
+天 O
+人 O
+胸 O
+次 O
+明 O
+如 O
+洗 O
+
+肯 O
+似 O
+人 O
+间 O
+只 O
+暗 O
+投 O
+
+雪 O
+
+瑶 O
+林 O
+中 O
+有 O
+翳 O
+桑 O
+儿 O
+
+鼎 O
+贵 O
+生 O
+涯 O
+不 O
+救 O
+饥 O
+
+愿 O
+缩 O
+天 O
+人 O
+散 O
+花 O
+手 O
+
+放 O
+渠 O
+奔 O
+走 O
+趁 O
+晨 O
+炊 O
+
+句 O
+
+孤 O
+标 O
+只 O
+合 O
+在 O
+孤 O
+山 O
+
+梨 O
+岭 O
+遇 O
+雨 O
+
+黑 O
+风 O
+吹 O
+雨 O
+又 O
+黄 O
+昏 O
+
+鸡 O
+犬 O
+数 O
+处 O
+何 O
+处 O
+村 O
+
+身 O
+在 O
+岭 O
+云 O
+飞 O
+处 O
+湿 O
+
+不 O
+关 O
+别 O
+泪 O
+溅 O
+成 O
+痕 O
+
+句 O
+
+临 O
+风 O
+长 O
+作 O
+南 O
+枝 O
+想 O
+
+诗 O
+一 O
+首 O
+
+居 O
+乡 O
+如 O
+处 O
+子 O
+
+居 O
+官 O
+如 O
+战 O
+士 O
+
+处 O
+子 O
+常 O
+畏 O
+人 O
+
+战 O
+士 O
+惟 O
+有 O
+死 O
+
+儿 O
+曹 O
+书 O
+诸 O
+绅 O
+
+勿 O
+谓 O
+平 O
+平 O
+耳 O
+
+句 O
+
+谁 O
+与 O
+诗 O
+人 O
+管 O
+醉 O
+魂 O
+
+句 O
+
+政 O
+尔 O
+玉 O
+壶 O
+相 O
+俎 O
+豆 O
+
+句 O
+
+一 O
+落 O
+风 O
+尘 O
+即 O
+厚 O
+颜 O
+
+句 O
+
+清 O
+杀 O
+玉 O
+川 O
+文 O
+字 O
+肠 O
+
+句 O
+
+侬 O
+是 O
+水 O
+仙 O
+鸿 O
+雁 O
+行 O
+
+古 O
+风 O
+贺 O
+周 O
+益 O
+公 O
+休 O
+致 O
+
+相 O
+公 O
+能 O
+辞 O
+一 O
+品 O
+官 O
+
+不 O
+能 O
+辞 O
+他 O
+九 O
+转 O
+丹 O
+
+相 O
+公 O
+能 O
+却 O
+万 O
+钟 O
+粟 O
+
+不 O
+能 O
+却 O
+他 O
+长 O
+生 O
+籙 O
+
+潭 O
+潭 O
+之 O
+居 O
+移 O
+气 O
+体 O
+
+新 O
+年 O
+七 O
+十 O
+儿 O
+童 O
+似 O
+
+朝 O
+明 O
+见 O
+客 O
+步 O
+如 O
+飞 O
+
+窗 O
+下 O
+时 O
+时 O
+看 O
+细 O
+字 O
+
+高 O
+车 O
+得 O
+似 O
+垂 O
+车 O
+荣 O
+
+巍 O
+冠 O
+何 O
+如 O
+挂 O
+冠 O
+清 O
+
+深 O
+衣 O
+独 O
+乐 O
+真 O
+天 O
+人 O
+
+谁 O
+其 O
+友 O
+之 O
+聃 O
+与 O
+彭 O
+

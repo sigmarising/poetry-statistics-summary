@@ -1,0 +1,435 @@
+读 O
+长 O
+恨 O
+辞 O
+
+蜀 O
+道 O
+如 O
+天 O
+夜 O
+雨 O
+淫 O
+
+乱 O
+铃 O
+声 O
+里 O
+倍 O
+沾 O
+襟 O
+
+当 O
+时 O
+更 O
+有 O
+军 O
+中 O
+死 O
+
+自 O
+是 O
+君 O
+王 O
+不 O
+动 O
+心 O
+
+论 O
+文 O
+
+今 O
+人 O
+往 O
+往 O
+号 O
+能 O
+文 O
+
+意 O
+熟 O
+辞 O
+陈 O
+未 O
+足 O
+云 O
+
+若 O
+见 O
+江 O
+鱼 O
+须 O
+痛 O
+哭 O
+
+腹 O
+中 O
+曾 O
+有 O
+屈 O
+原 O
+坟 O
+
+秋 O
+晚 O
+悲 O
+怀 O
+
+渐 O
+老 O
+多 O
+忧 O
+百 O
+事 O
+忙 O
+
+天 O
+寒 O
+日 O
+短 O
+更 O
+心 O
+伤 O
+
+数 O
+分 O
+红 O
+色 O
+上 O
+黄 O
+叶 O
+
+一 O
+瞬 O
+曙 O
+光 O
+成 O
+夕 O
+阳 O
+
+春 O
+水 O
+别 O
+来 O
+应 O
+到 O
+海 O
+
+山 O
+松 O
+生 O
+命 O
+合 O
+经 O
+霜 O
+
+壶 O
+中 O
+若 O
+逐 O
+仙 O
+翁 O
+去 O
+
+待 O
+看 O
+年 O
+华 O
+几 O
+许 O
+长 O
+
+璧 O
+月 O
+
+璧 O
+月 O
+迢 O
+迢 O
+出 O
+暮 O
+山 O
+
+素 O
+娥 O
+心 O
+事 O
+问 O
+应 O
+难 O
+
+世 O
+间 O
+最 O
+解 O
+悲 O
+圆 O
+缺 O
+
+只 O
+有 O
+方 O
+诸 O
+泪 O
+不 O
+干 O
+
+乡 O
+思 O
+
+人 O
+言 O
+落 O
+日 O
+是 O
+天 O
+涯 O
+
+望 O
+极 O
+天 O
+涯 O
+不 O
+见 O
+家 O
+
+已 O
+恨 O
+碧 O
+山 O
+相 O
+阻 O
+隔 O
+
+碧 O
+山 O
+还 O
+被 O
+暮 O
+云 O
+遮 O
+
+苦 O
+雨 O
+初 O
+霁 O
+
+积 O
+阴 O
+为 O
+患 O
+恐 O
+沉 O
+绵 O
+
+革 O
+去 O
+方 O
+惊 O
+造 O
+化 O
+权 O
+
+天 O
+放 O
+旧 O
+光 O
+还 O
+日 O
+月 O
+
+地 O
+将 O
+浓 O
+秀 O
+与 O
+山 O
+川 O
+
+泥 O
+途 O
+渐 O
+少 O
+车 O
+声 O
+活 O
+
+林 O
+薄 O
+初 O
+干 O
+果 O
+味 O
+全 O
+
+寄 O
+语 O
+残 O
+云 O
+好 O
+知 O
+足 O
+
+莫 O
+依 O
+河 O
+汉 O
+更 O
+油 O
+然 O
+
+忆 O
+钱 O
+塘 O
+江 O
+
+昔 O
+年 O
+乘 O
+醉 O
+举 O
+归 O
+帆 O
+
+隐 O
+隐 O
+山 O
+前 O
+日 O
+半 O
+衔 O
+
+好 O
+似 O
+满 O
+江 O
+涵 O
+返 O
+照 O
+
+水 O
+仙 O
+齐 O
+着 O
+淡 O
+红 O
+衫 O
+
+获 O
+稻 O
+
+朝 O
+阳 O
+过 O
+山 O
+来 O
+
+下 O
+田 O
+犹 O
+露 O
+湿 O
+
+饷 O
+妇 O
+念 O
+儿 O
+啼 O
+
+逢 O
+人 O
+不 O
+敢 O
+立 O
+
+青 O
+黄 O
+先 O
+后 O
+收 O
+
+断 O
+折 O
+僵 O
+偻 O
+拾 O
+
+鸟 O
+鼠 O
+满 O
+官 O
+仓 O
+
+于 O
+今 O
+又 O
+租 O
+入 O
+
+残 O
+叶 O
+
+一 O
+树 O
+摧 O
+残 O
+几 O
+片 O
+存 O
+
+栏 O
+边 O
+为 O
+汝 O
+最 O
+伤 O
+神 O
+
+休 O
+翻 O
+雨 O
+滴 O
+寒 O
+鸣 O
+夜 O
+
+曾 O
+抱 O
+花 O
+枝 O
+暖 O
+过 O
+春 O
+
+与 O
+影 O
+有 O
+情 O
+唯 O
+日 O
+月 O
+
+遇 O
+红 O
+无 O
+礼 O
+是 O
+泥 O
+尘 O
+
+上 O
+阳 O
+宫 O
+女 O
+多 O
+诗 O
+思 O
+
+莫 O
+寄 O
+人 O
+间 O
+取 O
+次 O
+人 O
+

@@ -1,0 +1,580 @@
+海 O
+上 O
+
+万 O
+面 O
+鲸 O
+波 O
+朝 O
+日 O
+赤 O
+
+沧 O
+洲 O
+四 O
+望 O
+无 O
+穷 O
+极 O
+
+海 O
+山 O
+何 O
+处 O
+是 O
+蓬 O
+莱 O
+
+遍 O
+问 O
+渔 O
+翁 O
+都 O
+不 O
+识 O
+
+屏 O
+上 O
+晚 O
+眺 O
+
+不 O
+能 O
+骑 O
+马 O
+趁 O
+朝 O
+班 O
+
+自 O
+跨 O
+黄 O
+牛 O
+扣 O
+竹 O
+关 O
+
+无 O
+德 O
+可 O
+称 O
+徒 O
+富 O
+贵 O
+
+有 O
+钱 O
+难 O
+买 O
+是 O
+清 O
+闲 O
+
+人 O
+行 O
+踯 O
+躅 O
+红 O
+边 O
+路 O
+
+日 O
+落 O
+秭 O
+归 O
+啼 O
+处 O
+山 O
+
+遥 O
+望 O
+蓬 O
+莱 O
+在 O
+何 O
+许 O
+
+扶 O
+桑 O
+东 O
+畔 O
+白 O
+云 O
+间 O
+
+赵 O
+十 O
+朋 O
+夫 O
+人 O
+挽 O
+章 O
+
+缝 O
+掖 O
+先 O
+生 O
+游 O
+汗 O
+漫 O
+
+夫 O
+人 O
+高 O
+节 O
+独 O
+青 O
+青 O
+
+临 O
+行 O
+抖 O
+擞 O
+空 O
+书 O
+笥 O
+
+分 O
+付 O
+诸 O
+郎 O
+各 O
+一 O
+经 O
+
+后 O
+浦 O
+园 O
+庐 O
+
+卜 O
+筑 O
+成 O
+佳 O
+致 O
+
+幽 O
+栖 O
+乐 O
+圣 O
+时 O
+
+何 O
+如 O
+谢 O
+公 O
+墅 O
+
+略 O
+似 O
+习 O
+家 O
+池 O
+
+地 O
+暖 O
+梅 O
+开 O
+早 O
+
+天 O
+寒 O
+酒 O
+熟 O
+迟 O
+
+催 O
+租 O
+人 O
+去 O
+后 O
+
+续 O
+得 O
+夜 O
+来 O
+诗 O
+
+初 O
+夏 O
+游 O
+张 O
+园 O
+
+乳 O
+鸭 O
+池 O
+塘 O
+水 O
+浅 O
+深 O
+
+熟 O
+梅 O
+天 O
+气 O
+半 O
+晴 O
+阴 O
+
+东 O
+园 O
+载 O
+酒 O
+西 O
+园 O
+醉 O
+
+摘 O
+尽 O
+枇 O
+杷 O
+一 O
+树 O
+金 O
+
+郑 O
+公 O
+家 O
+
+门 O
+墙 O
+多 O
+古 O
+意 O
+
+耕 O
+钓 O
+作 O
+生 O
+涯 O
+
+菽 O
+米 O
+散 O
+鱼 O
+子 O
+
+莲 O
+根 O
+拔 O
+虎 O
+牙 O
+
+弄 O
+孙 O
+时 O
+掷 O
+果 O
+
+留 O
+客 O
+旋 O
+煎 O
+茶 O
+
+颇 O
+动 O
+诗 O
+人 O
+兴 O
+
+满 O
+园 O
+荞 O
+麦 O
+花 O
+
+楼 O
+上 O
+
+终 O
+朝 O
+役 O
+役 O
+晚 O
+来 O
+闲 O
+
+识 O
+破 O
+浮 O
+生 O
+一 O
+梦 O
+间 O
+
+挈 O
+榼 O
+去 O
+沽 O
+深 O
+巷 O
+酒 O
+
+倚 O
+楼 O
+贪 O
+看 O
+夕 O
+阳 O
+山 O
+
+月 O
+临 O
+江 O
+馆 O
+人 O
+横 O
+笛 O
+
+风 O
+折 O
+芦 O
+花 O
+雁 O
+度 O
+关 O
+
+堪 O
+羡 O
+渔 O
+翁 O
+无 O
+检 O
+束 O
+
+扁 O
+舟 O
+占 O
+断 O
+白 O
+云 O
+湾 O
+
+西 O
+溪 O
+陈 O
+居 O
+士 O
+家 O
+
+来 O
+访 O
+西 O
+岩 O
+老 O
+
+家 O
+居 O
+水 O
+竹 O
+村 O
+
+紫 O
+鳞 O
+游 O
+镜 O
+曲 O
+
+黄 O
+犊 O
+卧 O
+云 O
+根 O
+
+自 O
+昔 O
+好 O
+宾 O
+客 O
+
+相 O
+传 O
+到 O
+子 O
+孙 O
+
+不 O
+行 O
+亭 O
+下 O
+路 O
+
+护 O
+笋 O
+别 O
+开 O
+门 O
+
+约 O
+黄 O
+董 O
+二 O
+亲 O
+与 O
+桂 O
+堂 O
+诸 O
+侄 O
+避 O
+暑 O
+
+世 O
+间 O
+无 O
+处 O
+避 O
+炎 O
+蒸 O
+
+欲 O
+叫 O
+西 O
+风 O
+叫 O
+不 O
+应 O
+
+恨 O
+乏 O
+白 O
+檀 O
+除 O
+热 O
+恼 O
+
+心 O
+思 O
+赤 O
+脚 O
+踏 O
+层 O
+冰 O
+
+醉 O
+游 O
+河 O
+朔 O
+谁 O
+同 O
+往 O
+
+表 O
+借 O
+明 O
+光 O
+愧 O
+不 O
+能 O
+
+闻 O
+有 O
+山 O
+林 O
+最 O
+深 O
+处 O
+
+清 O
+凉 O
+境 O
+界 O
+著 O
+高 O
+僧 O
+
+小 O
+园 O
+
+小 O
+园 O
+无 O
+事 O
+日 O
+徘 O
+徊 O
+
+频 O
+报 O
+家 O
+人 O
+送 O
+酒 O
+来 O
+
+惜 O
+树 O
+不 O
+磨 O
+修 O
+月 O
+斧 O
+
+爱 O
+花 O
+须 O
+筑 O
+避 O
+风 O
+台 O
+
+引 O
+些 O
+渠 O
+水 O
+添 O
+他 O
+满 O
+
+移 O
+个 O
+柴 O
+门 O
+傍 O
+竹 O
+开 O
+
+多 O
+谢 O
+有 O
+情 O
+双 O
+白 O
+鹭 O
+
+暂 O
+时 O
+飞 O
+去 O
+又 O
+飞 O
+回 O
+
+观 O
+梅 O
+
+三 O
+杯 O
+暖 O
+寒 O
+酒 O
+
+一 O
+榻 O
+竹 O
+亭 O
+前 O
+
+为 O
+爱 O
+梅 O
+花 O
+月 O
+
+终 O
+宵 O
+不 O
+肯 O
+眠 O
+

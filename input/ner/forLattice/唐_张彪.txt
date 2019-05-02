@@ -1,0 +1,488 @@
+敕 O
+移 O
+橘 O
+栽 O
+
+南 O
+橘 O
+北 O
+为 O
+枳 O
+
+古 O
+来 O
+岂 O
+虚 O
+言 O
+
+徙 O
+植 O
+期 O
+不 O
+变 O
+
+阴 O
+阳 O
+感 O
+君 O
+恩 O
+
+枝 O
+条 O
+皆 O
+宛 O
+然 O
+
+本 O
+土 O
+封 O
+其 O
+根 O
+
+及 O
+时 O
+望 O
+栽 O
+种 O
+
+万 O
+里 O
+绕 O
+花 O
+园 O
+
+滋 O
+味 O
+岂 O
+圣 O
+心 O
+
+实 O
+以 O
+忧 O
+黎 O
+元 O
+
+暂 O
+劳 O
+致 O
+力 O
+重 O
+
+永 O
+感 O
+贡 O
+献 O
+烦 O
+
+是 O
+嗟 O
+草 O
+木 O
+类 O
+
+禀 O
+异 O
+于 O
+乾 O
+坤 O
+
+愿 O
+为 O
+王 O
+母 O
+桃 O
+
+千 O
+岁 O
+奉 O
+至 O
+尊 O
+
+古 O
+别 O
+离 O
+
+别 O
+离 O
+无 O
+远 O
+近 O
+
+事 O
+欢 O
+情 O
+亦 O
+悲 O
+
+不 O
+闻 O
+车 O
+轮 O
+声 O
+
+后 O
+会 O
+将 O
+何 O
+时 O
+
+去 O
+日 O
+忘 O
+寄 O
+书 O
+
+来 O
+日 O
+乖 O
+前 O
+期 O
+
+纵 O
+知 O
+明 O
+当 O
+返 O
+
+一 O
+息 O
+千 O
+万 O
+思 O
+
+杂 O
+诗 O
+
+富 O
+贵 O
+多 O
+胜 O
+事 O
+
+贫 O
+贱 O
+无 O
+良 O
+图 O
+
+上 O
+德 O
+兼 O
+济 O
+心 O
+
+中 O
+才 O
+不 O
+如 O
+愚 O
+
+商 O
+者 O
+多 O
+巧 O
+智 O
+
+农 O
+者 O
+争 O
+膏 O
+腴 O
+
+儒 O
+生 O
+未 O
+遇 O
+时 O
+
+衣 O
+食 O
+不 O
+自 O
+如 O
+
+久 O
+与 O
+故 O
+交 O
+别 O
+
+他 O
+荣 O
+我 O
+穷 O
+居 O
+
+到 O
+门 O
+懒 O
+入 O
+门 O
+
+何 O
+况 O
+千 O
+里 O
+馀 O
+
+君 O
+子 O
+有 O
+褊 O
+性 O
+
+矧 O
+乃 O
+寻 O
+常 O
+徒 O
+
+行 O
+行 O
+任 O
+天 O
+地 O
+
+无 O
+为 O
+强 O
+亲 O
+疏 O
+
+杂 O
+曲 O
+歌 O
+辞 O
+· O
+古 O
+离 O
+别 O
+
+离 O
+别 O
+无 O
+远 O
+近 O
+
+事 O
+欢 O
+情 O
+亦 O
+悲 O
+
+不 O
+闻 O
+车 O
+轮 O
+声 O
+
+后 O
+会 O
+将 O
+何 O
+时 O
+
+去 O
+日 O
+忘 O
+寄 O
+书 O
+
+来 O
+日 O
+乖 O
+前 O
+期 O
+
+纵 O
+知 O
+明 O
+当 O
+还 O
+
+一 O
+夕 O
+千 O
+万 O
+思 O
+
+北 O
+游 O
+还 O
+酬 O
+孟 O
+云 O
+卿 O
+
+忽 O
+忽 O
+忘 O
+前 O
+事 O
+
+志 O
+愿 O
+能 O
+相 O
+乖 O
+
+衣 O
+马 O
+久 O
+羸 O
+弊 O
+
+谁 O
+信 O
+文 O
+与 O
+才 O
+
+善 O
+道 O
+居 O
+贫 O
+贱 O
+
+洁 O
+服 O
+蒙 O
+尘 O
+埃 O
+
+行 O
+行 O
+无 O
+定 O
+心 O
+
+壈 O
+坎 O
+难 O
+归 O
+来 O
+
+慈 O
+母 O
+忧 O
+疾 O
+疹 O
+
+至 O
+家 O
+念 O
+栖 O
+哀 O
+
+与 O
+君 O
+宿 O
+姻 O
+亲 O
+
+深 O
+见 O
+中 O
+外 O
+怀 O
+
+俟 O
+余 O
+惜 O
+时 O
+节 O
+
+怅 O
+望 O
+临 O
+高 O
+台 O
+
+神 O
+仙 O
+
+神 O
+仙 O
+可 O
+学 O
+无 O
+
+百 O
+岁 O
+名 O
+大 O
+约 O
+
+天 O
+地 O
+何 O
+苍 O
+茫 O
+
+人 O
+间 O
+半 O
+哀 O
+乐 O
+
+浮 O
+生 O
+亮 O
+多 O
+惑 O
+
+善 O
+事 O
+翻 O
+为 O
+恶 O
+
+争 O
+先 O
+等 O
+驰 O
+驱 O
+
+中 O
+路 O
+苦 O
+瘦 O
+弱 O
+
+长 O
+老 O
+思 O
+养 O
+寿 O
+
+后 O
+生 O
+笑 O
+寂 O
+寞 O
+
+五 O
+谷 O
+非 O
+长 O
+年 O
+
+四 O
+气 O
+乃 O
+灵 O
+药 O
+
+列 O
+子 O
+何 O
+必 O
+待 O
+
+吾 O
+心 O
+满 O
+寥 O
+廓 O
+

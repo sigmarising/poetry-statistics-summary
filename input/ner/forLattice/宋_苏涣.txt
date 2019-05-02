@@ -1,0 +1,519 @@
+句 O
+
+云 O
+台 O
+胜 O
+景 O
+压 O
+苍 O
+溪 O
+
+东 O
+汉 O
+遗 O
+名 O
+冠 O
+蜀 O
+西 O
+
+赠 O
+刘 O
+讽 O
+
+林 O
+下 O
+人 O
+归 O
+少 O
+
+君 O
+归 O
+不 O
+待 O
+年 O
+
+能 O
+令 O
+两 O
+蜀 O
+士 O
+
+叹 O
+甚 O
+二 O
+疏 O
+贤 O
+
+变 O
+律 O
+（ O
+本 O
+十 O
+九 O
+首 O
+
+今 O
+存 O
+三 O
+首 O
+） O
+
+日 O
+月 O
+东 O
+西 O
+行 O
+
+寒 O
+暑 O
+冬 O
+夏 O
+易 O
+
+阴 O
+阳 O
+无 O
+停 O
+机 O
+
+造 O
+化 O
+渺 O
+莫 O
+测 O
+
+开 O
+目 O
+为 O
+晨 O
+光 O
+
+闭 O
+目 O
+为 O
+夜 O
+色 O
+
+一 O
+开 O
+复 O
+一 O
+闭 O
+
+明 O
+晦 O
+无 O
+休 O
+息 O
+
+居 O
+然 O
+六 O
+合 O
+外 O
+
+旷 O
+哉 O
+天 O
+地 O
+德 O
+
+天 O
+地 O
+且 O
+不 O
+言 O
+
+世 O
+人 O
+浪 O
+喧 O
+喧 O
+
+毒 O
+蜂 O
+成 O
+一 O
+窠 O
+
+高 O
+挂 O
+恶 O
+木 O
+枝 O
+
+行 O
+人 O
+百 O
+步 O
+外 O
+
+目 O
+断 O
+魂 O
+亦 O
+飞 O
+
+长 O
+安 O
+大 O
+道 O
+边 O
+
+挟 O
+弹 O
+谁 O
+家 O
+儿 O
+
+右 O
+手 O
+持 O
+金 O
+丸 O
+
+引 O
+满 O
+无 O
+所 O
+疑 O
+
+一 O
+中 O
+纷 O
+下 O
+来 O
+
+势 O
+若 O
+风 O
+雨 O
+随 O
+
+身 O
+如 O
+万 O
+箭 O
+攒 O
+
+宛 O
+转 O
+迷 O
+所 O
+之 O
+
+徒 O
+有 O
+疾 O
+恶 O
+心 O
+
+奈 O
+何 O
+不 O
+知 O
+几 O
+
+养 O
+蚕 O
+为 O
+素 O
+丝 O
+
+叶 O
+尽 O
+蚕 O
+不 O
+老 O
+
+倾 O
+筐 O
+对 O
+空 O
+林 O
+
+此 O
+意 O
+向 O
+谁 O
+道 O
+
+一 O
+女 O
+不 O
+得 O
+织 O
+
+万 O
+夫 O
+受 O
+其 O
+寒 O
+
+一 O
+夫 O
+不 O
+得 O
+意 O
+
+四 O
+海 O
+行 O
+路 O
+难 O
+
+祸 O
+亦 O
+不 O
+在 O
+大 O
+
+福 O
+亦 O
+不 O
+在 O
+先 O
+
+世 O
+路 O
+险 O
+孟 O
+门 O
+
+吾 O
+徒 O
+当 O
+勉 O
+旃 O
+
+赠 O
+零 O
+陵 O
+僧 O
+（ O
+一 O
+作 O
+怀 O
+素 O
+上 O
+人 O
+草 O
+书 O
+歌 O
+） O
+
+张 O
+颠 O
+没 O
+在 O
+二 O
+十 O
+年 O
+
+谓 O
+言 O
+草 O
+圣 O
+无 O
+人 O
+传 O
+
+零 O
+陵 O
+沙 O
+门 O
+继 O
+其 O
+后 O
+
+新 O
+书 O
+大 O
+字 O
+大 O
+如 O
+斗 O
+
+兴 O
+来 O
+走 O
+笔 O
+如 O
+旋 O
+风 O
+
+醉 O
+后 O
+耳 O
+热 O
+心 O
+更 O
+凶 O
+
+忽 O
+如 O
+裴 O
+旻 O
+舞 O
+双 O
+剑 O
+
+七 O
+星 O
+错 O
+落 O
+缠 O
+蛟 O
+龙 O
+
+又 O
+如 O
+吴 O
+生 O
+画 O
+鬼 O
+神 O
+
+魑 O
+魅 O
+魍 O
+魉 O
+惊 O
+本 O
+身 O
+
+钩 O
+锁 O
+相 O
+连 O
+势 O
+不 O
+绝 O
+
+倔 O
+强 O
+毒 O
+蛇 O
+争 O
+屈 O
+铁 O
+
+西 O
+河 O
+舞 O
+剑 O
+气 O
+凌 O
+云 O
+
+孤 O
+蓬 O
+自 O
+振 O
+唯 O
+有 O
+君 O
+
+今 O
+日 O
+华 O
+堂 O
+看 O
+洒 O
+落 O
+
+四 O
+座 O
+喧 O
+呼 O
+叹 O
+佳 O
+作 O
+
+回 O
+首 O
+邀 O
+余 O
+赋 O
+一 O
+章 O
+
+欲 O
+令 O
+羡 O
+价 O
+齐 O
+钟 O
+张 O
+
+琅 O
+诵 O
+□ O
+句 O
+三 O
+百 O
+字 O
+
+何 O
+似 O
+醉 O
+僧 O
+颠 O
+复 O
+狂 O
+
+忽 O
+然 O
+告 O
+我 O
+游 O
+南 O
+溟 O
+
+言 O
+祈 O
+亚 O
+相 O
+求 O
+大 O
+名 O
+
+亚 O
+相 O
+书 O
+翰 O
+凌 O
+献 O
+之 O
+
+见 O
+君 O
+绝 O
+意 O
+必 O
+深 O
+知 O
+
+南 O
+中 O
+纸 O
+价 O
+当 O
+日 O
+贵 O
+
+只 O
+恐 O
+贪 O
+泉 O
+成 O
+墨 O
+池 O
+
+第 O
+二 O
+百 O
+五 O
+十 O
+六 O
+卷 O

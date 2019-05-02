@@ -1,0 +1,462 @@
+唐 O
+多 O
+令 O
+
+枫 O
+老 O
+树 O
+留 O
+声 O
+
+芦 O
+花 O
+吹 O
+又 O
+残 O
+
+系 O
+扁 O
+舟 O
+同 O
+倚 O
+朱 O
+阑 O
+
+还 O
+似 O
+少 O
+年 O
+歌 O
+舞 O
+地 O
+
+听 O
+落 O
+叶 O
+
+忆 O
+长 O
+安 O
+
+哀 O
+角 O
+起 O
+重 O
+关 O
+
+霜 O
+深 O
+楚 O
+水 O
+寒 O
+
+背 O
+西 O
+风 O
+归 O
+雁 O
+声 O
+酸 O
+
+一 O
+片 O
+石 O
+头 O
+城 O
+上 O
+月 O
+
+浑 O
+怕 O
+照 O
+
+旧 O
+江 O
+山 O
+
+登 O
+泰 O
+州 O
+城 O
+楼 O
+
+四 O
+野 O
+霜 O
+晴 O
+海 O
+气 O
+收 O
+
+高 O
+城 O
+啸 O
+侣 O
+共 O
+登 O
+楼 O
+
+旌 O
+旗 O
+杂 O
+沓 O
+连 O
+三 O
+郡 O
+
+锁 O
+钥 O
+矜 O
+严 O
+重 O
+一 O
+州 O
+
+西 O
+望 O
+云 O
+山 O
+成 O
+间 O
+阻 O
+
+南 O
+飞 O
+鸟 O
+鹊 O
+尚 O
+淹 O
+留 O
+
+海 O
+陵 O
+自 O
+古 O
+雄 O
+争 O
+地 O
+
+烟 O
+树 O
+苍 O
+苍 O
+起 O
+暮 O
+愁 O
+
+渡 O
+江 O
+云 O
+
+燕 O
+泥 O
+衔 O
+杏 O
+雨 O
+
+炉 O
+薰 O
+隐 O
+篆 O
+
+朱 O
+户 O
+昼 O
+
+半 O
+窗 O
+松 O
+影 O
+碎 O
+
+小 O
+语 O
+分 O
+茶 O
+
+日 O
+暖 O
+唤 O
+青 O
+禽 O
+
+那 O
+不 O
+见 O
+
+招 O
+手 O
+楼 O
+阴 O
+
+空 O
+自 O
+踏 O
+
+落 O
+花 O
+归 O
+去 O
+
+消 O
+歇 O
+酒 O
+杯 O
+心 O
+
+沈 O
+吟 O
+
+红 O
+墙 O
+几 O
+尺 O
+
+远 O
+过 O
+蓬 O
+山 O
+
+更 O
+难 O
+通 O
+鱼 O
+锦 O
+
+换 O
+尽 O
+了 O
+
+陌 O
+头 O
+柳 O
+色 O
+
+愁 O
+满 O
+罗 O
+襟 O
+
+梦 O
+中 O
+常 O
+订 O
+重 O
+逢 O
+约 O
+
+甚 O
+隔 O
+帘 O
+
+翻 O
+怕 O
+相 O
+寻 O
+
+门 O
+又 O
+掩 O
+
+碧 O
+桃 O
+一 O
+树 O
+春 O
+深 O
+
+鹧 O
+鸪 O
+天 O
+
+杨 O
+柳 O
+东 O
+塘 O
+细 O
+水 O
+流 O
+
+红 O
+窗 O
+睡 O
+起 O
+唤 O
+晴 O
+鸠 O
+
+屏 O
+间 O
+山 O
+压 O
+眉 O
+心 O
+翠 O
+
+镜 O
+里 O
+波 O
+生 O
+鬓 O
+角 O
+秋 O
+
+　 O
+临 O
+玉 O
+管 O
+
+试 O
+琼 O
+瓯 O
+
+醒 O
+时 O
+题 O
+恨 O
+醉 O
+时 O
+休 O
+
+明 O
+朝 O
+花 O
+落 O
+归 O
+鸿 O
+尽 O
+
+细 O
+雨 O
+春 O
+寒 O
+闭 O
+小 O
+楼 O
+
+浪 O
+淘 O
+沙 O
+
+云 O
+气 O
+压 O
+虚 O
+栏 O
+
+青 O
+失 O
+遥 O
+山 O
+
+雨 O
+丝 O
+风 O
+絮 O
+一 O
+番 O
+番 O
+
+上 O
+巳 O
+清 O
+明 O
+都 O
+过 O
+了 O
+
+只 O
+是 O
+春 O
+寒 O
+
+　 O
+华 O
+发 O
+已 O
+无 O
+端 O
+
+何 O
+况 O
+花 O
+残 O
+
+飞 O
+来 O
+蝴 O
+蝶 O
+又 O
+成 O
+团 O
+
+明 O
+日 O
+朱 O
+楼 O
+人 O
+睡 O
+起 O
+
+莫 O
+卷 O
+帘 O
+看 O
+
+卜 O
+算 O
+子 O
+
+燕 O
+子 O
+不 O
+曾 O
+来 O
+
+小 O
+院 O
+阴 O
+阴 O
+雨 O
+
+一 O
+角 O
+阑 O
+干 O
+聚 O
+落 O
+花 O
+
+此 O
+是 O
+春 O
+归 O
+处 O
+
+　 O
+弹 O
+泪 O
+别 O
+东 O
+风 O
+
+把 O
+酒 O
+浇 O
+飞 O
+絮 O
+
+化 O
+了 O
+浮 O
+萍 O
+也 O
+是 O
+愁 O
+
+莫 O
+向 O
+天 O
+涯 O
+去 O
+

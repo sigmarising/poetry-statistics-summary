@@ -1,0 +1,598 @@
+句 O
+
+云 O
+蒸 O
+洞 O
+穴 O
+秋 O
+成 O
+雨 O
+
+泉 O
+落 O
+庭 O
+除 O
+夏 O
+结 O
+冰 O
+
+凤 O
+山 O
+阁 O
+
+举 O
+头 O
+何 O
+处 O
+认 O
+京 O
+华 O
+
+凤 O
+阁 O
+层 O
+层 O
+出 O
+乱 O
+霞 O
+
+山 O
+势 O
+转 O
+来 O
+双 O
+径 O
+曲 O
+
+水 O
+声 O
+分 O
+去 O
+一 O
+川 O
+斜 O
+
+丹 O
+青 O
+隐 O
+映 O
+林 O
+间 O
+焙 O
+
+黑 O
+白 O
+微 O
+茫 O
+石 O
+上 O
+畲 O
+
+遇 O
+兴 O
+每 O
+须 O
+穷 O
+日 O
+夕 O
+
+槛 O
+边 O
+修 O
+竹 O
+砌 O
+边 O
+花 O
+
+伏 O
+承 O
+君 O
+仪 O
+使 O
+郎 O
+中 O
+宠 O
+示 O
+佳 O
+付 O
+谨 O
+次 O
+严 O
+韵 O
+
+飞 O
+鸟 O
+影 O
+穿 O
+红 O
+烛 O
+去 O
+
+寒 O
+蟾 O
+光 O
+落 O
+素 O
+琴 O
+来 O
+
+三 O
+数 O
+寺 O
+通 O
+溪 O
+畔 O
+路 O
+
+好 O
+从 O
+僧 O
+借 O
+流 O
+时 O
+杯 O
+
+句 O
+
+晓 O
+塔 O
+影 O
+分 O
+山 O
+店 O
+北 O
+
+暮 O
+钟 O
+声 O
+落 O
+海 O
+门 O
+西 O
+
+宿 O
+猿 O
+洞 O
+和 O
+程 O
+师 O
+孟 O
+韵 O
+
+日 O
+上 O
+高 O
+台 O
+云 O
+半 O
+屏 O
+
+洞 O
+门 O
+休 O
+唤 O
+夕 O
+阳 O
+扃 O
+
+巍 O
+冠 O
+不 O
+整 O
+跏 O
+趺 O
+坐 O
+
+秋 O
+楮 O
+斓 O
+斑 O
+数 O
+点 O
+星 O
+
+送 O
+程 O
+给 O
+事 O
+知 O
+越 O
+州 O
+
+琐 O
+闱 O
+官 O
+接 O
+凤 O
+凰 O
+巢 O
+
+蔼 O
+蔼 O
+青 O
+云 O
+器 O
+业 O
+高 O
+
+一 O
+代 O
+后 O
+先 O
+书 O
+惠 O
+人 O
+
+三 O
+朝 O
+中 O
+外 O
+主 O
+风 O
+骚 O
+
+阜 O
+安 O
+广 O
+粤 O
+新 O
+城 O
+郭 O
+
+慑 O
+伏 O
+幽 O
+燕 O
+旧 O
+节 O
+旄 O
+
+元 O
+相 O
+台 O
+楼 O
+何 O
+处 O
+是 O
+
+蓬 O
+莱 O
+山 O
+压 O
+海 O
+波 O
+涛 O
+
+闻 O
+龙 O
+学 O
+平 O
+昔 O
+曾 O
+游 O
+川 O
+西 O
+湖 O
+有 O
+诗 O
+以 O
+寄 O
+之 O
+
+河 O
+势 O
+横 O
+斜 O
+带 O
+地 O
+形 O
+
+碧 O
+油 O
+具 O
+旆 O
+昔 O
+常 O
+经 O
+
+驿 O
+名 O
+未 O
+改 O
+风 O
+尘 O
+黑 O
+
+碑 O
+字 O
+犹 O
+存 O
+雨 O
+藓 O
+青 O
+
+芦 O
+福 O
+园 O
+林 O
+僧 O
+杳 O
+渺 O
+
+撷 O
+芳 O
+洲 O
+渚 O
+妓 O
+娉 O
+婷 O
+
+汝 O
+南 O
+一 O
+值 O
+贤 O
+人 O
+降 O
+
+分 O
+野 O
+于 O
+今 O
+占 O
+德 O
+星 O
+
+送 O
+龙 O
+学 O
+和 O
+寄 O
+王 O
+元 O
+之 O
+郎 O
+中 O
+
+未 O
+持 O
+双 O
+节 O
+去 O
+朝 O
+元 O
+
+玉 O
+陛 O
+犹 O
+虚 O
+待 O
+从 O
+班 O
+
+龟 O
+洛 O
+旧 O
+游 O
+天 O
+直 O
+上 O
+
+鸡 O
+林 O
+新 O
+句 O
+海 O
+中 O
+间 O
+
+品 O
+流 O
+有 O
+日 O
+归 O
+陶 O
+治 O
+
+隐 O
+逸 O
+无 O
+时 O
+奉 O
+宴 O
+闲 O
+
+鹤 O
+驭 O
+仙 O
+游 O
+何 O
+处 O
+所 O
+
+轩 O
+皇 O
+冠 O
+剑 O
+在 O
+桥 O
+山 O
+
+宿 O
+猿 O
+洞 O
+再 O
+和 O
+程 O
+师 O
+孟 O
+韵 O
+
+入 O
+林 O
+休 O
+顾 O
+小 O
+猿 O
+惊 O
+
+寿 O
+酒 O
+交 O
+持 O
+石 O
+外 O
+亭 O
+
+刺 O
+史 O
+尊 O
+崇 O
+上 O
+卿 O
+月 O
+
+主 O
+人 O
+高 O
+隐 O
+少 O
+微 O
+星 O
+
+只 O
+因 O
+避 O
+雨 O
+投 O
+松 O
+盖 O
+
+屡 O
+为 O
+障 O
+风 O
+夹 O
+桧 O
+屏 O
+
+笑 O
+语 O
+林 O
+猿 O
+能 O
+解 O
+意 O
+
+往 O
+来 O
+应 O
+不 O
+限 O
+岩 O
+扃 O
+
+宿 O
+猿 O
+洞 O
+
+洞 O
+天 O
+虚 O
+寂 O
+翠 O
+屏 O
+欹 O
+
+心 O
+迹 O
+萧 O
+然 O
+万 O
+物 O
+齐 O
+
+无 O
+奈 O
+宿 O
+猿 O
+嫌 O
+宿 O
+营 O
+客 O
+
+夜 O
+深 O
+犹 O
+乱 O
+云 O
+蹄 O
+
+惠 O
+应 O
+庙 O
+
+一 O
+家 O
+终 O
+日 O
+在 O
+楼 O
+台 O
+
+弈 O
+局 O
+斜 O
+兼 O
+画 O
+卷 O
+开 O
+
+幽 O
+鸟 O
+影 O
+穿 O
+红 O
+烛 O
+去 O
+
+寒 O
+蟾 O
+光 O
+落 O
+素 O
+琴 O
+来 O
+
+钓 O
+丝 O
+暮 O
+惹 O
+苹 O
+间 O
+浪 O
+
+篆 O
+石 O
+春 O
+浮 O
+藓 O
+上 O
+埃 O
+
+三 O
+数 O
+寺 O
+通 O
+溪 O
+畔 O
+路 O
+
+好 O
+寻 O
+僧 O
+借 O
+度 O
+时 O
+杯 O
+

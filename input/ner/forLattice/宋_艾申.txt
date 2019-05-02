@@ -1,0 +1,159 @@
+白 O
+土 O
+寺 O
+
+正 O
+尔 O
+炎 O
+官 O
+火 O
+伞 O
+张 O
+
+幅 O
+巾 O
+来 O
+此 O
+坐 O
+僧 O
+房 O
+
+个 O
+中 O
+岂 O
+是 O
+全 O
+无 O
+暑 O
+
+毕 O
+竟 O
+心 O
+清 O
+身 O
+自 O
+凉 O
+
+石 O
+{ O
+上 O
+巩 O
+下 O
+石 O
+} O
+
+突 O
+兀 O
+倚 O
+苍 O
+穹 O
+
+谁 O
+云 O
+巧 O
+妙 O
+工 O
+
+滴 O
+□ O
+岩 O
+已 O
+竭 O
+
+神 O
+运 O
+□ O
+常 O
+空 O
+
+人 O
+入 O
+嵌 O
+□ O
+里 O
+
+春 O
+归 O
+秋 O
+□ O
+中 O
+
+□ O
+翁 O
+何 O
+处 O
+在 O
+
+孤 O
+塔 O
+凛 O
+高 O
+风 O
+
+疏 O
+山 O
+
+夹 O
+道 O
+苍 O
+松 O
+六 O
+月 O
+寒 O
+
+尘 O
+埃 O
+只 O
+隔 O
+白 O
+云 O
+间 O
+
+重 O
+游 O
+恰 O
+是 O
+十 O
+年 O
+后 O
+
+往 O
+事 O
+空 O
+惊 O
+一 O
+梦 O
+间 O
+
+杰 O
+阁 O
+漫 O
+夸 O
+新 O
+卜 O
+築 O
+
+危 O
+亭 O
+不 O
+似 O
+旧 O
+跻 O
+攀 O
+
+凭 O
+谁 O
+说 O
+与 O
+矮 O
+师 O
+叔 O
+
+投 O
+老 O
+求 O
+分 O
+一 O
+半 O
+山 O
+

@@ -1,0 +1,585 @@
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+青 O
+草 O
+开 O
+时 O
+已 O
+过 O
+船 O
+
+锦 O
+鳞 O
+跃 O
+处 O
+浪 O
+痕 O
+圆 O
+
+竹 O
+叶 O
+酒 O
+
+柳 O
+花 O
+毡 O
+
+有 O
+意 O
+沙 O
+鸥 O
+伴 O
+我 O
+眠 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+无 O
+数 O
+菰 O
+蒲 O
+间 O
+藕 O
+花 O
+
+棹 O
+歌 O
+轻 O
+举 O
+酌 O
+流 O
+霞 O
+
+随 O
+家 O
+好 O
+
+转 O
+山 O
+斜 O
+
+也 O
+有 O
+孤 O
+村 O
+三 O
+两 O
+家 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+侬 O
+家 O
+活 O
+计 O
+岂 O
+能 O
+明 O
+
+万 O
+顷 O
+波 O
+心 O
+月 O
+影 O
+清 O
+
+倾 O
+绿 O
+酒 O
+
+糁 O
+藜 O
+羹 O
+
+保 O
+任 O
+衣 O
+中 O
+一 O
+物 O
+灵 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+春 O
+入 O
+渭 O
+阳 O
+花 O
+气 O
+多 O
+
+春 O
+归 O
+时 O
+节 O
+自 O
+清 O
+和 O
+
+冲 O
+晓 O
+雾 O
+
+弄 O
+沧 O
+波 O
+
+载 O
+与 O
+俱 O
+归 O
+又 O
+若 O
+何 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+暮 O
+暮 O
+朝 O
+朝 O
+冬 O
+复 O
+春 O
+
+高 O
+车 O
+驷 O
+马 O
+趁 O
+朝 O
+身 O
+
+金 O
+拄 O
+屋 O
+
+粟 O
+盈 O
+囷 O
+
+那 O
+知 O
+江 O
+汉 O
+独 O
+醒 O
+人 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+扁 O
+舟 O
+小 O
+缆 O
+荻 O
+花 O
+风 O
+
+四 O
+合 O
+青 O
+山 O
+暮 O
+霭 O
+中 O
+
+明 O
+细 O
+火 O
+
+倚 O
+孤 O
+松 O
+
+但 O
+愿 O
+尊 O
+中 O
+酒 O
+不 O
+空 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+鱼 O
+信 O
+还 O
+催 O
+花 O
+信 O
+开 O
+
+花 O
+风 O
+得 O
+得 O
+为 O
+谁 O
+来 O
+
+舒 O
+柳 O
+眼 O
+
+落 O
+梅 O
+腮 O
+
+浪 O
+暖 O
+桃 O
+花 O
+夜 O
+转 O
+雷 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+骇 O
+浪 O
+吞 O
+舟 O
+脱 O
+巨 O
+鳞 O
+
+结 O
+绳 O
+为 O
+网 O
+也 O
+难 O
+任 O
+
+纶 O
+乍 O
+放 O
+
+饵 O
+初 O
+沈 O
+
+浅 O
+钓 O
+纤 O
+鳞 O
+味 O
+更 O
+深 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+清 O
+湾 O
+幽 O
+岛 O
+任 O
+盘 O
+纡 O
+
+一 O
+舸 O
+横 O
+斜 O
+得 O
+自 O
+如 O
+
+惟 O
+有 O
+此 O
+
+更 O
+无 O
+居 O
+
+从 O
+教 O
+红 O
+袖 O
+泣 O
+前 O
+鱼 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+水 O
+涵 O
+微 O
+雨 O
+湛 O
+虚 O
+明 O
+
+小 O
+笠 O
+轻 O
+蓑 O
+未 O
+要 O
+晴 O
+
+明 O
+鉴 O
+里 O
+
+縠 O
+纹 O
+生 O
+
+白 O
+鹭 O
+飞 O
+来 O
+空 O
+外 O
+声 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+一 O
+湖 O
+春 O
+水 O
+夜 O
+来 O
+生 O
+
+几 O
+叠 O
+春 O
+山 O
+远 O
+更 O
+横 O
+
+烟 O
+艇 O
+小 O
+
+钓 O
+丝 O
+轻 O
+
+赢 O
+得 O
+闲 O
+中 O
+万 O
+古 O
+名 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+远 O
+水 O
+无 O
+涯 O
+山 O
+有 O
+邻 O
+
+相 O
+看 O
+岁 O
+晚 O
+更 O
+情 O
+亲 O
+
+笛 O
+里 O
+月 O
+
+酒 O
+中 O
+身 O
+
+举 O
+头 O
+无 O
+我 O
+一 O
+般 O
+人 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+云 O
+洒 O
+清 O
+江 O
+江 O
+上 O
+船 O
+
+一 O
+钱 O
+何 O
+得 O
+买 O
+江 O
+天 O
+
+催 O
+短 O
+棹 O
+
+去 O
+长 O
+川 O
+
+鱼 O
+蟹 O
+来 O
+倾 O
+酒 O
+舍 O
+烟 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+薄 O
+晚 O
+烟 O
+林 O
+澹 O
+翠 O
+微 O
+
+江 O
+边 O
+秋 O
+月 O
+已 O
+明 O
+晖 O
+
+纵 O
+远 O
+舵 O
+
+适 O
+天 O
+机 O
+
+水 O
+底 O
+闲 O
+云 O
+片 O
+段 O
+飞 O
+
+渔 O
+父 O
+词 O
+/ O
+渔 O
+父 O
+
+谁 O
+云 O
+渔 O
+父 O
+是 O
+愚 O
+翁 O
+
+一 O
+叶 O
+浮 O
+家 O
+万 O
+虑 O
+空 O
+
+轻 O
+破 O
+浪 O
+
+细 O
+迎 O
+风 O
+
+睡 O
+起 O
+篷 O
+窗 O
+日 O
+正 O
+中 O
+

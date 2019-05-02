@@ -1,0 +1,467 @@
+都 O
+城 O
+初 O
+秋 O
+和 O
+赵 O
+京 O
+府 O
+
+从 O
+来 O
+美 O
+玉 O
+价 O
+连 O
+城 O
+
+结 O
+佩 O
+乘 O
+风 O
+十 O
+二 O
+京 O
+
+携 O
+上 O
+峥 O
+嵘 O
+今 O
+有 O
+约 O
+
+好 O
+留 O
+彩 O
+笔 O
+调 O
+清 O
+平 O
+
+句 O
+
+故 O
+里 O
+千 O
+山 O
+隔 O
+
+终 O
+年 O
+一 O
+字 O
+无 O
+
+句 O
+
+明 O
+明 O
+采 O
+石 O
+兵 O
+前 O
+样 O
+
+参 O
+赞 O
+归 O
+来 O
+即 O
+近 O
+臣 O
+
+句 O
+
+米 O
+车 O
+已 O
+过 O
+尘 O
+迷 O
+路 O
+
+渔 O
+网 O
+才 O
+收 O
+月 O
+满 O
+船 O
+
+句 O
+
+寺 O
+钟 O
+城 O
+鼓 O
+两 O
+相 O
+知 O
+
+共 O
+醉 O
+烟 O
+关 O
+感 O
+慨 O
+多 O
+
+堤 O
+柳 O
+垂 O
+金 O
+春 O
+几 O
+许 O
+
+檐 O
+花 O
+鸣 O
+玉 O
+夜 O
+如 O
+何 O
+
+句 O
+
+海 O
+燕 O
+故 O
+人 O
+意 O
+
+杜 O
+鹃 O
+游 O
+子 O
+心 O
+
+句 O
+
+西 O
+风 O
+落 O
+叶 O
+长 O
+安 O
+梦 O
+
+晚 O
+节 O
+寒 O
+华 O
+老 O
+圃 O
+心 O
+
+秋 O
+日 O
+西 O
+湖 O
+
+几 O
+州 O
+陵 O
+变 O
+谷 O
+
+经 O
+月 O
+雨 O
+为 O
+霖 O
+
+世 O
+事 O
+今 O
+如 O
+此 O
+
+西 O
+风 O
+动 O
+客 O
+心 O
+
+句 O
+
+玉 O
+帐 O
+分 O
+兵 O
+赋 O
+采 O
+薇 O
+
+梅 O
+花 O
+吹 O
+雪 O
+上 O
+戎 O
+衣 O
+
+将 O
+军 O
+意 O
+气 O
+中 O
+江 O
+楫 O
+
+丞 O
+相 O
+功 O
+名 O
+采 O
+石 O
+矶 O
+
+寄 O
+友 O
+
+溪 O
+月 O
+知 O
+相 O
+忆 O
+
+江 O
+云 O
+约 O
+共 O
+吟 O
+
+夜 O
+船 O
+书 O
+一 O
+纸 O
+
+飞 O
+过 O
+赤 O
+枫 O
+林 O
+
+句 O
+
+皇 O
+帝 O
+当 O
+年 O
+第 O
+九 O
+春 O
+
+宫 O
+符 O
+仍 O
+诏 O
+刻 O
+麒 O
+麟 O
+
+句 O
+
+红 O
+云 O
+近 O
+处 O
+催 O
+班 O
+急 O
+
+只 O
+待 O
+春 O
+前 O
+奏 O
+凯 O
+归 O
+
+句 O
+
+落 O
+花 O
+水 O
+暖 O
+千 O
+船 O
+聚 O
+
+芳 O
+草 O
+春 O
+深 O
+一 O
+鹤 O
+归 O
+
+都 O
+城 O
+初 O
+秋 O
+和 O
+赵 O
+京 O
+府 O
+
+暑 O
+梦 O
+虫 O
+虫 O
+似 O
+醉 O
+中 O
+
+片 O
+云 O
+挟 O
+雨 O
+过 O
+长 O
+空 O
+
+不 O
+知 O
+秋 O
+色 O
+来 O
+多 O
+少 O
+
+分 O
+数 O
+暖 O
+凉 O
+卜 O
+晚 O
+风 O
+
+句 O
+
+金 O
+寒 O
+霜 O
+气 O
+山 O
+无 O
+虎 O
+
+剑 O
+动 O
+星 O
+光 O
+水 O
+有 O
+龙 O
+
+句 O
+
+蓬 O
+莱 O
+春 O
+思 O
+重 O
+云 O
+上 O
+
+江 O
+汉 O
+秋 O
+情 O
+十 O
+载 O
+前 O
+
+都 O
+城 O
+初 O
+秋 O
+和 O
+赵 O
+京 O
+府 O
+
+宇 O
+宙 O
+清 O
+愁 O
+望 O
+眼 O
+中 O
+
+谁 O
+将 O
+凉 O
+雨 O
+借 O
+龙 O
+公 O
+
+秋 O
+风 O
+夜 O
+入 O
+关 O
+河 O
+迥 O
+
+破 O
+贼 O
+红 O
+旗 O
+{ O
+左 O
+矢 O
+右 O
+先 O
+} O
+晓 O
+空 O
+
+赠 O
+卖 O
+墨 O
+吕 O
+云 O
+叔 O
+记 O
+陈 O
+烟 O
+山 O
+
+仙 O
+宗 O
+传 O
+诀 O
+自 O
+分 O
+明 O
+
+未 O
+数 O
+当 O
+年 O
+老 O
+树 O
+精 O
+
+一 O
+片 O
+紫 O
+云 O
+光 O
+滴 O
+滴 O
+
+丹 O
+稚 O
+成 O
+就 O
+几 O
+公 O
+卿 O
+

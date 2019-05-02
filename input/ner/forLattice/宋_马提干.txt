@@ -1,0 +1,130 @@
+涪 O
+州 O
+十 O
+韵 O
+
+地 O
+据 O
+襟 O
+喉 O
+重 O
+
+城 O
+依 O
+雉 O
+堞 O
+坚 O
+
+东 O
+渐 O
+邻 O
+楚 O
+分 O
+
+南 O
+望 O
+带 O
+夷 O
+边 O
+
+舟 O
+楫 O
+三 O
+川 O
+会 O
+
+封 O
+疆 O
+五 O
+郡 O
+连 O
+
+人 O
+烟 O
+繁 O
+峡 O
+内 O
+
+风 O
+物 O
+冠 O
+江 O
+前 O
+
+溪 O
+自 O
+吴 O
+公 O
+邑 O
+
+园 O
+由 O
+妃 O
+子 O
+传 O
+
+许 O
+雄 O
+共 O
+山 O
+峻 O
+
+马 O
+援 O
+壩 O
+相 O
+联 O
+
+滩 O
+急 O
+群 O
+潴 O
+沸 O
+
+崖 O
+高 O
+落 O
+马 O
+悬 O
+
+石 O
+鱼 O
+占 O
+岁 O
+稔 O
+
+铁 O
+{ O
+左 O
+忄 O
+右 O
+匮 O
+} O
+验 O
+晴 O
+天 O
+
+地 O
+煖 O
+冬 O
+无 O
+雪 O
+
+人 O
+贫 O
+岁 O
+不 O
+绵 O
+
+岩 O
+标 O
+山 O
+谷 O
+字 O
+
+观 O
+塑 O
+尔 O
+朱 O
+仙 O
+

@@ -1,0 +1,294 @@
+小 O
+孤 O
+山 O
+
+大 O
+孤 O
+之 O
+石 O
+衡 O
+且 O
+修 O
+
+青 O
+青 O
+长 O
+在 O
+湖 O
+之 O
+头 O
+
+小 O
+孤 O
+之 O
+石 O
+锐 O
+以 O
+高 O
+
+削 O
+立 O
+江 O
+崖 O
+当 O
+洪 O
+涛 O
+
+滔 O
+滔 O
+逝 O
+水 O
+东 O
+流 O
+去 O
+
+两 O
+石 O
+崔 O
+嵬 O
+屹 O
+天 O
+柱 O
+
+蜀 O
+巴 O
+之 O
+源 O
+浩 O
+沄 O
+沄 O
+
+壮 O
+哉 O
+此 O
+诚 O
+江 O
+海 O
+门 O
+
+鸿 O
+庞 O
+稍 O
+见 O
+土 O
+宇 O
+广 O
+
+疏 O
+凿 O
+方 O
+知 O
+夏 O
+禹 O
+勤 O
+
+名 O
+山 O
+大 O
+川 O
+神 O
+所 O
+主 O
+
+过 O
+者 O
+震 O
+惊 O
+谁 O
+敢 O
+侮 O
+
+云 O
+何 O
+作 O
+庙 O
+向 O
+荒 O
+壖 O
+
+抟 O
+土 O
+娉 O
+婷 O
+像 O
+龙 O
+女 O
+
+篙 O
+师 O
+贾 O
+客 O
+尔 O
+何 O
+知 O
+
+坎 O
+坎 O
+伐 O
+鼓 O
+持 O
+豚 O
+蹄 O
+
+倚 O
+篷 O
+清 O
+坐 O
+渔 O
+歌 O
+起 O
+
+日 O
+暮 O
+但 O
+见 O
+崖 O
+鹰 O
+飞 O
+
+危 O
+峰 O
+屹 O
+立 O
+长 O
+江 O
+上 O
+
+势 O
+折 O
+华 O
+胥 O
+限 O
+百 O
+蛮 O
+
+鳌 O
+背 O
+孤 O
+撑 O
+青 O
+玉 O
+柱 O
+
+斗 O
+杓 O
+斜 O
+插 O
+翠 O
+云 O
+鬟 O
+
+月 O
+生 O
+西 O
+海 O
+初 O
+三 O
+夜 O
+
+潮 O
+到 O
+东 O
+吴 O
+第 O
+一 O
+关 O
+
+安 O
+得 O
+扁 O
+舟 O
+多 O
+载 O
+酒 O
+
+放 O
+歌 O
+击 O
+楫 O
+浪 O
+花 O
+间 O
+
+小 O
+孤 O
+索 O
+同 O
+黄 O
+士 O
+殷 O
+同 O
+赋 O
+
+缆 O
+舟 O
+宿 O
+松 O
+县 O
+
+我 O
+友 O
+爱 O
+奇 O
+观 O
+
+爱 O
+登 O
+小 O
+孤 O
+山 O
+
+千 O
+里 O
+瞰 O
+江 O
+岸 O
+
+窄 O
+塞 O
+峡 O
+浪 O
+喧 O
+
+微 O
+茫 O
+渚 O
+沙 O
+漫 O
+
+临 O
+深 O
+看 O
+泳 O
+鱼 O
+
+思 O
+归 O
+闻 O
+啼 O
+雁 O
+
+茫 O
+茫 O
+吊 O
+千 O
+古 O
+
+俯 O
+仰 O
+亦 O
+嗟 O
+叹 O
+
+君 O
+侯 O
+金 O
+玉 O
+章 O
+
+贻 O
+我 O
+舟 O
+中 O
+玩 O
+

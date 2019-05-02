@@ -1,0 +1,471 @@
+句 O
+
+鹤 O
+料 O
+署 O
+文 O
+移 O
+
+鮆 O
+场 O
+收 O
+赋 O
+算 O
+
+玉 O
+堂 O
+壁 O
+画 O
+
+忆 O
+昔 O
+唐 O
+家 O
+扃 O
+禁 O
+地 O
+
+粉 O
+壁 O
+曲 O
+龙 O
+闻 O
+曩 O
+记 O
+
+承 O
+明 O
+意 O
+象 O
+今 O
+顿 O
+还 O
+
+永 O
+与 O
+鸾 O
+坡 O
+为 O
+故 O
+事 O
+
+句 O
+
+神 O
+归 O
+梁 O
+小 O
+庙 O
+
+礼 O
+袝 O
+汉 O
+馀 O
+陵 O
+
+句 O
+
+奇 O
+材 O
+剑 O
+客 O
+当 O
+前 O
+队 O
+
+丽 O
+赋 O
+骚 O
+人 O
+托 O
+后 O
+车 O
+
+句 O
+
+海 O
+国 O
+瓯 O
+乡 O
+浙 O
+水 O
+东 O
+
+暂 O
+烦 O
+良 O
+守 O
+此 O
+凭 O
+熊 O
+
+句 O
+
+云 O
+间 O
+乍 O
+阕 O
+仙 O
+韶 O
+曲 O
+
+禁 O
+里 O
+还 O
+过 O
+叡 O
+武 O
+楼 O
+
+句 O
+
+楚 O
+泽 O
+伤 O
+春 O
+怨 O
+鶗 O
+鴃 O
+
+长 O
+安 O
+索 O
+米 O
+愧 O
+侏 O
+儒 O
+
+句 O
+
+四 O
+时 O
+常 O
+有 O
+烟 O
+棚 O
+合 O
+
+三 O
+月 O
+犹 O
+无 O
+菜 O
+甲 O
+生 O
+
+题 O
+义 O
+门 O
+胡 O
+氏 O
+华 O
+林 O
+书 O
+院 O
+
+六 O
+阙 O
+表 O
+门 O
+荣 O
+
+华 O
+林 O
+地 O
+气 O
+灵 O
+
+乌 O
+衣 O
+王 O
+氏 O
+族 O
+
+玉 O
+树 O
+谢 O
+家 O
+庭 O
+
+邹 O
+鲁 O
+多 O
+亟 O
+犬 O
+
+荀 O
+陈 O
+更 O
+聚 O
+星 O
+
+怡 O
+神 O
+虚 O
+室 O
+白 O
+
+讲 O
+学 O
+夜 O
+灯 O
+青 O
+
+篇 O
+籍 O
+巾 O
+箱 O
+满 O
+
+弦 O
+歌 O
+里 O
+巷 O
+听 O
+
+兰 O
+堂 O
+时 O
+合 O
+宴 O
+
+槐 O
+市 O
+正 O
+谈 O
+经 O
+
+丹 O
+井 O
+通 O
+仙 O
+穴 O
+
+西 O
+山 O
+接 O
+翠 O
+屏 O
+
+烟 O
+萝 O
+皆 O
+胜 O
+概 O
+
+何 O
+日 O
+扣 O
+岩 O
+扃 O
+
+上 O
+元 O
+以 O
+修 O
+史 O
+促 O
+成 O
+书 O
+特 O
+免 O
+扈 O
+從 O
+因 O
+赋 O
+
+属 O
+书 O
+不 O
+得 O
+陪 O
+春 O
+豫 O
+
+结 O
+客 O
+何 O
+妨 O
+事 O
+夜 O
+游 O
+
+还 O
+胜 O
+南 O
+宫 O
+假 O
+宗 O
+伯 O
+
+重 O
+扉 O
+深 O
+锁 O
+暗 O
+登 O
+楼 O
+
+送 O
+僧 O
+归 O
+护 O
+国 O
+寺 O
+
+台 O
+岭 O
+分 O
+灯 O
+契 O
+上 O
+机 O
+
+政 O
+庭 O
+传 O
+教 O
+及 O
+禅 O
+扉 O
+
+供 O
+开 O
+薄 O
+馔 O
+持 O
+盂 O
+至 O
+
+梦 O
+忆 O
+霞 O
+标 O
+振 O
+策 O
+归 O
+
+吟 O
+砚 O
+自 O
+澄 O
+晨 O
+磬 O
+彻 O
+
+经 O
+窗 O
+间 O
+掩 O
+夕 O
+香 O
+微 O
+
+袍 O
+纹 O
+迥 O
+夺 O
+岩 O
+芝 O
+色 O
+
+猊 O
+座 O
+人 O
+天 O
+喜 O
+重 O
+围 O
+
+送 O
+何 O
+水 O
+部 O
+蒙 O
+出 O
+牧 O
+袁 O
+州 O
+
+梧 O
+楸 O
+初 O
+谢 O
+楚 O
+天 O
+凉 O
+
+亲 O
+见 O
+腰 O
+间 O
+换 O
+印 O
+囊 O
+
+渔 O
+浦 O
+雾 O
+浓 O
+沈 O
+叠 O
+鼓 O
+
+湓 O
+江 O
+风 O
+急 O
+下 O
+危 O
+樯 O
+
+帝 O
+城 O
+云 O
+表 O
+瞻 O
+龙 O
+首 O
+
+故 O
+国 O
+星 O
+边 O
+认 O
+剑 O
+光 O
+
+退 O
+食 O
+斋 O
+中 O
+多 O
+燕 O
+喜 O
+
+暖 O
+泉 O
+春 O
+酿 O
+泛 O
+瑶 O
+觞 O
+
+句 O
+
+江 O
+涵 O
+帝 O
+子 O
+翚 O
+飞 O
+阁 O
+
+山 O
+际 O
+真 O
+君 O
+鹤 O
+驭 O
+天 O
+
