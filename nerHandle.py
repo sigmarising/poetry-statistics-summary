@@ -201,9 +201,6 @@ def main():
         if not os.path.exists(output_dynasty_path):
             os.makedirs(output_dynasty_path)
         with open(os.path.join(output_dynasty_path, author + ".json"), 'w+', encoding='utf-8', errors='ignore') as f:
-            result["location"] = list(set(result["location"]))
-            result["person"] = list(set(result["person"]))
-            result["time"] = list(set(result["time"]))
             json.dump(result, f, ensure_ascii=False, indent=4)
 
     print(ColorLogDecorator.green("- DONE -"))
