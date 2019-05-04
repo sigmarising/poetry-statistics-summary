@@ -199,7 +199,8 @@ def main():
             if len(temp_word) != 0:
                 __handle_detail(temp_word, result, state)
 
-        with open(os.path.join(output_path, file), 'w+', encoding='utf-8', errors='ignore') as f:
+        output_file_path = os.path.join(output_path, str(file.split('.')[0]) + ".json")
+        with open(output_file_path, 'w+', encoding='utf-8', errors='ignore') as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
 
     print(ColorLogDecorator.green("- DONE -"))
