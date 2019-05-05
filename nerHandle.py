@@ -56,11 +56,12 @@ def main():
     input_dir_text = os.path.join(input_dir_top, 'forLattice')
     input_dir_tag = os.path.join(input_dir_top, 'tag')
     output_path = os.path.join(settings.OUTPUT_DIR, 'nerResult')
-    if not os.path.exists(output_path):
-        os.makedirs(output_path)
 
+    all_count = len(os.listdir(input_dir_tag))
+    pointer_now = 0
     for file in os.listdir(input_dir_tag):
-        print(ColorLogDecorator.blue("Handling: " + file))
+        pointer_now += 1
+        print(ColorLogDecorator.blue("Handling {0:.2f}%: {1}".format(pointer_now / all_count, file)))
 
         dynasty = file.split('_')[0]
         author = str(file.split('_')[1]).split('.')[0]
@@ -199,7 +200,10 @@ def main():
             if len(temp_word) != 0:
                 __handle_detail(temp_word, result, state)
 
-        output_file_path = os.path.join(output_path, str(file.split('.')[0]) + ".json")
+        dynasty_path = os.path.join(output_path, dynasty)
+        if not os.path.exists(dynasty_path):
+            os.makedirs(dynasty_path)
+        output_file_path = os.path.join(dynasty_path, str(file.split('.')[0]) + ".json")
         with open(output_file_path, 'w+', encoding='utf-8', errors='ignore') as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
 
