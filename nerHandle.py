@@ -61,7 +61,7 @@ def main():
     pointer_now = 0
     for file in os.listdir(input_dir_tag):
         pointer_now += 1
-        print(ColorLogDecorator.blue("Handling {0:.2f}%: {1}".format(pointer_now / all_count, file)))
+        print(ColorLogDecorator.blue("Handling {0:.2f}%: {1}".format(pointer_now / all_count * 100, file)))
 
         dynasty = file.split('_')[0]
         author = str(file.split('_')[1]).split('.')[0]
