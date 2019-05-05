@@ -203,7 +203,7 @@ def main():
         dynasty_path = os.path.join(output_path, dynasty)
         if not os.path.exists(dynasty_path):
             os.makedirs(dynasty_path)
-        output_file_path = os.path.join(dynasty_path, str(file.split('.')[0]) + ".json")
+        output_file_path = os.path.join(dynasty_path, author + ".json")
         with open(output_file_path, 'w+', encoding='utf-8', errors='ignore') as f:
             json.dump(result, f, ensure_ascii=False, indent=4)
 
