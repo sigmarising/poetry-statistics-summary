@@ -1,3 +1,5 @@
+INPUT_DIR = 'input/'
+
 # 输出目录
 OUTPUT_DIR = 'output/'
 
