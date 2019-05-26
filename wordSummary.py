@@ -1,3 +1,9 @@
+"""
+File: wordSummary.py
+Desc:
+    脚本 - 用于各个朝代的统计词频
+"""
+
 import os
 import json
 import settings
@@ -6,8 +12,7 @@ from module.ColorLogDecorator import ColorLogDecorator
 
 INPUT_DIR = os.path.join(settings.INPUT_DIR, 'segment')
 OUTPUT_DIR = os.path.join(settings.OUTPUT_DIR, 'segmentSummary')
-TOP_N = 100
-FLUSH_LEN = 26
+TOP_N = 300
 
 
 def main():

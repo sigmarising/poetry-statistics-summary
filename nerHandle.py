@@ -1,3 +1,10 @@
+"""
+File: nerHandle.py
+Desc:
+    脚本 - 用于将使用 Lattice Model 运行过的命名实体识别结果
+    转化为具体形象的地点、人名、地名
+"""
+
 import os
 import json
 import settings

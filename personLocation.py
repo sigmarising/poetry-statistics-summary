@@ -1,3 +1,10 @@
+"""
+File: personLocation.py
+Desc:
+    脚本 - 用于统计各个朝代的
+    诗词作品中提及到的人物、地点 数量
+"""
+
 import os
 import json
 import settings
